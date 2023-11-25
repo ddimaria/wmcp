@@ -83,4 +83,96 @@ News of an unexpected inheritance will most likely lead to an increase in perman
 
 TODO
 
+## Life-Cycle Framework
+
+### Returns over the Life-Cycle
+
+#### Rates of Return
+
+Returns on assets are in the form of Capital Gains (increase in value) and Income (interest/dividends). The **Rate of Return** is the return expressed as a percentage of the value of an asset.  These rates are unknown at the time the asset is purchased.
+
+The **Real Rate of Return** is the inflation-adjusted rate of return.  **Inflation** is the increase in the cost of goods and services over time.
+
+Higher rates of return improve the lifestyle of **savers** but reduce the lifestyle of **borrowers**.  
+
+A positive real rate of return reduces the cost of buying income in the future.
+
+### Uncertain Returns and Utility
+
+Should one pay $3,000 has a 50% chance of either returning $5,000 or $1,000 in 1 year?
+
+Calcluate average utility
+```math
+// ln = natural log
+// we take the average b/c there is a 50% chance of either return happening
+
+Avarage Utility = (ln(5000) + ln(1000))/2 = (8.52 + 6.91)2 = 7.72
+```
+
+Calculate the expected future amount
+```math
+// we times by 0.5 b/c there is a 50% chance of either return happening
+
+Expected Future Amount = .5(5000) + 0.5(1000) = $3,000
+```
+
+Calculate the amount of spending in 1 year to have a 50% probability of either outcome
+
+e<sup>7,72</sup> = $2,253
+
+
+Should we pay $3000? No, we should pay $2,253.
+
+#### Financial Investments in Utility Theory
+
+**Risk Averse** investors prefer consistent payouts vs volatile ones.  A **Concave Utility Function** is used to assess risk. 
+
+**Certainty Equivalence** is a guaranteed return that someone would accept now, rather than taking a chance on a higher, but uncertain, return in the future.  Thus, for a risk-averse individuals to accepts some risk (uncertainty), they need to be presented with higher returns.
+
+Greater variation in the returns of an asset results in a lower price today.  Safe assets have a higher price today.
+
+### Goal Flexibility
+
+Goal based investing matches the risk of a portfolio to the amount of variability the client is willing to take on.
+
+#### Return on Investment Calculation
+
+$20,000 to invest on a safe asset earning 2% over 15 years:
+
+$20,000 * (1 + 0.02)<sup>15</sup> = $20,000 * 1.34586833832413 = $26,917
+
+$26,917 is the furure value of the $20,000 investment.
+
+To limit the downside risk while still having the potential for upsides, a combination of risk-free and risky assets can be chosen.
+
+#### Risk Tolerance vs Risk Capacity
+
+Risk tolerance isn't a great indicator of risk as tolerance changes with the market (up market = high risk tolerance, down market = low risk tolerance).
+
+**Risk Capacity** is the risk somone can take on as still live within their current lifestyle (vs their sustainable living standard).  Having a current lifestyle below one's sustainable living standard is living below or within their means.
+
+The more flexible one can be in future spending, the higher risk they can take on.
+
+### Risk Premium
+
+**Risk Premium** is expected increase in future spending for taking some risk.  It's the return minus the risk-free rate of return (of a risk-free asset).
+
+There is no **expected return** of a risk asset since there is variance in the array of possible returns (volatility).
+
+Some risky assets don't have high potential payouts.  **Informed Market Participants** help pricing reflect the risk of an asset.
+
+Safe Asset: Expected return of $5 on $100.  5%
+Risky Asset A: 50% chance of $0 return, 50% chance of $15 return on $100.  ((0.5 * 0) + (0.5 * .15))/2 = 7.5%
+Risk Premium of Risky Asset A = 7.5% - 5% = 2.5%
+
+Risky Asset B: 50% chance of -$10 return, 50% chance of $90 return on $100.
+Minimum Upside Payout: (0.5 * -.10) + (0.5 * x) = 0.075 
+  = -0.05 + 0.5x = 0.075 
+  = 0.5x = 0.125
+  = 25%
+So, the upside payout of Risky Asset B would need to be at least $125.
+
+
+### Risk Preferences
+
 
