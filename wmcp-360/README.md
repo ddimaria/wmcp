@@ -68,12 +68,11 @@ Working in an occupation whose profits are closely tied to interest rates is a m
 
 Bequests (leaving a legacy) should be deducted from lifetime permanent wealth.
 
-```math
-(lifetime wealth - bequest)/planning horizon
-
-No bequest: $3,000,000/50 years = $60,000/year
-Including bequest: $3,000,000 - 500,000/50 years = $50,000/year
-```
+> (lifetime wealth - bequest)/planning horizon
+> 
+> No bequest: $3,000,000/50 years = $60,000/year
+> 
+> Including bequest: $3,000,000 - 500,000/50 years = $50,000/year
 
 Since we cannot guarantee a planning horizon (life expectancy), life insurance can be used to guarantee a legacy amount via Risk Pooling.
 
@@ -101,24 +100,22 @@ A positive real rate of return reduces the cost of buying income in the future.
 
 Should one pay $3,000 has a 50% chance of either returning $5,000 or $1,000 in 1 year?
 
-Calcluate average utility
-```math
-// ln = natural log
-// we take the average b/c there is a 50% chance of either return happening
+Calcluate average utility:
 
-Avarage Utility = (ln(5000) + ln(1000))/2 = (8.52 + 6.91)2 = 7.72
-```
+> ln = natural log
+> 
+> we take the average b/c there is a 50% chance of either return happening
+>
+> Avarage Utility = (ln(5000) + ln(1000))/2 = (8.52 + 6.91)2 = 7.72
 
 Calculate the expected future amount
-```math
-// we times by 0.5 b/c there is a 50% chance of either return happening
-
-Expected Future Amount = .5(5000) + 0.5(1000) = $3,000
-```
+> we times by 0.5 b/c there is a 50% chance of either return happening
+> 
+>Expected Future Amount = .5(5000) + 0.5(1000) = $3,000
 
 Calculate the amount of spending in 1 year to have a 50% probability of either outcome
 
-e<sup>7,72</sup> = $2,253
+> e<sup>7,72</sup> = $2,253
 
 
 Should we pay $3000? No, we should pay $2,253.
@@ -137,11 +134,11 @@ Goal based investing matches the risk of a portfolio to the amount of variabilit
 
 #### Return on Investment Calculation
 
-$20,000 to invest on a safe asset earning 2% over 15 years:
-
-$20,000 * (1 + 0.02)<sup>15</sup> = $20,000 * 1.34586833832413 = $26,917
-
-$26,917 is the furure value of the $20,000 investment.
+> $20,000 to invest on a safe asset earning 2% over 15 years:
+> 
+> $20,000 * (1 + 0.02)<sup>15</sup> = $20,000 * 1.34586833832413 = $26,917
+> 
+> $26,917 is the furure value of the $20,000 investment.
 
 To limit the downside risk while still having the potential for upsides, a combination of risk-free and risky assets can be chosen.
 
@@ -161,15 +158,20 @@ There is no **expected return** of a risk asset since there is variance in the a
 
 Some risky assets don't have high potential payouts.  **Informed Market Participants** help pricing reflect the risk of an asset.
 
-Safe Asset: Expected return of $5 on $100.  5%
-Risky Asset A: 50% chance of $0 return, 50% chance of $15 return on $100.  ((0.5 * 0) + (0.5 * .15))/2 = 7.5%
-Risk Premium of Risky Asset A = 7.5% - 5% = 2.5%
+> Safe Asset: Expected return of $5 on $100.  5%
+> 
+> Risky Asset A: 50% chance of $0 return, 50% chance of $15 return on $100.  ((0.5 * 0) + (0.5 * .15))/2 = 7.5%
+> 
+> Risk Premium of Risky Asset A = 7.5% - 5% = 2.5%
 
-Risky Asset B: 50% chance of -$10 return, 50% chance of $90 return on $100.
-Minimum Upside Payout: (0.5 * -.10) + (0.5 * x) = 0.075 
-  = -0.05 + 0.5x = 0.075 
-  = 0.5x = 0.125
-  = 25%
+> Risky Asset B: 50% chance of -$10 return, 50% chance of $90 return on $100.
+> 
+> Minimum Upside Payout: (0.5 * -.10) + (0.5 * x) = 0.075 
+  > 
+  > = -0.05 + 0.5x = 0.075 
+  > 
+  > = 0.5x = 0.125 = 25%
+  
 So, the upside payout of Risky Asset B would need to be at least $125.
 
 
@@ -202,4 +204,5 @@ An **Insurance Load** is the difference between the premium and the average expe
 As the cost of insurance increases, expected investor wealth is decreased.  High insurance can outweigh it's utility.
 
 Advisors should **always** consider risk aversion.  An investor's ability to withstand a loss informs the necessity of a contingent claim (insurance).  As investor wealth increases, the less chance that a catastrophic event will impact total wealth.
+
 
