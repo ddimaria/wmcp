@@ -175,4 +175,31 @@ So, the upside payout of Risky Asset B would need to be at least $125.
 
 ### Risk Preferences
 
+**Risk Tolerance** is the willingness to accept volatility in returns.
+
+**Risk Aversion** is the avoidance of risk, or a low risk tolerance.
+
+A **constant absolute risk aversion** investor is one who holds on to the same percentage of risky assets independent of increases or decreases in wealth.
+
+**Decreasing absolute risk aversion** is the preference to hold on to a higher percentage of risky assets as one's wealth increases.  Thus, wealthier investors tend to have a higher **risk capacity**.
+
+**Modern Portfolio Theory** details that assets with a higher standard deviation of returns (risky assets, like stocks) yield a higher expected return and lower risk assets (e.g. bonds) have a lower return.
+
+High risk tolerant investors prefer to have more assets in stocks that those who are less risk tolerant.
+
+**Prospect Theory** states that investors care about relative wealth and a starting porfolio matters.  This theory assumes that investors are loss averse, so they have a higher sensitivity to losses compared to gains.
+
+**The Certainty Effect** is the preference for investors to lock-in less risky (and thus lower) gains even in the presence of higher risk/higher returns.  Older investors are more suseptible to the certainty effect, and are more likely to seek risk (e.g. gamble) to avoid taking a loss.
+
+### Risk Management
+
+A **Contingent Claims** is a special type of financial assets that pay out when a negative, unexpected event occurs (e.g. homeowner's insurance). The expected payout must be less than the price of the asset.  Contingent Claims (insurance) helps an investor meet their financial goals by avoiding a devastating expense (smooths spending via risk pooling).
+
+An **Insurance Load** is the difference between the premium and the average expected claim.  It is the cost of providing insurance.
+
+#### Risk Retention Decisions
+
+As the cost of insurance increases, expected investor wealth is decreased.  High insurance can outweigh it's utility.
+
+Advisors should **always** consider risk aversion.  An investor's ability to withstand a loss informs the necessity of a contingent claim (insurance).  As investor wealth increases, the less chance that a catastrophic event will impact total wealth.
 
