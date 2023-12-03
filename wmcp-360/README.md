@@ -171,7 +171,7 @@ Some risky assets don't have high potential payouts.  **Informed Market Particip
   > = -0.05 + 0.5x = 0.075 
   > 
   > = 0.5x = 0.125 = 25%
-  
+
 So, the upside payout of Risky Asset B would need to be at least $125.
 
 
@@ -205,4 +205,32 @@ As the cost of insurance increases, expected investor wealth is decreased.  High
 
 Advisors should **always** consider risk aversion.  An investor's ability to withstand a loss informs the necessity of a contingent claim (insurance).  As investor wealth increases, the less chance that a catastrophic event will impact total wealth.
 
+### Mortality and Longevity Risks
 
+**Mortality Risk** is the possibility of losing human capital through premature death.  The probability is low for someone dying young, making life insurance (contingent claim) for young worker relatively cheap.
+
+Cost of insuring a 46 year old man for 1 year.
+
+> Probability of dying at 46 is 0.1087% or 0.001087
+>
+> Assume earnings of $150,000/year (nominal) for the next 20 years, the total value of human capital is 20 * $150,000 = $3,000,000.
+>
+> Actuarially Fair Price = Value of Human Capital * Probability of Dying
+>
+> $3,000,000 *  0.001087 = $3,261
+
+Insurance companies charge a fee, called a **load**.  
+
+> Market Premium = (Actuarially Fair Price)/(1 - Insurance Load)
+>
+> Assuming a 10% load: $3,261/(1 - .1) = $3,623
+
+As workers get older, their chance of dying increases, and the total value of their human capital decreases.  In general, Market Premiums increase as workers get older.
+
+Protecting against mortality risk involves reducing consumption each year by the yearly premium amount (Market Premium).
+
+**Longevity Risk** is the risk of outliving retirement savings.
+
+The median longevity ages is 85 for single US males.  We use a longevity to estimate withdraws from accounts.  There is a 27.8% chance that a single male will live to 90 and a 10% chance that he lives to age 95.
+
+**Annuities** hedge against longevity risk.
