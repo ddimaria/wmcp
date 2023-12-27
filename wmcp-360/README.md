@@ -1,5 +1,44 @@
 # WMCP360: Introduction to Goal-Based Planning
 
+- [WMCP360: Introduction to Goal-Based Planning](#wmcp360-introduction-to-goal-based-planning)
+  - [Lifetime Role of Wealth](#lifetime-role-of-wealth)
+    - [Life-Cycle Theory](#life-cycle-theory)
+      - [Utility Theory](#utility-theory)
+    - [Consumption Smoothing](#consumption-smoothing)
+      - [Planning Horizon](#planning-horizon)
+    - [Utility Maximization](#utility-maximization)
+    - [Income Volatility](#income-volatility)
+      - [Disability and Life Risks](#disability-and-life-risks)
+        - [Disability Risks](#disability-risks)
+        - [Life Risks](#life-risks)
+    - [Life-Cycle Uncertainty](#life-cycle-uncertainty)
+      - [Bequests](#bequests)
+      - [Lifespan Uncertainty](#lifespan-uncertainty)
+  - [Life-Cycle Framework](#life-cycle-framework)
+    - [Returns over the Life-Cycle](#returns-over-the-life-cycle)
+      - [Rates of Return](#rates-of-return)
+    - [Uncertain Returns and Utility](#uncertain-returns-and-utility)
+      - [Financial Investments in Utility Theory](#financial-investments-in-utility-theory)
+    - [Goal Flexibility](#goal-flexibility)
+      - [Return on Investment Calculation](#return-on-investment-calculation)
+      - [Risk Tolerance vs Risk Capacity](#risk-tolerance-vs-risk-capacity)
+    - [Risk Premium](#risk-premium)
+    - [Risk Preferences](#risk-preferences)
+    - [Risk Management](#risk-management)
+      - [Risk Retention Decisions](#risk-retention-decisions)
+    - [Mortality and Longevity Risks](#mortality-and-longevity-risks)
+    - [Property, Liability, and LTC Insurance](#property-liability-and-ltc-insurance)
+      - [Rational Decisions about Property and Liability Insurance](#rational-decisions-about-property-and-liability-insurance)
+      - [Property Insurance](#property-insurance)
+      - [Disability Insurance](#disability-insurance)
+      - [Liability Insurance](#liability-insurance)
+      - [Umbrella Liability Insurance](#umbrella-liability-insurance)
+      - [Long-Term Care and Wealth Protection](#long-term-care-and-wealth-protection)
+        - [Approaches to Meeting LTC Risks](#approaches-to-meeting-ltc-risks)
+        - [Types of LTC Policies](#types-of-ltc-policies)
+        - [The Best Time to Purchase LTC Insurance](#the-best-time-to-purchase-ltc-insurance)
+
+
 ## Lifetime Role of Wealth
 
 ### Life-Cycle Theory
@@ -102,6 +141,8 @@ Should one pay $3,000 has a 50% chance of either returning $5,000 or $1,000 in 1
 
 Calcluate average utility:
 
+**NOTE: ALL Calculations below are important to memorize**
+
 > ln = natural log
 > 
 > we take the average b/c there is a 50% chance of either return happening
@@ -152,9 +193,9 @@ The more flexible one can be in future spending, the higher risk they can take o
 
 ### Risk Premium
 
-**Risk Premium** is expected increase in future spending for taking some risk.  It's the return minus the risk-free rate of return (of a risk-free asset).
+**Risk Premium** is expected increase in future spending for taking some risk.  It's the return minus the risk-free rate of return (of a risk-free asset).  **It is the expected return above and beyond the risk-free rate of return available on safe assets.**
 
-There is no **expected return** of a risk asset since there is variance in the array of possible returns (volatility).
+There is no **expected return** of a risky asset since there is variance in the array of possible returns (volatility).
 
 Some risky assets don't have high potential payouts.  **Informed Market Participants** help pricing reflect the risk of an asset.
 
@@ -211,6 +252,8 @@ Advisors should **always** consider risk aversion.  An investor's ability to wit
 
 Cost of insuring a 46 year old man for 1 year.
 
+**NOTE: Calculation below is important to memorize**
+
 > Probability of dying at 46 is 0.1087% or 0.001087
 >
 > Assume earnings of $150,000/year (nominal) for the next 20 years, the total value of human capital is 20 * $150,000 = $3,000,000.
@@ -218,6 +261,7 @@ Cost of insuring a 46 year old man for 1 year.
 > Actuarially Fair Price = Value of Human Capital * Probability of Dying
 >
 > $3,000,000 *  0.001087 = $3,261
+
 
 Insurance companies charge a fee, called a **load**.  
 
@@ -234,3 +278,65 @@ Protecting against mortality risk involves reducing consumption each year by the
 The median longevity ages is 85 for single US males.  We use a longevity to estimate withdraws from accounts.  There is a 27.8% chance that a single male will live to 90 and a 10% chance that he lives to age 95.
 
 **Annuities** hedge against longevity risk.
+
+### Property, Liability, and LTC Insurance
+
+**Idiosyncratic risk** refers to the risk that an investment will experience a decline in value due to factors that are unique to that particular investment. Contingent claims in property and liability can help mitigate idinsyncratic risks.
+
+As the number of possible negative events occuring (**risk exposure**) increases, insuring for individual events can negatively impact future wealth.  
+
+> Negative return on an insurance policy (**insurance load**) = premium paid - claims paid.
+
+For modest losses, it may be best for the individual to absorb the cost rather than get insurance for it.
+
+#### Rational Decisions about Property and Liability Insurance
+
+How do we make rational decisions about insurance:
+
+1. Identify the most significant loss exposures. Property loss is limited to the price of the property, but liability loss can be unlimited.  Thus, liability risk should be mitigated by insturance.
+1. Understand the load of the insurance product.
+1. Understand the insurance deductables. **Risk retention limit** is the amount below which the insurer will retain risks.
+1. Have emergency funds to cover multiple insurance product deductables in catastrhophic events that affect multiple policies.
+1. Wealthier individuals should hold more liquid assets in order to increase risk retention limits.
+1. More loss averse individuals will likely want lower deductibles.
+
+**Loss Exposure** is the possibility that a loss can occur.  A distinction exists between *property loss exposure** and **liability loss exposure**.  Property loss happens when propery is actually damaged while liability loss is incurred whenever a claim is submitted since there are significant costs associated with defending a claim.
+
+#### Property Insurance
+
+Property insurance only covers actual loss (aka ***covered peril**).  2 main categories: Real Property (land and anything on the land) and Personal Property (property other than Real Property).
+
+#### Disability Insurance
+
+**Disability risk** increases as individuals get older.  **Long-term disability** is a disability lasting more thn 90 days.
+
+#### Liability Insurance
+
+Liability insurance covers defense costs and claims payouts.  **Compulsary damages** reimburse a claimant who suffered a loss.  **Punitive damages** punishes someone whose conduct causes another to suffer a loss.  Liability insurnace typically covers compulsary damages.
+
+#### Umbrella Liability Insurance
+
+Umbrella Liability Insurance protects against the possibility of losing personal capital and other assets by serving as a barrier between wealth and lawsuits.  It provides high limits of excess liability coverage and broader types of coverage well beyond basic underlying home and auto policies.
+
+The **Self-Insured Retention Limit (SIR Limit)** is a deductible that is required for a policy owner to pay in the event that an underlying policy doesn't cover (aka **Drop-Down Coverage**).
+
+#### Long-Term Care and Wealth Protection
+
+Up to 70% of baby boomers will require Long-Term Care (LTC).  Women have more LTC risks than men.  LTC also affects wealthier individuals more.
+
+##### Approaches to Meeting LTC Risks
+
+The focus should be on an infrequent, but expensive, LTC event.  Larger elimination periods (time before policy kicks in) will be less expensive and transfer catastrophic loos risk to the insurance company.
+
+Medicaid is an option, but has many limitations and requirements that drain capital and may involve inferior services.
+
+##### Types of LTC Policies
+
+* **Single coverage contracts** enable spouses to obtain coverage at different levels.
+* **Shared coverage contracts** cover both spouses and unused LTC benefits of a deceased spouse carry over to the living spouse.  These contracts increase the chances of the spouses maximizing benfits.
+* **Long-term care partnership programs** protect assets from Medicaid spenddown requirements.
+* **Fixed inflationary benefits** protect against currency and medical cost inflation.
+
+##### The Best Time to Purchase LTC Insurance
+
+LTC policies are cheaper when one is younger (policies at 60 are 2x what they are at 50).  Life insurance products offer hybrid policies that add LTC riders.
