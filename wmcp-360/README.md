@@ -37,6 +37,25 @@
         - [Approaches to Meeting LTC Risks](#approaches-to-meeting-ltc-risks)
         - [Types of LTC Policies](#types-of-ltc-policies)
         - [The Best Time to Purchase LTC Insurance](#the-best-time-to-purchase-ltc-insurance)
+  - [Value of Goal-Based Approach](#value-of-goal-based-approach)
+    - [Elements of Financial Goals](#elements-of-financial-goals)
+    - [Life-Cycle Goals](#life-cycle-goals)
+    - [Risks and Goals](#risks-and-goals)
+    - [Liquidity and Goals](#liquidity-and-goals)
+    - [Goal Prioritization](#goal-prioritization)
+      - [Retirement example:](#retirement-example)
+      - [Goals and TVM](#goals-and-tvm)
+      - [Payment Timing](#payment-timing)
+      - [Amortized Loans](#amortized-loans)
+      - [Unequal Payments](#unequal-payments)
+      - [Net Present Value](#net-present-value)
+    - [Social Security Benefits](#social-security-benefits)
+      - [Claiming Age](#claiming-age)
+      - [Eligilibility](#eligilibility)
+      - [Calculating AIME](#calculating-aime)
+      - [Calculating PIA](#calculating-pia)
+      - [Protected Social Security Benefit](#protected-social-security-benefit)
+      - [Receiving Benefits](#receiving-benefits)
 
 
 ## Lifetime Role of Wealth
@@ -156,7 +175,11 @@ Calculate the expected future amount
 
 Calculate the amount of spending in 1 year to have a 50% probability of either outcome
 
-> e<sup>7,72</sup> = $2,253
+> e<sup>7.72</sup> = $2,253
+
+How much would a client pay for a risky investment with a 50% probability of being worth $500 and 50% of being worth $1,000 assuming a natural log utility function?
+
+> (ln(5000) + ln(1000))/2 = 6.5611,  e<sup>7.72</sup> = $707.11
 
 
 Should we pay $3000? No, we should pay $2,253.
@@ -340,3 +363,203 @@ Medicaid is an option, but has many limitations and requirements that drain capi
 ##### The Best Time to Purchase LTC Insurance
 
 LTC policies are cheaper when one is younger (policies at 60 are 2x what they are at 50).  Life insurance products offer hybrid policies that add LTC riders.
+
+## Value of Goal-Based Approach
+
+### Elements of Financial Goals
+
+3 main elements to financial goals:
+
+1. Desired future amount
+1. Time horizon between the investement and the payout
+1. The payout
+
+2 important questions to ask:
+
+1. Are you willing to accept variations in your goal?
+1. Are you flexible in your goal amount?
+
+The **trade-off of investment risk** is taking on more risk in order to get higher returns.
+
+Safe investments are easier to estimate than risky ones.  Safe investments estimates are simply made from the current market of low-risk investments (e.g. T Bills).  Risky investments require analyzing historic returns.
+
+### Life-Cycle Goals
+
+The value of goals:
+
+* Matches the investment strategy to the time period of spending goals
+* Established objectives for long-term planning
+* Reduces client anxiety (avoids **myopic loss aversion**)
+* Create opportunities to discuss priorities
+
+Goals are set to focus on long-term strategies, avoiding short-term results emphasis.
+
+By setting goals, we can evaluate progress and adjust accordingly.  They help clients focus on incremental savings by focusing on the overall goal (i.e. keep you eye on the prize).
+
+Goal characteristics:
+
+* Time horizon (increasing a horizon -> riskier asset allocation)
+* Flexibility (greater flexibility -> riskier asset allocation)
+* Immunization (match the payout of the goal with a bond's duration...safe)
+* Prioritization (optimizes resources to focus on the most important goals)
+
+**Unrealistic goals** require discussing tradoffs and flexibility to make them more realistic.  There's a tendency to take on more risk than is desired to meet unrealistic goals, which is not in the best interest of the client.
+
+### Risks and Goals
+
+Asset Risk example:
+
+Risk-Free Portfolio: 1% expected return, 0% standard deviation
+Conservative Portfolio: 5% expected return, 7% standard deviation
+Aggressive Portfolio: 8% expected return, 15% standard deviation
+
+There is a 13.5% chance it could take longer than 4 years with a conservative portfolio.
+There is a 15.6% chance it could take longer than 4 years with an aggressive portfolio.
+There is a 1.3% chance it could take longer than 10 years with an aggressive portfolio.
+
+Investment risk **always** adds risk that goals will not be met in volatile markets.
+
+### Liquidity and Goals
+
+**Liquidity** is an aspect of **asset flexibility** that details the degree to which an asset can be converted into cash.
+
+Pure liquid assets: cash and cash equivalents (checking and savings accounts)
+Highly liquid assets: stocks and bonds
+
+Stocks and bonds vary in their degree of liquidity.  Stocks and bonds in **shallow markets** (lack of active market of frequent trades) are less liquid that those that are actively traded (deep markets).  Shallow markets force longer sell times and/or lower market sale prices.
+
+Less liquid assets enjoy a **illiquidity premium**, resulting in higher returns to offset the longer sell times.  Illiquid investments include real estate, collectibles, private business assets, and tax-sheltered/tax-deferred accounts.
+
+Illiquid assets have higher transaction costs.  If liquidity is planned in a certain time horizon, investors should prefer more liquid assets.
+
+Having liquidy can be psychologically beneficial for some investors.  Conversely, illiquidity can help some investors "stay the course" as they may avoid the higher transaction costs and lower sale prices.
+
+### Goal Prioritization
+
+Essential goals should be prioritized above non-essential ones.
+
+> Essential Goals > Important and Inflexible Goals > Flexible Goals > Aspirational Goals
+
+Steps in prioritization:
+
+1. Estimate savings needed for each goal
+1. Determine time horizon flexibility of each goal
+   1. Less time horizon = less risky assets, long time horizon = more risky assets
+
+Goal prioritization helps clients understand the tradeoff of saving more for an essential goal means saving less for lesser goals. 
+
+#### Retirement example:
+
+Assumptions:
+* Retire in 15 years
+* 3% return on safe assets
+* 7% return on risky assets
+
+> Emergency fund ($96,000 in 3 years): inflexible and short time horizon, 100% safe investments
+
+At 3% returns, they need to save $2,550/mo to have $96,000 in 3 years.
+
+> Basic Expenses ($500,000): essential and long time horizon, 70% safe investments, 30% risky
+
+Expected return per year = (0.7 * .03) + (.3 * .07) = 4.2%/year.  That's about $2,000 per month to save $500,000 in 15 years.
+
+> Lifestyle Expenses ($500,000): flexible and long time horizon, 40% safe investments, 60% risky
+
+Expected return per year = (0.4 * .03) + (.6 * .07) = 5.4%/year.  That's about $1,800 per month to save $500,000 in 15 years.
+ 
+> Charity ($500,000): more flexible and long time horizon, 20% safe investments, 80% risky
+
+Expected return per year = (0.2 * .03) + (.8 * .07) = 6.2%/year.  That's about $375 per month to save $500,000 in 15 years. 
+
+**If they can only save $4550/mo, then it's best to save for the emergency fund and retirement basic espenses only for the first 3 years, then use the remaining $2550 to save for lifestyle expenses and charity.**
+
+#### Goals and TVM
+
+TVM (Time Value of Money) helps translate goals into courses of action.  The equation involves estimating a **rate of return**, a **time horizon**, and the **future cost of the goal**.  These assumptions can be modified to evaluate alternatives to achieving the goal.
+
+Example:
+
+> A client needs to save $20,000 in 15 years for college, and already has $500 saved.  Assume a 5% rate of return.
+
+TODO: purchase a financial calculator
+
+#### Payment Timing
+
+TODO: re-watch the video once calculator arrives
+
+#### Amortized Loans
+
+TODO: re-watch the video once calculator arrives
+
+#### Unequal Payments
+
+TODO: re-watch the video once calculator arrives
+
+#### Net Present Value
+
+TODO: re-watch the video once calculator arrives
+
+### Social Security Benefits
+
+Established as a baseline income for the elderly. On average, it replace 40% of pre-retirement income.  It makes up 50% of pre-retirement income for 2/3 of all seniors.
+
+TWB = Taxable Wage Base = the maximum wages that are taxed.  It's currently at $125k per year.  Employers and employees pay 6.2%, plus each pay 1.45% for Medicare/Medicaid.  Self employed individuals pay for both sided (double).
+
+The ACA (Affordable Care Act) adds a Medicare surtax of 0.9% for those > $200k (individual) and > $250k (jointly).
+
+OASDHI = Old-Age, Survivors, Disability, and Health Insurance program = Social Security.  
+
+Provides retirement benefits plus disability and families of deceased. 1/6 in the US are in the system (61 million).
+
+90% of US workers contribute to Social Security 
+
+#### Claiming Age
+
+A worker is entitled to receive 100% of thier Primary Insurance Amount (PIA) at their Full Retirement Age (FRA).
+
+Born 1945 - 1954 = 66 FRA
+Born 1955 - 1960 = 66 FRA + 2 months per year (e.g. 1955 = 66yrs 2mo, 1956 = 66yrs 4mo)
+Born 1096 - now = 67 FRA
+Benefit period is from 62 - 70
+
+Claiming at 60:
+> 36mo x (5/9 of 1%) = 20%
+>
+> 24mo x (5/12 of 1%) = 10%
+>
+> Total reduction = 30% reduction in PIA
+
+Delaying benefits past FRA (capped at 70) increases benefits by 8% per year.  Example:
+> 3 years at 8% = 24%
+>
+> Total increase = 24% increase of PIA
+
+#### Eligilibility
+
+To qualify, a worker must have 40 quarters (10 years) of making $1600 per quarter.
+
+#### Calculating AIME
+
+Average Indexed Monthly Earnings (AIME) characteristics:
+* Based on the highest 35 years of income
+* < 35 years results in zeros applied to make up the difference
+* Yearly capped at the TWB (Taxable Wage Base)
+* Earnings up to age 60 are inflation adjusted
+
+#### Calculating PIA
+
+Average Indexed Monthly Earnings (AIME) characteristics:
+* 90% of the AIME up to $1000
+* An additional 32% of the AIME for $1000 - $5000
+* An additional 15% of the AIME for $5000+
+
+The PIA covers more pre-retirement income for lower income individuals than higher ones.
+
+#### Protected Social Security Benefit
+
+The maximum benefit at FRA is currently around $3,600/month ($43k/year).  At 70, this is $4,550/month ($54,600/year).
+
+Calculations aren't necessary if the client can get their online Social Security account.
+
+#### Receiving Benefits
+
