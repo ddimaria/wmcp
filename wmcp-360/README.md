@@ -56,6 +56,12 @@
       - [Calculating PIA](#calculating-pia)
       - [Protected Social Security Benefit](#protected-social-security-benefit)
       - [Receiving Benefits](#receiving-benefits)
+        - [Spousal Benefits](#spousal-benefits)
+        - [Survivor Benefits](#survivor-benefits)
+        - [Maximizing Benefits](#maximizing-benefits)
+      - [Tax Calculation](#tax-calculation)
+      - [Social Security Claiming Strategies](#social-security-claiming-strategies)
+      - [Pensions](#pensions)
 
 
 ## Lifetime Role of Wealth
@@ -396,6 +402,8 @@ Goals are set to focus on long-term strategies, avoiding short-term results emph
 
 By setting goals, we can evaluate progress and adjust accordingly.  They help clients focus on incremental savings by focusing on the overall goal (i.e. keep you eye on the prize).
 
+**Long-term goals can be valuable at motivating short-term actions.**
+
 Goal characteristics:
 
 * Time horizon (increasing a horizon -> riskier asset allocation)
@@ -404,6 +412,8 @@ Goal characteristics:
 * Prioritization (optimizes resources to focus on the most important goals)
 
 **Unrealistic goals** require discussing tradoffs and flexibility to make them more realistic.  There's a tendency to take on more risk than is desired to meet unrealistic goals, which is not in the best interest of the client.
+
+**Not assuming realistic asset returns will result in a client's inability to make realistic choices about the amount of money needed to save in order to meet goals in the future.**
 
 ### Risks and Goals
 
@@ -433,6 +443,8 @@ Less liquid assets enjoy a **illiquidity premium**, resulting in higher returns 
 Illiquid assets have higher transaction costs.  If liquidity is planned in a certain time horizon, investors should prefer more liquid assets.
 
 Having liquidy can be psychologically beneficial for some investors.  Conversely, illiquidity can help some investors "stay the course" as they may avoid the higher transaction costs and lower sale prices.
+
+**The primary risk of using a volatile asset such as a stock mutual fund for liquidity is that the investor may be forced to sell in a down market.**
 
 ### Goal Prioritization
 
@@ -563,3 +575,63 @@ Calculations aren't necessary if the client can get their online Social Security
 
 #### Receiving Benefits
 
+Social Security is a low-risk, inflation protected stream of income.  Deferring at least one claim (for married) often increases the total lifetime benefit.
+
+##### Spousal Benefits
+
+A worker’s spouse is eligible for a spousal benefit (up to 1/2 of the worker’s PIA), subject to 25/36 of 1% per month for the first 36 months and 5/12 of 1% for each additional month PRIOR TO THE FULL RETIREMENT AGE (e.g. 62).
+
+The primary worker must have already started receiving benefits in order for the spouce to clain spousal benfits.
+
+Divorced spouses can claim a benefit if they were married for 10 years or more, and can be initiated even if the primary worker hasn't started receiving benefits as long as both parties are at least 62 years old and divorced for more than 2 years.
+
+##### Survivor Benefits
+
+A surviving spouse can claim the deceased spouses higher benefit.  The benefit amount is determined by the benefit the deceased spouse currently taken.  It's beficial for the higher earning spouse to defer benefits as long as possible to increase the amount of the surviving spouse.
+
+##### Maximizing Benefits
+
+To determine the maximum benefits, perform a net present value analysis.  It's ideal for longevity age to be greater than the break-even age for claming beneits (an incomplete approach b/c of survivor benefits and inflation aren't considered).
+
+Break even ages are typically between 78 - 82.  Loss averse individuals tend to want to claim early, which can reduce overall wealth.
+
+The longer someone expects to live, the later they should claim their benefit (at a max age of 70).
+
+#### Tax Calculation
+
+The taxable amount of social security is:
+
+> (total SS income X 0.5) + other income (modified AGI) + taxable interest
+
+Tax brackets for taxable income (2024):
+
+| Type    | Range           | Tax % |
+| ------- | --------------- | ----- |
+| Single  | 0 - 24,999      | 0%    |
+| Married | 0 - 31,999      | 0%    |
+| Single  | 25,000 - 34,000 | 50%   |
+| Married | 32,000 - 44,000 | 50%   |
+| Single  | 34,001 -        | 85%   |
+| Married | 44,001 - 44,000 | 85%   |
+
+#### Social Security Claiming Strategies
+
+Percentage increases by claiming early vs deferring
+
+| Claiming Age | % Increase per year |
+| ------------ | ------------------- |
+| 62 - 65      | 5%                  |
+| 65 - 67      | 6 2/3%              |
+| 67 - 70      | 8%                  |
+
+Healthy individuals, high earners and/or married couples benefit more from deferring.
+
+For the average individual, delaying benefits increases wealth.
+
+In order to delay claiming benefits, individuals must have assets to pay for the time between retirement age and social security claiming age (called Bridge Wealth).  Delaying often reduces overall resource needs over the lifteime.
+
+Social Security should be considered to be part of the safe asset allocation in a portfolio.
+
+#### Pensions
+
+Pensions should be considered to be part of the safe asset allocation in a portfolio.  This allows those with pensions to take a greater risk in their invested assets.  Pensions are not inflation protected like Social Security.
