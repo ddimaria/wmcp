@@ -62,6 +62,16 @@
       - [Tax Calculation](#tax-calculation)
       - [Social Security Claiming Strategies](#social-security-claiming-strategies)
       - [Pensions](#pensions)
+  - [Financial Markets](#financial-markets)
+    - [Macroeconomics](#macroeconomics)
+      - [The Federal Reserve](#the-federal-reserve)
+        - [Monetary Policy](#monetary-policy)
+          - [The Money Supply (M1)](#the-money-supply-m1)
+          - [Bank Reserves](#bank-reserves)
+        - [Fiscal Policy](#fiscal-policy)
+      - [Business Cycles](#business-cycles)
+      - [Market Interest Rates and the Effect of Interest Rates](#market-interest-rates-and-the-effect-of-interest-rates)
+    - [Inflation](#inflation)
 
 
 ## Lifetime Role of Wealth
@@ -635,3 +645,89 @@ Social Security should be considered to be part of the safe asset allocation in 
 #### Pensions
 
 Pensions should be considered to be part of the safe asset allocation in a portfolio.  This allows those with pensions to take a greater risk in their invested assets.  Pensions are not inflation protected like Social Security.
+
+## Financial Markets
+
+### Macroeconomics
+
+4 phases of the Business Cycle:
+* Trough (Bottom)
+* Expansion (Bull Market)
+* Peak (Top)
+* Contraction (Recession)
+
+#### The Federal Reserve
+
+The primary goals of the Federal Reserve are full employment (low unemployment rate) and price stability (moderate inflation of around 2%).
+
+The Fed has 3 tools:
+1. Open market operations
+1. Changes in the discount rate
+1. Changes in the computation of required reserves
+
+The Federal Funds Rate is the rate banks charge each other (banks with a surples lend to those with deficits).  The Fed has tools to nudge this rate.
+
+##### Monetary Policy
+
+The Fed has 2 main tools for manipulation (**Monetary Policy**):
+1. The money supply (M1, the sum of cash in circulation and in checking accounts)
+1. Reserve Requirements (The percentage of assets a bank needs to set aside in reserves, usually stored as cash or deposits at the Fed)
+
+###### The Money Supply (M1)
+To reduce unemployment and increase inflation, the Fed needs to stimulate the economy via open market operations (the purchase and sale of government bonds and mortgage backed securities).  This increases the money supply and increases bank reserves.  The end result should be that banks are more willing to loan money, expanding businesses and increasing the inflation rate.  Expanding businesses should lead to hiring, reducing the unemployment rate.
+
+###### Bank Reserves
+
+The **discount rate** is the rate the Fed charges banks for loans.  Lower rates should stimulate bank loans to businesses.
+
+##### Fiscal Policy
+
+The Fed has 2 tools for Fiscal Policy:
+1. Government Spending
+1. Taxation
+
+Fiscal policy affects federal debt. Debt can be financed via bonds.  If the Fed sells bonds, it moves cash to buyers.  The Fed buying bonds is a **monetary policy action**, which gives cash to the Fed to increase government spending.
+
+The **Phillips Curve** is the tradeoff between unemployment and the inflation rate.  Decreased unemployment leads to increased wages.  This raises prices and increases inflation.  The Phillips curve is no longer used.
+
+Increases in the money supply lead to higher prices and business expansion, decreasing unemployment.
+
+Stimulating policies are associated with higher stock prices.  Policies that slow economic activity decrease stock prices. Unexpected changes in Monetary and Fiscal policy can lead to sudden and extensive changes in stock prices.  
+
+If the Fed lowers interest rates, reducing expected returns on stocks and bonds, resulting in higher individual savings rates and less ambitious future goals. If the Fed increases interest rates, volatility is increased in stocks and bonds (esp long-term bonds)
+
+The Fed can lower bank reserve requirements, which also has the effect of banks more freely loaning money.
+
+#### Business Cycles
+
+The National Bureau of Economic Research (NBER) defines peaks and troughs in business cycles.  There have been 33 business cycles since 1854.  The longest cycle was 128 months, the shortest cycle was 28 months.  The average business cycle lasts about 70 months (6 years). 
+
+The NBER uses 3 indicies to determine where we are in the business cycle:
+1. The index of leading indicators (10 indicators including the S & P 500)
+1. The index of coincident indicators
+1. The index of lagging indicators
+
+When all 3 indicies are rising or falling, it indicates an expansion or contraction/recession.  We get mixed signals when the economy is at a peaks or a trough.
+
+The stock market isn't good at predicting the direction of the economy.
+
+Modern monetary and fiscal policy has gotten better and decreasing contractions and increasing expansions.  The average cycle time from peak to trough (contraction) has decreased from 18% to 11% since 1945. 
+The average cycle time from trough to peak (expansion) has increased from 35 months to 58 months since 1945.
+
+Changing business cycles should not affect current allocations of a well-constructed portfolio.  Portfolios should contain a mix stocks and bonds that match the client's risk tolerance and risk capacity.
+
+#### Market Interest Rates and the Effect of Interest Rates
+
+As interest rates increase, all else equal, the value of the assets decreases.
+
+The Fed signals its intention through its public statements, allowing markets to adjust to expansive or restrictive monetary policy. 
+
+The stock market has performed better when the Fed undertakes an expansive policy. Managers should counsel clients to expect lower returns in a restrictive policy and higher ones in an expansive one.
+
+As interest rates rise, the cost of a company's debt capital (borrowing costs) and equity capital (risk preimium) increases.  This decreases business profitability.
+
+As interest rates rise, consumer spending typically decreases (due to the increase in the cost of debt). Higher costs items are more sensitive to increases in interest rates. Lower cost items are less suseptible to changes in interest rates.
+
+Managers want to decrease exposure to durable goods manufactures and increase exposure to energy, consumer goods, and food sectors when interest rates are trending upwards. 
+
+### Inflation
