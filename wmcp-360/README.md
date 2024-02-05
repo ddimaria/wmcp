@@ -72,6 +72,39 @@
       - [Business Cycles](#business-cycles)
       - [Market Interest Rates and the Effect of Interest Rates](#market-interest-rates-and-the-effect-of-interest-rates)
     - [Inflation](#inflation)
+      - [CPI](#cpi)
+      - [Inflation and Goals](#inflation-and-goals)
+      - [Long-Term Inflation](#long-term-inflation)
+    - [Historical Asset Returns](#historical-asset-returns)
+    - [Time Diversifiication](#time-diversifiication)
+    - [Financial Intermediaries](#financial-intermediaries)
+  - [The Financial Planning Process and Client Behavior](#the-financial-planning-process-and-client-behavior)
+    - [The 7-Step Financial Planning Process](#the-7-step-financial-planning-process)
+      - [Understanding the Client's Personal and Financial Circumstances](#understanding-the-clients-personal-and-financial-circumstances)
+      - [Identifying and Selecting Goals](#identifying-and-selecting-goals)
+      - [Analyzing the Client’s Current Course of Action and Potential Course(s) of Action](#analyzing-the-clients-current-course-of-action-and-potential-courses-of-action)
+      - [Developing the Financial Planning Recommendations](#developing-the-financial-planning-recommendations)
+      - [Presenting the Financial Planning Recommendation(s)](#presenting-the-financial-planning-recommendations)
+      - [Implementing the Financial Planning Recommendations](#implementing-the-financial-planning-recommendations)
+      - [Monitoring Progress and Updating](#monitoring-progress-and-updating)
+    - [Organizing Client Information](#organizing-client-information)
+      - [Quantitative Data](#quantitative-data)
+      - [Qualitative Data](#qualitative-data)
+      - [Financial Statements](#financial-statements)
+    - [Communication Strategies](#communication-strategies)
+      - [Effective Communication](#effective-communication)
+      - [Engagement Letters](#engagement-letters)
+    - [Investment Policy Statements](#investment-policy-statements)
+    - [Role of an Advisor](#role-of-an-advisor)
+    - [Behavioral Finance](#behavioral-finance)
+      - [Neuroecomonics](#neuroecomonics)
+        - [Short-Run Self and Long-Run Self](#short-run-self-and-long-run-self)
+        - [Rider on an Elephant](#rider-on-an-elephant)
+      - [A Framework for How We Make Decisions](#a-framework-for-how-we-make-decisions)
+      - [Loss Aversion and Prospect Theory](#loss-aversion-and-prospect-theory)
+      - [Cognitive Biases and the Disposition Effect](#cognitive-biases-and-the-disposition-effect)
+    - [Behavioral Modification Strategies](#behavioral-modification-strategies)
+      - [Vision, Values, \& Velocity](#vision-values--velocity)
 
 
 ## Lifetime Role of Wealth
@@ -673,6 +706,8 @@ The Fed has 2 main tools for manipulation (**Monetary Policy**):
 1. The money supply (M1, the sum of cash in circulation and in checking accounts)
 1. Reserve Requirements (The percentage of assets a bank needs to set aside in reserves, usually stored as cash or deposits at the Fed)
 
+**The ultimate goal of monetary policy is to affect the economy through changes in interest rates.**
+
 ###### The Money Supply (M1)
 To reduce unemployment and increase inflation, the Fed needs to stimulate the economy via open market operations (the purchase and sale of government bonds and mortgage backed securities).  This increases the money supply and increases bank reserves.  The end result should be that banks are more willing to loan money, expanding businesses and increasing the inflation rate.  Expanding businesses should lead to hiring, reducing the unemployment rate.
 
@@ -731,3 +766,382 @@ As interest rates rise, consumer spending typically decreases (due to the increa
 Managers want to decrease exposure to durable goods manufactures and increase exposure to energy, consumer goods, and food sectors when interest rates are trending upwards. 
 
 ### Inflation
+
+**Inflation** is the change in the price of goods and services over time. 
+
+A **nominal (in name only) amount** does not take inflation into account.  **Real** amounts consider inflation that affect purchasing power of the nominal dollars over time.
+
+**If an investment has a positive nominal rate of return and a negative real rate of return, the purchasing power of the investment will be negative.**
+
+
+**Real Rate of Return Calculation**
+> real rate of return = ((1 + nominal rate of return)/(1 + inflation rate)) - 1
+
+> Earning 2% interest with 4% inflation: (1.02/1.04) - 1 = -1.9%
+
+Risky investments have a better chance of beating inflation than do safe investments over the long term.
+
+#### CPI
+
+Changes in prices of commonly used goods and services (known as a **consumption basket**) over time contribute to the **Consumer Price Index (CPI)**.  The CPI measures how much one can buy at current dollars.
+
+CPI-U (Consumer Price Index of All Urban Consumers) is the broadest consumption basket that represents spending patterns of 87% of Americans.
+
+CPI-W (Consumer Price Index of All Urban Wage Earners) is a subset of the CPI-U that represents spending patterns of 28% of working Americans.  Social Security benefits (SS, disability, survivor) track with the CPI-W (measured from 3rd quarter of the previous year to the 3rd quarter of the succeeding year).
+
+CPI-E (Consumer Price Index for the Elderly) experimentally tracks Americans >= 62 years old, covering 16% of the population.  The CPI-E includes relatively higher housing and medical costs associated with old age.
+
+#### Inflation and Goals
+
+Advisors should consider inflation related to a given goal (e.g. college expenses) rather than than the CPI.
+
+Interest rates are correlated with inflation.  Higher inflation leads to higher interest rates, which leads to higher taxation, which adds drag to investments, which may affect the ability to meet future goals.
+
+Inflation Adjusted Assets (or Inflation Protected Securities) map payouts to inflation rates.  These assets have lower expected real returns since they adjust with inflation and are most attractive to those with the least flexibily goals.
+
+**Infation Risk** is the risk that inflation may affect a goal.
+
+**Consumption Basket** Weights are the weight of groups of expenditures each of the CPI consumption baskets.  They are similar, but CPI-E has double the weight of medical care and 1/2 the weight of education and communication.
+
+#### Long-Term Inflation
+
+The average inflation rate from 1900 - 2020 has been 2.96% with a standard deviation of 4.63%  Over the past 20 years, inflation has decreased to 2.02% with a standard deviation of .95% (not including the recent inflation).
+
+Other than Switzerland and the Netherlands, no other industrialized country has had lower inflation rates from 1900 - 2000.
+
+Over the last 25 years, college inflation averaged 4.2%/year for private schools, and 4.70% for public schools, compared to 2.17% for general inflation.  That twice the level of inflation.
+
+Long term bonds tend to fall with inflation rises, and commodities and high yeild bonds tend to rise with inflation.  Stocks are uncorrelated with inflation and are a hedge against long-term purchasing power due to higher returns.  Therefore, a high seeking portfolio (e.g. stocks) isn't necessarily the same as an inflation hedging portfolio.
+
+### Historical Asset Returns
+
+Historically (and across countries), stocks outperform bonds, and bonds outperform cash.  The higher the risk, the higher the return.
+
+A **histogram** is a chart that shows the frequency of historical annual returns. 
+
+The **equity risk premium** is the premium received from riskier assets (stocks) and is estimated by comparing the return on equities with those of cash (equivelant with short term bonds) or bonds (10 year government bonds).  There is a high risk of investing in equities in the short term (1 year).  Stocks will underperform cash 1/3 of the time in a single year.
+
+**The risk premium based on geometric mean returns versus bonds is about 3.5 percent per year.**
+
+As long as there is any variation in returns, a geometric mean return will always be lower than an arithmetic mean return. Stocks historically provide both higher return and higher standard deviations of returns than bonds, and bonds have provided higher returns and standard deviations of returns than cash.
+
+### Time Diversifiication
+
+**Time Diversifiication** is the notion that time diversifies risk.  In the long term, risky stock assets become less risky.
+
+A **mean reversion** is when returns tend to revert back to their long-run average over time.  Mean reversion is not consistent with efficient market theory or modern portfolio theory.
+
+**Market sentiment** is when prices of stocks go up due to invenstors being optimistic, which lead investors to accept less of a preimium for the same asset.  Conersely, a pessimistic investor in a recession requires a higher premium for investors to purchase the assets.  Market sentiment is one way to explain the existence of bull and bear markets.
+
+**Time diversification is considered controversial because the investment time horizon should not affect the optimal asset allocation for a household.**
+
+### Financial Intermediaries
+
+A **financial intermediary** is an institution that acts as a middleman (or matchmaker) between two parties in order to facilitate a financial transaction.  Financial intermidiaries include banks, credit unions, savings banks, and brokerage houses.
+
+Commercial banks take deposits and make loans.  They are important to the economy as they grease the wheel of commerce.  They also influence monetary policy.
+
+Investment banks take investments and make investments.  Investment banks facilitate the sale of stock to raise money.
+
+Some banks are both commercial and investment banks.  Banks are also classified by size (big vs small).  Big banks are "too big to fail" and small banks engage in "relationship" banking. 
+
+**Shadow banks** are financial intermediaries that are **not** subject to normal regulatory oversight.  They include hedge funds, money market funds, mortgage companies, and payday loan companies.  Shadow banks contributed to the 2007 - 2009 financial crisis.  
+
+**Securitization** is the bundling and selling of assets (e.g. loans).  This allows banks to sell the bundled assets in the marketplace.  This process involves 2 intermediaries: the bank that lends to consumers and the bank that securitizes the loan (shadow bank).
+
+The **Federal Deposit Insurance Corporation (FDIC)** shares regulatory responsibility over all commercial banks.  FDIC insurance covers $250,000 of deposits in commercial banks.  Because of this, investors should not hold more that $250,000 in a single bank.  The FDIC does not insure against inflation risk.
+
+FDIC insurance leads to lower returns from banks as they provide 100% safe investments.
+
+The federal government provides loan guarantees through the **Small Business Administration (SBA)** which gives banks an incentive to provide loans to small businesses at low risk/low interest rates.
+
+## The Financial Planning Process and Client Behavior
+
+The **client-planner relationship** needs to be established before beginning the financial planning process.  The initial meeting establishes planner responsibilities, the scope of the relationship, and the compensation method.  The goal is to establish trust, define goals, determine individuals that impact the plan, and distinguish the client from non-clients.  The final work product of this initial relationship is the **engagement letter**.
+
+### The 7-Step Financial Planning Process
+
+1. Understanding the Client's Personal and Financial Circumstances
+1. Identifying and Selecting Goals
+1. Analyzing the Client’s Current Course of Action and Potential Course(s) of Action
+1. Developing the Financial Planning Recommendations
+1. Presenting the Financial Planning Recommendation(s)
+1. Implementing the Financial Planning Recommendations
+1. Monitoring Progress and Updating
+
+#### Understanding the Client's Personal and Financial Circumstances
+Advisors gather qualatative and quantitative personal and financial data from clients.
+
+#### Identifying and Selecting Goals
+Advisors help clients explore goals, as well explain how goals impact each other.  
+Upon goal selection, advisors help clients prioritize their goals.
+
+#### Analyzing the Client’s Current Course of Action and Potential Course(s) of Action
+Advisors analyze and evaluate the client's current financial state and course of actions (investments).
+Advisors goal feasibility and offer alternatives and discusses their advantages and disadvantages.
+Advisors evaluate risks to goals as well as personal and finacial circumstances that can impact goals.
+
+#### Developing the Financial Planning Recommendations
+Advisors then develop recommendations, including alternative strategies. Assumptions and estimates used in developing recommendations need to be evaluated as well as timing and prioritization of the recommendations. 
+Advisors may also consult with outside experts.
+
+#### Presenting the Financial Planning Recommendation(s)
+Advisors present their recommendations to the client and ensure the client fully understands them.
+Direct and indirect consequenses also need to be relayed.
+This process may be iterative.
+The final work product of this step is the financial plan.
+
+#### Implementing the Financial Planning Recommendations
+Advisors implement the financial plan with varying degrees of participation from the client.
+Lawyers and estate planners may also be included in the implementation.
+
+#### Monitoring Progress and Updating
+Advisors monitor the progress of the financial plan and associated goals.
+Financial plans may need to be updated to reflect new goals and/or changing financial conditions.
+Updates will involve moving back to earlier stages in the financial planning process.
+
+### Organizing Client Information
+
+**Internal data** is data specific to the client gathered by questionnaires, interviews, and conversations. Internal data is comprised of both quantitative and qualitative elements.  The individual's microeconomics.
+
+Qualitative Elements: Goals, Values, Risk tolerance, Psychology
+
+Quantitative Elements: Current income, Expected future income, Family member ages, Value of assets and debts
+
+**External data** is  the economic, political, legal, sociological, and technological data and how they affect the client's goals.  The individual's macroeconomics.
+
+External data points include:
+
+* Gift and estate taxes
+* Investment returns
+* Inflation, interest rates
+* Stage of the business cycle
+* Housing and job markets
+* Local cost of living
+* Local insurance costs
+* Other pending legislation
+
+#### Quantitative Data
+
+Quantitative data is objective and is verifiable and without bias or error.
+
+**Family Information**
+
+* Names, ages, and health of family members
+* Education levels of family members
+
+**Financial Information**
+
+* Annual income of the family members
+* Annual expenses of the family members
+* Insurance policies owned by the family members
+* Bank account and investment account statements of all family members
+* Retirement account balances and Social Security statements of all family members
+* Government benefits
+* Personal financial statements (client or CPA prepared)
+
+**Legal Information**
+* Estate planning documents
+* Business Documents
+* Special Circumstances
+
+#### Qualitative Data
+
+Qualitative data is observable, descriptive data that involves the client's attitudes and beliefs as well as risk tolerance.
+
+* Education Goals
+* Retirement Goals
+Travel, pick up new hobbies, relax, spend time with family
+* Employment Goals
+* Savings Goals
+* Charitable Goals
+* Spending vs Savings Attitude
+* Risk Tolerance
+
+#### Financial Statements
+
+**Financial statements** can be broken into 2 categories: (1) the flow of money (e.g. mortgage, loan) or (2) the stock of money (e.g. savings, stocks).
+
+Financial flows are placed in an income and expense report.  Expenses are sorted by fixed and variable expenses.  Fixed expenses are hard to change in the short-run, while variable expenses are easier to change early on.  The income and expesne report is most beneficial for those with difficulties meeting their long-term goals.
+
+A **budget** is a future income and expense statement that aligns the client with their future goals.
+
+A **balance sheet** list all of the client's assets and debts.  Net worth = assets - debts.  Balance sheets also includes intangible assets (e.g. human capital) and project the future value of pensions and social security.  A client can derive utility from tangible assets today and in the future, while intangible assets are primarily for future consumption.  Tangible assets are more illiquid and have higher transaction costs than financial assets.
+
+Since there are penalties from early withdrawl qualified accounts (e.g. 401k), they are separate out from non-qualified (taxable) accounts. 
+
+Liabilities can be broken down into short-term and long-term liabilities. 
+
+The **liqidity ratio** outlines the months a client can exists without income (aka emergency fund).  It's good to have 6 - 12 months of liquid assets on hand.
+
+The **debt-to-income ratio** details the percentage of the client's income that is spent on debt.  Most mortgages require a debt-to-income ratio of 36% or less.
+
+The **savings ratio** (or rate) is the percentage of income that is saved.  Clients are typically able to increase their savings ration as they age.
+
+The **debt-to-asset** ratio measures the overall leverage of a household.  A low ratio can more easily pay down debts.
+
+The **investment asset-to-net worth** ratio is investment assets/net-worth.
+
+### Communication Strategies
+
+* **Credibility**: involves both trust and expertise.  
+* **Trust**: the advisor understands the client's needs, offers solid recommendations, and acts in their best interest.  Trust is efficient because it allows clients to deletage expertise to the advisor.
+* **Empathy**: the advisor understands the client's feelings and perspective.  Empathy can be improved by asking open-ended questions, paraphrasing, and listening.
+* **Mutuality**: both the client and the advisor are both involved in creating the financial plan.  The advisor makes recommendations and the client makes a final decision, which increases the feeling of ownership as well as the liklihood the client will follow the plan.  **Paternalism**, the opposite of mutuality, is when the advisor limits the decsions made by the client, which results in lower client satisfaction.
+  
+#### Effective Communication
+
+* Reminding the client about market volatility can help build trust.
+* Advisors need to confirm the client understands their message.
+* Confirm understanding by repeating information received, and asking the client to reiterate what they hear.
+* Increase perceived empathy via eye contact, user the client's first name, not interrupring the client, and remembering aspects of the client's life.
+* Satisfaction is increased by discussing any future courses of action, and whose is responsibe for each course of action, as well as progress checkin points.
+
+Advisors should arrive at meetings 10 - 15 minutes early, discuss agendas and meeting duration, and end the meeting on time.  Meetings should be strategic and focused.
+
+Being empathic allows advisors to understand the client's values, interests, attitudes, and experiences.  Advisors should not be combative or defensive, nor reveal other client's information.
+
+#### Engagement Letters
+
+An **engagement letter** is a legal agreement between the client and the advisor.  They include:
+
+* Parties involved
+* Services provided
+* Conflicts of interest
+* Fees, costs, and compensation agreements
+* Responsibilities of the client and advisor
+* Duration of the agreement
+* Definition and scope
+* Conditions that terminate the agreement
+
+### Investment Policy Statements
+
+An **Investment Policy Statement (IPS)** is a document that details the client's investment portfolio strategy, including risks  The policy is created jointly with the client so that they share in the ownership of the process. The IPS is required for compliance.
+
+Critical aspects of an IPS:
+
+* The client's financial goals and risk tolerance
+* An investment strategy that matches these goals and risks
+* Strategy implementation via investment selections
+* Details of how the plan may change over time
+* List of assumptions (e.g. expected returns)
+* Permissable asset classes
+* Constraints and restrictions
+* Investment characteristics and preferences
+
+The IPS should list the investors goals, and each goal should be assigned a:
+*  Level of importance
+*  Acceptible range of outcomes
+*  Time horizon
+*  Risk/Return tradoff 
+
+A **Goal-Based IPS** matches investment policy to goals. Goals should be monitored, and the monitoring increased as the goal approaches.  Monitoring criteria can adjust portfolio allocations.  The IPS should be reviewed periodically, especially when life circumstances change.
+
+### Role of an Advisor
+
+Trusted Advisors: ?
+
+**Robo Advisors** have caused some disturbances among advisors, though they don't take into account all of the factors advisors explore in creating a financial plan.
+
+Lots of compensatoin options for consumers: AUM, hourly fees, subscription fees, retainer fee models.
+
+Traditional advisors started off selling insurance or investments, while the trend is degree-based advisors with much more education.
+
+**The Great Convergence** is moving away from products and converging on advice from a single individual/channel that recommends products as needed.
+
+Designations are becomming increasingly popular for advisors.
+
+### Behavioral Finance
+
+**Heuristics** drive choice of wealth managers and investment options.
+
+**Bounded Rationality** explains why people don't always behave rationally when making personal financial decitions.  People make the best choices given their imperfect and limited tools and resources.  In order to mitigate this imperfection, consumers can lean on wealth managers and financial plans to help make rational decisions.
+
+#### Neuroecomonics
+
+**Neuroecomonics** relates the functions of our brain to economic and financial decisions.  Receiving money is considered a **secondary motivator** since we don't immediately or directly benefit from the money, though it can be used to purchase primary motivators (e.g. food).
+
+Paying for things activates parts of the brain that responds to physical pain or it's anticipation.
+
+The **cerebral cortex** is responsible for most information processing.  It's the outside of the brain.  It's divided into 4 main lobes: occipital lobe (visual), temporal lobe (auditory and speech), pariental lobe (focused attention, decision making), and frontal lobe (prefrontal cortex, planning).
+
+The **limbic system** is under the cerebral cortex, residing in the center of the brain.  It's where emotion is processed and memories are formed. 
+
+**System 1** thinking is related to instinctive responses and is driven by emotion.  It's a fast response and is mistake prone since it doesn't run through the frontal cortex.
+
+**System 2** thinking is slower and more deliberate, focusing on reasoning.  This system is more accurate.  This system typically responds when System 1 is incapable to respond.
+
+##### Short-Run Self and Long-Run Self
+
+Also known as the "doer" (short-run or current self) and the "planner" (long-run or future self).  We tend to be more connected to the current/short-run self, viewing our future self as someone else entirely.
+
+##### Rider on an Elephant
+
+The elephant is System 1, and the Rider is System 2 thinking.  The rider does more thinking and is more suseptible to fatigue, and is also more prone to over-confidence.  The rider has illusion of control, but the quick responses of the elephant overcome the rider.
+
+#### A Framework for How We Make Decisions
+
+A way to mitigate irrational/emotional decisions is to rebalance when market conditions change.  Penalitis in tax advantaged accounts also helps think in the long-term.
+
+Emotions lead investors that don't directly follow financial models, making it harder to reach financial goals. 
+
+The emotional response that investors have toward recent losses leads to loss aversion.  Poor desicions: selling stocks when they are down and moving them to cash, firing your financial advisor.  Building trust with clients can help avoid emotional decisions.
+
+Workers close to retirement have a stronger emotional effect. They are more likely to take risk in an "up market" and more likely to avoid risk in a "down market".  This is known as **time-varying risk tolerance**.
+
+Investors lose as much as 1.5% in performance due to market timing.
+
+Advisors should advise clients to only trade a small portion of their porfolio in individual stocks.  This is called the **core satellite approach**.  This is a good way to manage emotiona decision making.
+
+#### Loss Aversion and Prospect Theory
+
+**Prospect Theory** was developed by Daniel Kahneman & Am0s Tversky and relates to loss aversion.  2 aspects:
+1. Many of our decisions are based on an arbitrary reference point (purchase price), like overly considering the price paid for a stock vs it's actual valuation.
+1. Our brains are wired to make comparisons, so we tend to compare options against the purchase price.
+
+Investors tend to avoid realizing a loss.  They may re-purchase at a lower price to give the feeling that they avoided a loss even though the first purchase was a loss.  The most rational decision is to realize a loss and invest in something better.
+
+Loss aversion leads to (all relate to reference points):
+* **The Sunk Cost Fallacy**: investing more in a losing asset due to previous investments in the asset.
+* **The Endowment Effect**: not wanting to sell an asset once we own it.
+* **The Status Quo Bias**: avoiding change that results in a loss when compared to the status quo.
+* Holding losing stocks while selling gaining stocks.
+
+#### Cognitive Biases and the Disposition Effect
+
+A **cognitive bias** happens when invests make incorrect conclusions, usually a result of using a heuristic, to make bad decisions.
+
+Looses feel about twice as bad as gains feel good, so we are more motivated to avoid losses than pursue gains.
+
+The **disposition effect** refers to our tendency to prematurely sell assets that have made gains, while holding on to assets that are losing money.
+
+Comparisons with a reference group (anchor) can lead to the bandwagon effect which offers the illusion of reduced risk.
+
+Investors tend to buy assets they are familiar with or that they work for or have a family connection.  They become overconfident in predictions in these cases. The **core and satellite** approach can help here (allowing the client to "play" with 5% of their portfolio).  
+
+**Bucketing** can help reframe risk by placing different portions of the portfolio in separate "mental" accounts (not necessarily physical).  Examples are cash buckets that relate to "when" money will be spent (0 - 2- years).  Intermediate buckets can be setup for 3 - 10 years into the future which contain slightly more risky assets. Long term expense buckets can be setup for 11+ years and are high risk.  Income earned from the second bucket can fill the first cash bucket.  Bucketing is mostly a behavioral technique and doesn't change the actual portfolio allocations and can achieve higher returns by encouraging investors to maintain an asset allocation over time.
+
+**Psychological Distancing** is how far away something "feels", which affects the way we interpret the imporance and value of things. 4 dimensions of psychological distancing: space, time, social and hypothetical.  Things are less important the further away (space, time, social, distance) they are from us.  Retirement can be thought of as something that is far away.  We consider more details (less abstract) when events are "closer".  Visualizing retirement can be used by advisors to help investors give more importance to far-away events.
+
+Getting clients to talk to advisors about their "financial story" can help the advisor faciliatate a healthy money relationship.  Talking about money is considered by most to be a "taboo".   Stories about money can lead to core beliefs about money.
+
+### Behavioral Modification Strategies
+
+The **Dual Self Theory** is the same as **System 2 Thinking**.  The **functional aspect of money** is objective and the **perceptual aspect of money** is subjective.  Advisors work with the client's more rational brains (thinking slow), but they must understand their emotional brains to help them stay on course.
+
+**Extrinsic** and **intrinsic* motivation plays a role in money.  While intrinsic motivation is more long lasting, advisor must use both type of motivations on clients.  An advisor can extrinsically motive (phone call, reminders, etc.) a client into making a more intrinsic decision (saving for retirement).
+
+**Psychoanalytic theory**, from Freud, states that people motivated by pleasure and avoid pain.  Understand what the client perceives as pleasurable and painful can help advisors properly motivate them.
+
+Advisors can leverage **prospect theory** to make goal-related activities a habbit as the habbit will become the **status quo**.  The **endowment effect** can be leverage by letting clients feel ownership of their goals. **Loss aversion** can be leveraged by adding/removing losses to encourage/discourage behaviors.
+
+#### Vision, Values, & Velocity
+
+**Vision**: advisors can help clients have a clear vision of their future goals.  Advisors can appeal to client's emotions to add to this vision.
+
+***Values**: understanging a client's values can help advisors pick the right tools to motivate client action.  Aligning financial strategies with values can help clients achieve their goals.
+
+**Velocity**: the engagement in a goal (actually moving toward achieving goals).  Advisors can help create velocity by engaging extrinsically motivated clients with goals and behaviors and intrinsically motivated clients with reassurance (**self-efficacy**).  It can also help velocity by breaking lont-term goals into smaller chunks. 
+
+
+
