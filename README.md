@@ -7,3 +7,4 @@ This repository is a collection of notes while taking the [WMCP](https://www.the
 This course is the first of three in the Wealth Management Certified Professional (WMCP) program. The goal of this course is to develop your expertise in goal identification, risk management, and investment planning strategies.
 
 [Read Notes](wmcp-360/README.md)
+[Read Notes](wmcp-361/README.md)

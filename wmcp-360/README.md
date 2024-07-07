@@ -105,6 +105,10 @@
       - [Cognitive Biases and the Disposition Effect](#cognitive-biases-and-the-disposition-effect)
     - [Behavioral Modification Strategies](#behavioral-modification-strategies)
       - [Vision, Values, \& Velocity](#vision-values--velocity)
+  - [Ethics and Regulation](#ethics-and-regulation)
+    - [The 7 Principles of Ethics:](#the-7-principles-of-ethics)
+    - [Ethical Practices](#ethical-practices)
+    - [Regulatory Environment](#regulatory-environment)
 
 
 ## Lifetime Role of Wealth
@@ -1127,7 +1131,7 @@ Getting clients to talk to advisors about their "financial story" can help the a
 
 ### Behavioral Modification Strategies
 
-The **Dual Self Theory** is the same as **System 2 Thinking**.  The **functional aspect of money** is objective and the **perceptual aspect of money** is subjective.  Advisors work with the client's more rational brains (thinking slow), but they must understand their emotional brains to help them stay on course.
+The **Dual Self Theory** is the same as **Dual System Thinking**.  The **functional aspect of money** is objective and the **perceptual aspect of money** is subjective.  Advisors work with the client's more rational brains (thinking slow), but they must understand their emotional brains to help them stay on course.
 
 **Extrinsic** and **intrinsic* motivation plays a role in money.  While intrinsic motivation is more long lasting, advisor must use both type of motivations on clients.  An advisor can extrinsically motive (phone call, reminders, etc.) a client into making a more intrinsic decision (saving for retirement).
 
@@ -1143,5 +1147,71 @@ Advisors can leverage **prospect theory** to make goal-related activities a habb
 
 **Velocity**: the engagement in a goal (actually moving toward achieving goals).  Advisors can help create velocity by engaging extrinsically motivated clients with goals and behaviors and intrinsically motivated clients with reassurance (**self-efficacy**).  It can also help velocity by breaking lont-term goals into smaller chunks. 
 
+## Ethics and Regulation
 
+Professionals take on additional moral responsibilities because a client's dependence on them make the client vulnerable to harm.
 
+Advisors (in the advice profession), client seek expertise that makes recommendations to improve well-being.
+
+### The 7 Principles of Ethics:
+
+1. **Integrity**: wholeness that demands a professional act the same in the personal and business lives.  Has strong moral principles that they never compromise.
+1. **Objectivity**: perceiving facts without being clouded by personal feelings, prejudices or interests.  Understand biases in order to avoid them.
+1. **Competence**: the level of expert knowledge, typically obtained education and experience.  Competent advisor freely admit what they do not know.
+1. **Fairness**: like things should be treated in like ways. 
+1. **Confidentiality**: personal information is kept private.
+1. **Professionalism**: treating everyone with respect and consideration and acting in ways to bring dignity to the professsion.
+1. **Diligence**: meeting expectations, giving clients "due care" and making sure staff conducts themselves porfessionally.
+
+### Ethical Practices
+
+Compliance abides by prescribed ways to interpret legal rules and guidelines.
+
+Ethics involves considering practical ways to exhibit moral behavior even under unclear situations.
+
+System 1 thinking is more prone to biases and ethical compromises.
+
+**Ethical fading** describes the systematic ways that the ethics of a decision fade into the background when we are confronting ethical dilemmas.  Practcing being ethical and being surrounded by ethical influences can help avoid ethical fading.  Ethical fading happens in 3 ways:
+
+* **Framing** a decision as a "client management decision" can help avoid ethical fading as well, while framing a decision as a "business decision" encourages fading.
+* **Slippery Slope**: small unethical decisions can be ignored, leading to bigger ones in the future.  Ponzi schemes are typically slippery slopes.
+* **Workplace Pressures**: happens when setting goals in a workplace.
+
+People rate themselves as being more ethical than others.  We **rationalize** when our behavior doesn't match our view of ourselves.  Rationalizations help us feel better about our behaviors.
+
+People cheat often, especially when motivated by money.  Placing a price on a relationship will narrow an advisor's focus to cost/benefit, transactional analysis.  Framing decisions with social value can help reduce cheating.
+
+To help make better ethical decisions:
+
+* Slow down decision making to pause for moments of reflection.
+* Educate yourself on the range of choices, and what’s at stake.  Seek out information from others.
+* Be honest with yourself.
+
+2 types of **Ethical Dillemas**
+* Information Asymmetry: one party has more information about a situation.  e.g. clients rely on advisors because they know more about financial services.
+* Conflicts of interest: more than one party sees the advisor as an advocate or representative.  This can lead to biased advice.  To avoid this, advisors should be clear about how they arrived at a decision.  Simply disclosing isn't enough. Advisors should remove themselves from a situation where they can't avoid a conflict.
+
+Perfomring due dilligence helps avoid ethical dillemas.
+
+Long term customer loyalty comes from a client's belief that you will act on their needs but without the client's irrational errors.
+
+### Regulatory Environment
+
+Most protection in the US arose after the Great Depression (Securities act of 1933 & Securities Exchange Act of 1934).  
+
+The **Securities and Exchange Commission (SEC)** regulates investment advisors, investment advisory firms, and broker-dealer/brokerage firms.
+
+**Financial Industry Regulatory Agency (FINRA)** is a self-regulatory organization (SRO, funded by the private sector) that oversees brokerage firms.
+
+**Investment advisors** are individuals who routinely provide financial advice for a fee and are held to a feduciary standard.  Feduciary duties include: full disclosure of material facts, care in research and recommendations, and executing transactions are favorable to clients.
+
+**Registered Investment Advisers (RIAs)** are fiduciaries that are registered with the SEC.
+
+**Dealer Brokers** are held to liability standards and don't receive compensation for their advice.  Dealer brokers are subject to the **best-interest** regulation from the SEC (aka Reg BI), which is similar to the feduciary standard. Because they are regulated by FINRA and the SEC, they are considered **dually registered**.  Rules for dealer brokers include:
+* KYC (know your customer) Rule
+* Suitability Rule: recommendations must be suitable to the client
+* Best Execution Rule: executing transactions are favorable to clients
+* Anti-Fraud, Deception, and Manipulative Practices Rules
+
+Which of the following is not a component of the 2019 Best Interest Regulation?
+* Prohibition on commission compensation for broker-dealers.
