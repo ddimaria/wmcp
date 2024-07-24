@@ -95,6 +95,13 @@
       - [Short Selling](#short-selling)
       - [Structured Products](#structured-products)
       - [Option Protected Products](#option-protected-products)
+  - [Calculations](#calculations)
+  - [Real Returns](#real-returns)
+    - [Equity Premium](#equity-premium)
+    - [Expected Return](#expected-return)
+    - [Sharpe Ratio](#sharpe-ratio)
+    - [VaR](#var)
+    - [Asset Pricing](#asset-pricing-1)
 
 
 ## Statistical Concepts
@@ -105,7 +112,7 @@
 * **Payout**: The price you receive for selling an asset.
 * **Capital Loss**: When the payout is less than the basis price.
 * **Capital Gain**: When the payout is greater than the basis price.
-* **Holding Period Return**: Capital gains plus any revenue that the asset generates (e.g. dividends).  Dividends (and reinvested dividents) trigger a new basis for the portion of the asset purchased and can trigger a taxable event.
+* **Holding Period Return**: Capital gains plus any revenue that the asset generates (e.g. dividends).  Dividends (and reinvested dividends) trigger a new basis for the portion of the asset purchased and can trigger a taxable event.
 * **Net Returns**: Payout - Basis - other expenses (e.g. cost of selling the asset, taxes, ...etc.)
 
 #### Types of Returns
@@ -113,7 +120,7 @@
 * **Arithmatic Returns**: Takes the number of years into account => arithmatic mean return = total return/number of years
 * **Geometric Returns**: Takes compounding into account => geometric mean return = (1 + holding period return)<sup>1/n</sup> - 1.  These returns are the most accurate calcuation of how money grows over time.  For each year: [(1 + returns<sub>1</sub>) * (1 + returns<sub>2</sub>)]<sup>1/n</sup> - 1 ...n is the number of years
 * **Dollar-Weighted Returns**: AKA Investor Returns. Incorporates cash flows, it's estimated using an Internal Rate of Return (IRR) calculation.
-* **Time-Weighted Returns**: AKA Total Returns. Independent of cash flows, it's estimated by geometrically linking the return for sub-periods (e.g. monthly). Mutual funds report time-weighte returns.  Total returns can mask individual performance in investors purcahsed the asset after it fully grew.
+* **Time-Weighted Returns**: AKA Total Returns. Independent of cash flows, it's estimated by geometrically linking the return for sub-periods (e.g. monthly). Mutual funds report time-weighte returns.  Total returns can mask individual performance if investors purcahsed the asset after it fully grew.
 * **Real Returns**: The rate of return that subtracts inflation. real retrns = ((1 + nominal rate)(1 + inflation rate)) - 1.  For each year, the *geometric mean real return* is: [(real returns<sub>1</sub>) * (real returns<sub>2</sub>)]<sup>1/n</sup> - 1 ...n is the number of years.
 
 ### Returns Distributions
@@ -130,7 +137,7 @@
 Returns follow a normal distribution (aka bell curve).  Cash (liquid investments), least look like a bell curve with most returns clustering around 1 standard deviation below the mean (-.06% - 1.35%).
 
 * **Moments**: the shape of the bell curve
-* **Average**: average - the 1st central moment of return distribution
+* **Average**: the 1st central moment of return distribution
 * **Variance**: volatility - the 2nd central moment of return distribution 
 * **Skewness**: lack of symmetry - the 3rd central moment of return distribution
 * **Median**: the 50th percentile (this middle, not the same as average)
@@ -144,21 +151,21 @@ Median is often more valuable b/c outliers skew the average
 The Standard Deviation is the square root of the average deviation (variance).
 
 * 1 standard deviation: 68%
-* 3 standard deviation: 95%
-* 2 standard deviation: 99.7%
+* 2 standard deviations: 95%
+* 3 standard deviations: 99.7%
 
 An asset that has an expected return of 10% with a 20% standard deviation:
 
-* 1 standard deviation: 68% of the time returns will be -10% - 30%
-* 3 standard deviation: 95% of the time returns will be -30% - 50%
-* 2 standard deviation: 99.7% of the time returns will be -50% - 80%
+* 1 standard deviations: 68% of the time returns will be -10% - 30%
+* 2 standard deviations: 95% of the time returns will be -30% - 50%
+* 3 standard deviations: 99.7% of the time returns will be -50% - 80%
 
 **Tail Risk**: the risk of a negative, unlikely, or extreme event
 
 #### Asset Distributions
 
 * **Positive Skewness**: there are more extreme numbers to the right of the median than the left.  Example: Venture Capitalists.
-* **Positive Skewness**: there are more extreme numbers to the left of the median than the right. Example: Catastrophe Bonds.
+* **Negative Skewness**: there are more extreme numbers to the left of the median than the right. Example: Catastrophe Bonds.
 * **Kurtosis/Fat Tails**:  extreme events (e.g. black swans) that affect the size of the tails on either side of the bell curve.
 * **Leptokurtic Distribution**: more peaked with fatter tails (Positive Kurtosis)
 * **Mesokurtic Distribution**: a normal distribution
@@ -176,10 +183,12 @@ Standard deviantion is **not** used for non-normal distributions.  Products with
 
 #### Forecasting Future Growth of Client Assets
 
-Retirees get most of their growth before they retire, so can take less risk once they retire.  Early in retirement, the **sequence of returns** risk has a greater impace than later in retirement.
+Retirees get most of their growth before they retire, so can take less risk once they retire.  Early in retirement, the **sequence of returns** risk has a greater impact than later in retirement.
 
 Deterministic & Stochastic models help adjust for sequence risk.
+
 **Deterministic**: assumes that asset returns are known ahead of time (e.g. 7% annual returns, or a target date fund).  It's relatively straightforward and simple.  However, they don't respond well to changes.
+
 **Stochastic**: (aka random or monte carlo simulation), assumes a variation in asset returns over time. Monte carolo typically varies returns on a single projection path (called **runs**).  There are typically 500+ runs done in a single simulation.  The simulations can provide context into the range of possible outcomes, hence assist in goal estimations (probability of success).  Not necessarily a normal distribtion with a Monte carlo.
 
 Model Assumptions:
@@ -187,7 +196,7 @@ Model Assumptions:
 * Should include investment fees and expenses
 * Should take goal flexibility into account
 * For Determinisitc, inputs should be the expected geometric (compounded) returns.  It's geometric b/c there is no randomness.  US stocks average 7% geometric returns.
-* For a Monte Carlo simulation should be the expected arigthmetic (simple average) returns.  It's arithmetic b/c of the randomness embedded in the forecast.  US stocks average 9% arithmetic returns.
+* For a Monte Carlo simulation, inputs should be the expected arigthmetic (simple average) returns.  It's arithmetic b/c of the randomness embedded in the forecast.  US stocks average 9% arithmetic returns.
 * Assumptions/projections should be used to create reasonable expecatations of outcomes, and should be revised on a regular basis.
 
 ### Covariance
@@ -259,7 +268,7 @@ To calcuation correlation, we first need to calculate the covariance:
 
 #### Asset Class Returns and Correlation
 
-**Availability Bias**: overweighing recent information.  This bias can lead to diverging to a financial plan.
+**Availability Bias**: overweighing recent information.  This bias can lead to diverging from a financial plan.
 
 The **Periodic Table of Investment Returns** shows annual performance of different asset classes.  The trend is that different asset classes perform better at different times (reinforcing diversification and "staying the course").  Emerging markets are the most volatile, though has relatively high returns.
 
@@ -303,7 +312,7 @@ Beta (the amount of systematic risk) is calculated by measuring the correlation 
 
 The **CAPM (Capital Asset Pricing Model)** states that the expected return of an asset is a function of the amout of systemic risk it has.  It's related to the (1) expected rate of return today (risk-free rate) in exchange for a higher payout in the future and (2) taking on risk (risk premium).
 
-Risk averse investors require a higher risk premium.  Risk premium can be estimate by looking at historical risk of equity premiums vs risk-free investments.  In the US in the 19th century, the equity premium (geometric return) was 2.3%, and it was 4.8% (3.8% globally) in the 20th century.  Risk premium = Average Stock Returns - Average Bond Returns.  The equity risk premium has decreased in the last few decades (less than the 4.8% historical).
+Risk averse investors require a higher risk premium.  Risk premium can be estimated by looking at historical risk of equity premiums vs risk-free investments.  In the US in the 19th century, the equity premium (geometric return) was 2.3%, and it was 4.8% (3.8% globally) in the 20th century.  Risk premium = Average Stock Returns - Average Bond Returns.  The equity risk premium has decreased in the last few decades (less than the 4.8% historical).
 
 > Mutual fund has a beta of 1.4.  The risk free rate is 2% and the equity risk premium is 3%.
 >
@@ -325,7 +334,7 @@ An **Event Study** assesses stock prices change in response to new information. 
 
 The **Efficient Market Hypothesis (EMH)** has 3 forms:
 * **Weak-Form**: Stock prices are random (aka "ramdom walk") and not related to public information. The existence of weak-form markets allow for analysts to benefit from research.
-* **Semi-Strong-Form**: All publicly available info is instantly incorporated into stock prices.  The Yermak jet study exemplifies this market.  Acting on private information in semi-strong markets is illegal, but allows for extra returns abouve the market.
+* **Semi-Strong-Form**: All publicly available info is instantly incorporated into stock prices.  The Yermak jet study exemplifies this market.  Acting on private information in semi-strong markets is illegal, but allows for extra returns above the market.
 * **Strong-Form**: All Public and Private info is instantly incorporated into stock prices.
 
 | EMH         | Technical Analysis | Fund Analysis | Insider Info |
@@ -366,7 +375,7 @@ Standard deviations aren't as helpful for estimating risk in rare, worst-case ev
 
 ### Asset Pricing
 
-Asset pricing is done via the Capital Asset Pricing Model (CAPM).  For efficient markets, asset prices can be determined via systemic risk (i.e. beta) by estimating the covariance of the market.  The *cost of capital* is also important in asset pricing and it easily determined by bond rates.  The cost of equity/stock financing is harder to determine b/c it's stochastic (random), but can be estimate in standard deviation intervals via statistics.
+Asset pricing is done via the Capital Asset Pricing Model (CAPM).  For efficient markets, asset prices can be determined via systemic risk (i.e. beta) by estimating the covariance of the market.  The *cost of capital* is also important in asset pricing and it easily determined by bond rates.  The cost of equity/stock financing is harder to determine b/c it's stochastic (random), but can be estimated in standard deviation intervals via statistics.
 
 **The Pricing Kernel**: this is used to estimate pricing years into the future.
 
@@ -376,7 +385,7 @@ Asset pricing is done via the Capital Asset Pricing Model (CAPM).  For efficient
 
 > The Discount Rate = Opportunity Cost + Riskiness
 
-The CAPM can be used to estimate the discount rate in efficient markets.  The Opportunity Cost component is comprised of the risk-free rate.  The riskiness component is comprised of the risk premium of the asset (the bets of the asset times the market risk premium).
+The CAPM can be used to estimate the discount rate in efficient markets.  The Opportunity Cost component is comprised of the risk-free rate.  The riskiness component is comprised of the risk premium of the asset (the beta of the asset times the market risk premium).
 
 The **law of one price** states that all financial assets are priced via the CAPM and the price reflects the systemic risk of the asset.
 
@@ -417,13 +426,13 @@ If the risk-free rate is 2% and the market risk premium is 4%, what is the fair 
 
 ### Evaluating Alpha
 
-Alpha (aka Jenson's Alpha) is calculated through the beta regression.  Alpha is the excess return above and beyond expected returns base on the asset's market risk.
+Alpha (aka Jenson's Alpha) is calculated through the beta regression.  Alpha is the excess return above and beyond expected returns based on the asset's market risk.
 
 Positive alpha means the fund has an excess return beyond it's beta (systematic risk).
 
 Alpha is the y intercept.   Markets have an alpha of zero and a beta of 1.  The alpha of a fund is usually negative and equal to the fees of the fund.
 
-**R-Squared** explains the amount of excess return of an asset is from alpha and from beta.  Ranges b/w 0 - 1 (0% - 100%).  It's also know as te **goodness of fit**.
+**R-Squared** explains the amount of excess return of an asset is from alpha and from beta.  Ranges b/w 0 - 1 (0% - 100%).  It's also known as the **goodness of fit**.
 
 With a risk-free rate of 2%, a risk premium of 3%, a beta of 2 and an alpha of 0, R-squared is:
 
@@ -459,7 +468,7 @@ CAPM isn't enough, wealth managers need to select the "right" factors when creat
 
 Determining an investors risk level is the first step in creating a portfolio.  A **risk tolerance questionnaire (RTQ)** is used to estimate investor risk tolerance (risk level is expressed as an equity target).
 
-**Mean Variance Optimization (MVO)** is the most common form of portfolio optimizatio (created by Harry Markowitz).  It has 3 major inputs: (1) return (2) standard deviation (3) correlation between asset classes.  The goal is to optimize the returns for a given level of risk.  Complex portfolios add diversification and are more efficient than basic portfolios.  This is consistent with modern portfolio theory.  This complexity can be reduced if picking a single fund that holds all of the diversified assets.
+**Mean Variance Optimization (MVO)** is the most common form of portfolio optimization (created by Harry Markowitz).  It has 3 major inputs: (1) return (2) standard deviation (3) correlation between asset classes.  The goal is to optimize the returns for a given level of risk.  Complex portfolios add diversification and are more efficient than basic portfolios.  This is consistent with modern portfolio theory.  This complexity can be reduced if picking a single fund that holds all of the diversified assets.
 
 ### Return Predictors
 
@@ -507,11 +516,11 @@ Smart Beta (or Strategic Beta) is just another form of active management, with t
 
 Liquid assets are cash or cash equivalents (not necessarily held in currency).  Cash acts as a buffer to cover expenses in order to avoid pulling out of other invested assets.
 
-The cost of holding liquid assets is the lower return of safe assets.  Liquid assets can be converted into cash and doesn't fluctuate much in changing markets, which makes the suited for short-term, inflexible goals or unforeseen expenses.
+The cost of holding liquid assets is the lower return of safe assets.  Liquid assets can be converted into cash and don't fluctuate much in changing markets, which makes them suited for short-term, inflexible goals or unforeseen expenses.
 
 #### How Much Should a Household Hold in Liquid Assets
 
-If there are planned near-term expenses, then households should home more in liquid assets.  Homeowners should hold more in liquid assets since home expenses are **lumpy**.
+If there are planned near-term expenses, then households should have more in liquid assets.  Homeowners should hold more in liquid assets since home expenses are **lumpy**.
 
 Liquidity costs include the absense of the illiquidy premium (less liquid assets demand a premium).  They also miss out on the term/duration preimum, which gives a preimium for holding onto the asset.
 
@@ -539,7 +548,7 @@ Home equity should be added as an asset to the balance sheet. Home equity can be
 
 The historical average return on homes has been about 1% higher than inflation.  Denver and Portland have enjoyed a high return with low risk.  Las Vegas has experienced high risk with low returns.  The standard deviation of a home increases over time.  Additional costs can reduce the average 1% return (insurance, taxes, maintenance, improvements).
 
-The longer someone lives in a home, the better of an investment it is.  Homeowners have higher networth than renters since a mortgage payment acts as an automated investment.  People tend to say in homes abou 1/2 as long as they think.
+The longer someone lives in a home, the better of an investment it is.  Homeowners have higher networth than renters since a mortgage payment acts as an automated investment.  People tend to stay in homes about 1/2 as long as they think.
 
 The mortgage cost should be considered a liability on the balance sheet.
 
@@ -554,7 +563,7 @@ Even though it may not make sense, it can make a client feel better to pay down/
 
 ### Human Capital
 
-Human capital is worth 4x more than stock, bonds, and housing in a household.  It is the total economic value of an individuals set of skills and talents.  Since you can't trade your human capital asset, it's hard to price it.  It is typically estimated via the net present value of future earnings, which takes wage growth into account.  Human capital risks vary by individual.
+Human capital is worth 4x more than stock, bonds, and housing in a household.  It is the total economic value of an individuals set of skills and talents.  Since you can't trade your human capital for another asset, it's hard to price it.  It is typically estimated via the net present value of future earnings, which takes wage growth into account.  Human capital risks vary by individual.
 
 Human capital is largest early in the lifecycle.  The relative value in a portfolio changes over time as other investments start to accumulate and grow.  It's a relatively safe asset that is similar to a risky bond.  It's similar to a 30/70 portfolio (30% stocks, 70% bonds).
 
@@ -621,7 +630,7 @@ A **bond** is a form of debt-financing where there is an obligation to pay back 
 
 Entities that issue bonds:
 * Government: governments and municipalities issue bonds to pay for projects.  US Dept of Treasury bonds are called **treasuries**.  **T-Bills** (or Treasury Bills) mature in 1 year or less.  **Treasury Notes** last 1 - 10 years and **Treasury Bonds** last 10 years or more.
-* Corporate: corporations issue bonds, the quality of the bonds vary per corporation.  **Short-term corporate bonds** mature within 5 years, **intermediat-term bonds** mature between 5 - 10 years.  **Long-term** bonds mature in 10 or more years.
+* Corporate: corporations issue bonds, the quality of the bonds vary per corporation.  **Short-term corporate bonds** mature within 5 years, **intermediate-term bonds** mature between 5 - 10 years.  **Long-term** bonds mature in 10 or more years.
 
 In the marketplace, a bond value will rise if newer bonds are offered at a lower coupon rate (aka **yield**), and decrease in value if subsequent bonds pay at a higher rate.
 
@@ -639,7 +648,7 @@ Re-investing short-term bonds involves reinvestment risk, which increases the ra
 
 Riskier bonds pay a higher interest rates.  Highly-traded bonds are more liquid and have lower interest rates.  Municipal bonds offer a tax benefit, so also have a lower interest rate.  Corporate and some government bonds have a higher default risk, so they pay a higher interest rate.
 
-**Callable bonds** contain give the bond issuer the option to repay the bond before maturity if interest rates are lower.  These bonds pay a higher interest rate.
+**Callable bonds** give the bond issuer the option to repay the bond before maturity if interest rates are lower.  These bonds pay a higher interest rate.
 
 THe **Macaulay Duration** is the average amount of time it takes to receive the present value of the expected cash flows from a bond.
 
@@ -763,7 +772,7 @@ ETF offer the same benefits as bond funds but with lower management fees and tra
 
 ### Equity Financing
 
-Private company founders may chooose to diversify their portfolio or raise capital for growth by going public.  Public companies separate investors/owners from management.  Consortiums of private investors are called **venture capitalists**.  In order to go public, private companies work with banks to sell shares of stock with an IPO in the **primary market** (institutional investors).  Individual investors may be initial shares in a **secondary market exchange** (e.g. NYSE), which often increases the price of the stock.  In the secondary market, IPO typically underperform other stocks.  The big winners are the institutional investors.  Companies with a higher operating risk typically have less debt and more equity financing.
+Private company founders may chooose to diversify their portfolio or raise capital for growth by going public.  Public companies separate investors/owners from management.  Consortiums of private investors are called **venture capitalists**.  In order to go public, private companies work with banks to sell shares of stock with an IPO in the **primary market** (institutional investors).  Individual investors may acquire initial shares in a **secondary market exchange** (e.g. NYSE), which often increases the price of the stock.  In the secondary market, IPOs typically underperform other stocks.  The big winners are the institutional investors.  Companies with a higher operating risk typically have less debt and more equity financing.
 
 Stock ownership limits an investor's liability to just their investment amount.
 
@@ -785,11 +794,11 @@ Primary Market:
 * **Financial Intermediary**: an investment bank acts as a financial intermediary between the company and the institutional investors in an effort to evaluate the value of the shares and the viability of selling them (via a road show).
 * **Leaving Money on the Table**: from the perspective of the company, the rise in the stock price in the secondary market that leads to a devaluing of the company's stock share value.  Investment banks take a 7% cut of all primary market sales.
   
-A majority of transactions take place in the secondary market (NYSE, NASDAQ).  A **specialist/market-maker** brings together buyers and sells and makes profits on the differece between the bid price and the asking price (the **bid-ask spread**).  The S&P 500 has a low bid-ask spread. Less-liquid assets have higher bid-ask spreads.  Because of electronic trading, the spread has decreased from $.12 per share in the 1990s to about $.03 per share today.  This fee reduction makes rebalancing less costly.
+A majority of transactions take place in the secondary market (NYSE, NASDAQ).  A **specialist/market-maker** brings together buyers and sells and makes profits on the differece between the bid price and the asking price (the **bid-ask spread**).  The S&P 500 has a low bid-ask spread. Less-liquid assets have higher bid-ask spreads.  Because of electronic trading, the spread has decreased from $0.12 per share in the 1990s to about $0.03 per share today.  This fee reduction makes rebalancing less costly.
 
 The **market depth** is the number of buy and sell orders issues during the day.  Sellers and buyers can issue a **market order** (current price of the asset) or a **price contingent offer** (specify a target price).  A **stop loss order** (set floor stock price to automatically sell at) is used to limit potential losses.  Stop loss orders are blamed for the flash crash of 2010 and other market anomolies.
 
-**Dark pools** are private markets for large insitutional investors who can transaction privately.  Companies listed in the secondary market must file with the SEC and provide all financial information to investors.  The bond market is less liquid that stocks b/c of the difficulty of matching buyers and selles due to the variability of bond attributes (creating a larger bid-ask spread).
+**Dark pools** are private markets for large insitutional investors who can transact privately.  Companies listed in the secondary market must file with the SEC and provide all financial information to investors.  The bond market is less liquid than stocks b/c of the difficulty of matching buyers and selles due to the variability of bond attributes (creating a larger bid-ask spread).
 
 In 1975, brokerage commissions were deregulated (called **Mayday**), resulting in reduced transaction costs via the emergence of discount brokerage houses.  Since commission costs are lower with larger trades, transaction costs can be reduced bigger, more infrequent trades.
 
@@ -797,7 +806,7 @@ In 1975, brokerage commissions were deregulated (called **Mayday**), resulting i
 
 Sometimes offering a dividend can signal that a company is becoming a mature, lower-growth company, which can have downward pressure on the stock price.  A company's profits are referred to as **earnings**.  Earnings are either reinvested or paid out as dividends.  The **dividend payout ratio** is the dividends divided by the earnings.
 
-A company has $2 million in profits, has 4 million shares, and pays $.25 per share:
+A company has $2 million in profits, has 4 million shares, and pays $0.25 per share:
 
 > Dividend Payout Ratio = (4,000,000 X .25)/2,000,000 = 0.5  (50% paid in dividends)
 
@@ -809,9 +818,9 @@ The **dividend yield** is the annual dividend paid divided by the price of the s
 
 ### Dividend Stocks
 
-The average compound return on stocks have been about 10%, and 6% of that has been from dividends.  Value stocks typically pay higher dividends than growth stocks (as well as higher returns).  Dividend yields have decreased over the past 25 years.  Divident stocks haven't performed better than non-dividend paying stocks, and may be detrimental due to their tax treatment.
+The average compound return on stocks have been about 10%, and 6% of that has been from dividends.  Value stocks typically pay higher dividends than growth stocks (as well as higher returns).  Dividend yields have decreased over the past 25 years.  Dividend stocks haven't performed better than non-dividend paying stocks, and may be detrimental due to their tax treatment.
 
-Preferred stocks often pay perpetual dividends, but they can be "called" in a low interest environment.  Preferred stock dividents are considered **qualified** dividends and get taxed like long-term capital gains, which makes the good for taxable accounts.  Preferred stocks have the same Sharpe ratio as high-yield bonds or large-cap stocks, but is less risky and thus have lower returns.
+Preferred stocks often pay perpetual dividends, but they can be "called" in a low interest environment.  Preferred stock dividends are considered **qualified** dividends and get taxed like long-term capital gains, which makes them good for taxable accounts.  Preferred stocks have the same Sharpe ratio as high-yield bonds or large-cap stocks, but is less risky and thus have lower returns.
 
 A **dividend clientele** is a group of investors that prefer dividends.
 
@@ -825,7 +834,7 @@ The **dividend irrelevance theorem** states that the stock price is reduced by t
 
 **Narrow Framing** (or just Framing) is viewing the income characteristics of an investment in isolation from the overall portfolio.  Dividend investors sometimes narrowly frame dividend stocks, often ignoring the systematic risk and total returns.
 
-Investing in dividends can also have idiosyncratic risks is the stocks are purchased individually.
+Investing in dividends can also have idiosyncratic risks if the stocks are purchased individually.
 
 ### Firm Valuation
 
@@ -835,7 +844,7 @@ The **dividend discount model** is the discounting of the net present value of d
 
 The **Gordon Growth Model** estimates the value of a stock using the expected dividend, the discount rate, and the expected rate of dividend growth.
 
-> Value of a Stock = (next annual divident payment) / (required return from CAPM - constant growth rate of the dividend)
+> Value of a Stock = (next annual dividend payment) / (required return from CAPM - constant growth rate of the dividend)
 
 Ford pays $.60 per share per year in dividends, has a beta of 1.36, the current risk-free rate is 2%, the market-risk premium is 4%, and investors expect **no growth** in future dividends.
 
@@ -852,7 +861,7 @@ Because of idiosyncratic risk, the discount rate should be increased for individ
 
 Stocks can be classified into different **sectors**, which are a part of the economy that shares a related product or service.  11 main sectors: Basic Materials, Communication Services, Consumer Cyclical, Consumer Defensive, Energy, Financial Services, Healthcare, Industrials, Real Estate, Technology, and Utilities.
 
-**Hot Sectors** are sectors that have recently performed well.  The tend to become overvalued and underperform as they become less hot.  Clients tend to want to invest in hot sectors during their overvaluation period, but that usually results in underperformance and less diversification.
+**Hot Sectors** are sectors that have recently performed well.  They tend to become overvalued and underperform as they become less hot.  Clients tend to want to invest in hot sectors during their overvaluation period, but that usually results in underperformance and less diversification.
 
 Sectors should be invested in to balance a portfolio, but not to generate excess performance.
 
@@ -869,7 +878,7 @@ Market valuations of firms vary within an industry.  **Tobin's Q** (or **Q Ratio
 
 #### Three Factor Regression Coefficients
 
-The Three Factor Regression Coefficients tells us the historical beta of the sector and the extent to which it loads to size and value factors. The 3 factors are beta, growth, and value.
+The Three Factor Regression Coefficients tells us the historical beta of the sector and the extent to which it leans to size and value factors. The 3 factors are beta, growth, and value.
 
 Value stocks are more sensitive to a recession.
 
@@ -911,7 +920,7 @@ The **Bloomberg Barclays Aggregate Bond Index** is the second most popular prima
 1. Have a fixed-rate coupon
 1. Meet various size, maturity and market requirements
 
-The **iShares Core U.S. Aggregate Bond ETF (AGG)** is the most popular bond fund that tracks the Bloomberg Barclays Aggregate Bond Index.  The duration is 6.27 years and a weighted average maturity of 8.61 years, with an expense ration of 3 basis points.
+The **iShares Core U.S. Aggregate Bond ETF (AGG)** is the most popular bond fund that tracks the Bloomberg Barclays Aggregate Bond Index.  The duration is 6.27 years and a weighted average maturity of 8.61 years, with an expense ratio of 3 basis points.
 
 The Bloomberg Barclays U.S. Aggregate Bond Index is a high-quality, intermediate-term bond index that is a benchmark for the entire fixed income portion (or intermediate-term bond fund) of a portfolio.
 
@@ -943,7 +952,7 @@ A **mutual fund** is similar to an insurance product in that they allow investor
 
 A **mutual fund family** is the parent organization of multiple mutual funds that shares marketing and management resources.
 
-Most mutual funds are **open-ended investment companies**, where they aren't fixed on the number of shares they can issue.  In cntrast, there are also **closed-ended investment companies**, but they are relatively uncommon.
+Most mutual funds are **open-ended investment companies**, where they aren't fixed on the number of shares they can issue.  In contrast, there are also **closed-ended investment companies**, but they are relatively uncommon.
 
 Mutual funds are sold on the primary market, and are redeemed directly with the mutual fund (funds hold cash to easily liquidate).  **Redemption fees** are sometimes levied from mutal funds to discourage short-term investing.  The purchase price and the redemption price are based on the net asset value (NAV).
 
@@ -969,7 +978,7 @@ A fund with a load charge of 5% and a net asset value of $50:
 
 #### Expense Ratios and Shares
 
-The **Expense Ratio** aggregates fees and expenses related with managing a fund.  These fees must be subtracting from gross returns to calculate the net investor return. A fund with an annual gross return of 11% and an expense ratio of 1%, has a net investor return of 10%.  12b-1 fees are included in the expense ratio.  Expense ratios are the strongest predictor of mutual fund performance.
+The **Expense Ratio** aggregates fees and expenses related to managing a fund.  These fees must be subtracted from gross returns to calculate the net investor return. A fund with an annual gross return of 11% and an expense ratio of 1%, has a net investor return of 10%.  12b-1 fees are included in the expense ratio.  Expense ratios are the strongest predictor of mutual fund performance.
 
 A **basis point** is one-onehundredth of a percent.  1% expense ratio = 100 basis points.
 
@@ -989,11 +998,11 @@ In 1993, the American Stock Exchange created the **S&P 500 Depository Receipt (S
 
 An **Exchange Traded Fund (ETF)** is an investment company that pools investor money to create a portfolio, and investors hold shares on that portfolio (much like mutual funds).  Before 2008, all ETFs were index funds, but since then a very small percentage (1%) are actively traded.
 
-**Authorized Participants** are the organizations that create the ETFs.  The exchanges are treated as in-kind and are not subject to taxes.  ETFs have lower transaction fees because the trade funds instad of buying/selling them.
+**Authorized Participants** are the organizations that create the ETFs.  The exchanges are treated as in-kind and are not subject to taxes.  ETFs have lower transaction fees because they trade funds instead of buying/selling them.
 
 A **creation unit** is equivalent to a fixed number of shares of the ETF, which drives the values of the shares.  The most common number for creation units is 50,000 shares.  Once an investor has 50,000 shares, they can trade their shares for the underlying portfolio (stocks and bonds) and vice versa.
 
-ETFs are more liquid than mutual funds.  It's less expensive to buy or sell mutual fund shares, but the difference is minimal.  ETFs are more tax efficient in taxable accounts because they defer capital gains untils the ETFs are sold while mutual funds distribute capital gains once a year.  ETFs are more transparent b/c they have to discolse their holdings on a daily basis whild mutual funds disclose quarterly with up to a 30 day lag.
+ETFs are more liquid than mutual funds.  It's less expensive to buy or sell mutual fund shares, but the difference is minimal.  ETFs are more tax efficient in taxable accounts because they defer capital gains until the ETFs are sold while mutual funds distribute capital gains once a year.  ETFs are more transparent b/c they have to discolse their holdings on a daily basis while mutual funds disclose quarterly with up to a 30 day lag.
 
 Mutual funds can be aquired by another company, trading shares in the new fund for the old one.  ETFs liquidate by distributing the proceeds to investors.
 
@@ -1050,7 +1059,7 @@ Advantages:
 
 UITs are best suited for assets that are illiquid, which typicall have higher returns.
 
-UITs issue **units** rather than shares.  Portfolios are typically fixed for the lift of the trust (from issue date to termination date), and are typically much less diversified (fewer than 20 positions).  UITs are unmanaged, so have no board of directors.
+UITs issue **units** rather than shares.  Portfolios are typically fixed for the life of the trust (from issue date to termination date), and are typically much less diversified (fewer than 20 positions).  UITs are unmanaged, so have no board of directors.
 
 UIT similarities to other investment companies:
 * NAV tracking
@@ -1064,7 +1073,7 @@ UIT similarities to other investment companies:
 
 * Investments Process: the strategy for investments (e.g. small cap, ...etc)
 * Fund Performance: assess how well it's doing
-* Team Assesment: well resourced and experience leves
+* Team Assesment: well resourced and experience levels
 * Parent Company or Asset Management Firm: do they have a good history
 * Price Tag: analyze the price of the investment
 
@@ -1079,7 +1088,7 @@ Portfolio Analysis:
 
 #### The Role of the U.S. Market and International Allocation
 
-**Home bias** is over-allocating in one's home country.  Adding not-perfectly-correlated stocks and bonds from around the globe adds diversification and reduces risk (higher risk-adjusted performance).  The diversification benefit declines over time as US and internations stocks are highly correltated over time.
+**Home bias** is over-allocating in one's home country.  Adding not-perfectly-correlated stocks and bonds from around the globe adds diversification and reduces risk (higher risk-adjusted performance).  The diversification benefit declines over time as US and international stocks are highly correltated over time.
 
 The US had 60% of the global equity market in 1975, but that has dropped to 45% in 2018 (35% in bonds in 2018).
 
@@ -1132,7 +1141,7 @@ Many life-cycle funds only include funds from their holdings, though they perfor
 
 REITs are a unit investment trust that directly focus on real estate.  REITs allow investors to have exposure to diversified real estate holdings and get some of the advantages of owning real estate without direct ownership.
 
-At least 75% of REITs have their assets must be real estate, cash, or government securities (cash and government securities are held short-term). 75% of income must come from rents, mortgage interest, or other real estate investments. 90% of a REIT’s taxable income must be distributed as annual shareholder dividends. REITs can be publicly traded or non-listed public or private.
+REITs must have at least 75% of their assets in real estate, cash, or government securities (cash and government securities are held short-term). 75% of income must come from rents, mortgage interest, or other real estate investments. 90% of a REIT’s taxable income must be distributed as annual shareholder dividends. REITs can be publicly traded or non-listed public or private.
 
 2 categories of REITs:
 * **Equity REITs**: commercial or residential properties that generate income from rent and cover various sectors.
@@ -1147,7 +1156,7 @@ Disadvantages of REITs:
 
 ### Responsible Investing
 
-**The  Warm Glow Effect**: Investing in funds aligned with an investor's values increases the amount of satisfaction received from the investment.  Maximizing satisfaction more important than maximizing wealth, so it's the wealth manager's role to determin this.  Investors in socially responsible companies are more patient when the investment looses money and is more loyal to the advisor who helps their client increase their sense of purpose.
+**The  Warm Glow Effect**: Investing in funds aligned with an investor's values increases the amount of satisfaction received from the investment.  Maximizing satisfaction is more important than maximizing wealth, so it's the wealth manager's role to determine this.  Investors in socially responsible companies are more patient when the investment looses money and is more loyal to the advisor who helps their client increase their sense of purpose.
 
 Impact investing (aka sustainable investments) started in the 1700s by groups like the Religious Society of Friends (Quakers) and John Wesley.  These excluded mis-aligned investments, which is known as **socially responsible investing (SRI)**.
 
@@ -1210,7 +1219,7 @@ A **Single-Premium Deferred Annuity (SPDA)** guarantees interest rates for a per
 
 A **Multi-Year Guaranteed Annuity (MYGA)** is a single-premium deferred annuity that is similar to a CD, but is not FDIC insured (protected by state insurance guarantee funds) that provides a guaranteed interest rate for a fixed period of time (typically 3 - 7 years).  Gains are taxed as ordinary income upon liquidation, though a 1035 exchange can be used to defer the taxable event.  They have penalties if money is withdrawn before 59 1/2.
 
-A **Fixed indexed annuity (FIA)** is a type of deferred annuity used to accumulate assets for retirement, where the insurance company guarantees **no loss in principal** (not incuding subtractions from fees and dividends).  Annuity owners pick an index for the annuity to follow (e.g. S&P).  Penalties and taxes could be incurred it money is pulled out in the first few years or before 59 1/2 (unless a lifetime annuity is purchased with the proceeds).  FIAs to not take dividends into account, and they reduce the index by the amout of the dividend.  FIAs as basically a safe asset with potential tax advantages in a portfolio.  It may make sense to place investments into a FIA rather than in bonds in a taxable account to ovoid interest rate risk and possible higher returns.
+A **Fixed indexed annuity (FIA)** is a type of deferred annuity used to accumulate assets for retirement, where the insurance company guarantees **no loss in principal** (not incuding subtractions from fees and dividends).  Annuity owners pick an index for the annuity to follow (e.g. S&P).  Penalties and taxes could be incurred it money is pulled out in the first few years or before 59 1/2 (unless a lifetime annuity is purchased with the proceeds).  FIAs to not take dividends into account, and they reduce the index by the amout of the dividend.  FIAs are basically a safe asset with potential tax advantages in a portfolio.  It may make sense to place investments into a FIA rather than in bonds in a taxable account to avoid interest rate risk and possible higher returns.
 
 FIA cons:
 * Limitations on credited interest through caps, spreads, and participation rates (have guaranteed minimums)
@@ -1502,3 +1511,55 @@ Equity-linked notes create interest income even if the Note does not pay a coupo
 **Buffered ETFs** and **Registered Index-Linked Annuities (RILA)** have a graduated floor with a stopping point.
 
 A variable annuity with a a guaranteed minimum accumulation benefit rider behaves similar to a RILA.  For both, fees shift the bell curve to the left by reducing all returns above the floor by the amount of the fee.
+
+## Calculations
+
+## Real Returns
+
+> real retrns = ((1 + nominal rate)(1 + inflation rate)) - 1
+
+### Equity Premium
+
+The added premium for taking on additional systematic risk (bets).
+
+> Equity Premium = Expected Return - Risk-Free Rate
+
+A mutual fund with a beta of 1.4, the risk-free rate is 2% and the equity risk premium is 3%.
+
+> 2% + 1.4 * 3% = 6.2%
+
+### Expected Return
+
+> Expected Return = Risk-Free Rate + (Beta * Equity Risk Premium)
+
+A mutual fund with a beta of 1.4, the risk-free rate is 2% and the equity risk premium is 3%.
+
+> 2% + 1.4 * 3% = 6.2%
+
+### Sharpe Ratio
+
+The Sharpe ratio estimates expected return for the amount of risk they are taking. A higher percentage is better.
+
+> Sharpe Ratio = (Expected Return - Risk-Free Rate)/Standard Deviation
+
+or
+
+> Sharpe Ratio = Equity Premium/Standard Deviation
+
+An investment has an expected return of 5%, and the risk-free rate is 2% with a standard deviation of 10%.
+
+> (.05−.02)/0.1 = 0.3 = 30%
+
+### VaR
+
+Predicts the potential loss of a portfolio at a given probability level.
+
+A one-day 5% VaR of $100,000 means that there’s a 5% chance that the portfolio will decrease in value by more than $100,000 in a single day.
+
+### Asset Pricing
+
+> Asset Price = Expected Payout * (1 / (1 + CAPM Discount Rate))
+
+For future pricing:
+
+> Pricing Kernel = (1/(1+Discount Rate))^2
