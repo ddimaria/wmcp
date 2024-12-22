@@ -102,6 +102,7 @@
     - [Sharpe Ratio](#sharpe-ratio)
     - [VaR](#var)
     - [Asset Pricing](#asset-pricing-1)
+    - [Calculatin Alpha](#calculatin-alpha)
 
 
 ## Statistical Concepts
@@ -1516,7 +1517,12 @@ A variable annuity with a a guaranteed minimum accumulation benefit rider behave
 
 ## Real Returns
 
-> real retrns = ((1 + nominal rate)(1 + inflation rate)) - 1
+> Real Return = ((1 + nominal rate) / (1 + inflation rate)) - 1
+
+What is the real net return on an investment that provides an annual return of 4.4%, from which a 1% asset management fee is subtracted, if inflation during the year is 2.4%?
+
+> Nominal Rate - .044 - .01 = .034
+> Real Return = (1.034 / 1.024) - 1 = 
 
 ### Equity Premium
 
@@ -1563,3 +1569,11 @@ A one-day 5% VaR of $100,000 means that there’s a 5% chance that the portfolio
 For future pricing:
 
 > Pricing Kernel = (1/(1+Discount Rate))^2
+
+### Calculatin Alpha
+
+The market return is 8.2%, and the risk-free rate is 3.5%. An asset with a beta of 1.2 achieves a return of 9.7%. What part of the return is alpha?
+
+> Alpha = Equity Return – Risk-Free Rate – (Beta * (Market Return – Risk-Free Rate))
+
+> (.097 - .035) - (1.2 * (.082 - .035)) = 
