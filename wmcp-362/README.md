@@ -18,6 +18,39 @@
       - [Death and Taxes](#death-and-taxes)
   - [Tax Sheltering](#tax-sheltering)
     - [Traditional IRAs](#traditional-iras)
+    - [Roth IRAs](#roth-iras)
+    - [IRA Strategies](#ira-strategies)
+      - [Roth Conversions](#roth-conversions)
+      - [Nondeductible IRAs](#nondeductible-iras)
+      - [Inherited IRAs](#inherited-iras)
+      - [Rollovers](#rollovers)
+    - [Tax Sheltering Strategies](#tax-sheltering-strategies)
+      - [Basis Assets Accounts](#basis-assets-accounts)
+    - [Asset Location](#asset-location)
+  - [Funding Client Goals](#funding-client-goals)
+    - [Retirement Income Planning and Distribution](#retirement-income-planning-and-distribution)
+    - [Education Funding](#education-funding)
+      - [Federal Student Loans](#federal-student-loans)
+      - [Private Student Loans](#private-student-loans)
+      - [Education Savings Options](#education-savings-options)
+  - [Estate Planning Goals](#estate-planning-goals)
+    - [Wealth Transfer Goals](#wealth-transfer-goals)
+    - [Estate Plan Preparation](#estate-plan-preparation)
+    - [Trusts](#trusts)
+      - [Irrevocable Life Insurance Trust (ILIT)](#irrevocable-life-insurance-trust-ilit)
+      - [Income Tax Defective Trusts](#income-tax-defective-trusts)
+      - [Revocable Living Trust Planning](#revocable-living-trust-planning)
+      - [Types of Trusts](#types-of-trusts)
+    - [Life Insurance Strategies](#life-insurance-strategies)
+      - [Tax Issues for Life Insurance](#tax-issues-for-life-insurance)
+  - [Charitable Planning Goals](#charitable-planning-goals)
+    - [Donor Advised Funds (DAFs)](#donor-advised-funds-dafs)
+    - [Tax-Efficient Charitable Planning](#tax-efficient-charitable-planning)
+    - [Charitable Trusts](#charitable-trusts)
+    - [Philanthropic Goals](#philanthropic-goals)
+    - [Private Foundations](#private-foundations)
+  - [Business Owners and Executives](#business-owners-and-executives)
+    - [Small Business Ownership](#small-business-ownership)
 
 
 ## Tax Strategies
@@ -169,7 +202,7 @@ To calculate AMT, the taxpayer's income is compared to the AMT exemption amount.
 
 The AMT is calculated using a 26% flat tax rate on the taxpayer's positive AMT income of $232,600 or less.  The tax rate is 28% for AMT income above $232,600.  The AMT income is the taxpayer's taxable income plus the AMT adjustments minus the AMT exemption amount.  The AMT is then compared to the regular tax liability to determine the amount of tax owed.  If the AMT is greater than the regular tax liability, then the taxpayer is subject to AMT.
 
-The Tax Cuts and Jobs Act of 2017 made the exemption amount increase and the AMT rate was decreased.  However, the exemption amount is scheduled to expire after 2025.
+The Tax Cuts and Jobs Act of 2017 made the exemption amount increase and the AMT rate was decreased.  However, the exemption amount is scheduled to expire after 2025.  
 
 5 rules for coping with AMT:
 
@@ -269,5 +302,833 @@ Investments held in taxable accounts may have a lower tax rate than tax-deferred
 
 ### Traditional IRAs
 
+The purpose of IRAs are to encourage savings for retirement with the benefit of tax sheltering.  IRAs target middle class Americans, so they include limitations on contributions.
 
+**Deductible IRA contributions** are made with pre-tax dollars, so the contribution is subtracted from taxable income.  The contribution is tax-deductible and the earnings grow tax-deferred, so taxes are applied at a later date on all proceeds.
+
+**Non-deductible IRA contributions** are made with after-tax dollars, so the contribution is added to taxable income.  The contribution is not tax-deductible but the growth is tax-deferred, so taxes are applied at a later date on the groth only.
+
+Traditional IRAs boost net returns over a taxable account, even if the client is in a higher tax bracket in the future.
+
+Traditional IRA Limitations:
+* If the client reaches 70.5 before 2020, then they can only contribute up to 70.5.  Otherwise, there are no age limitations.
+* The maximum contribution is $7,000 per year, or $8,000 if the client is 50 or older.  These limits are indexed for inflation.
+* The individual or couple not covered by an employer can deduct the full contribution amount from their taxable income if their AGI is below a modest threshold.
+* They have limited liquidity before age 59.5.  Withdrawals before age 59.5 are subject to a 10% penalty.  Client's cannot take out a loan against the IRA.
+* RMDs must be taken starting at age 72.  For investors born between January 1, 1951 and December 31, 1959, RMDs must be taken starting at age 73.  For investors born after January 1, 1960 RMDs must be taken starting at age 75.  RMD penalties of 50% apply if the RMD is not taken.
+
+The 10% penalty can be avoided for:
+* Health insurance premiums while unemployed or unreimbursed medical expenses >7.5% of AGI
+* Qualified higher education expenses
+* Substantially equal periodic payments (SEPP/72(t) distributions)
+* First-time home purchase (up to $10,000)
+* IRS levy
+* Military reservist called to active duty (>179 days)
+* New parent through birth/adoption (up to $5,000 per child, per spouse)
+
+Secure Act 2.0 Penalty-Free Withdrawal Provisions:
+* Domestic Abuse (2024): Up to $10,000 or 50% of vested balance (indexed for inflation)
+* Terminal Illness: Full withdrawal if certified life expectancy is 84 months or less
+* Emergency Needs (2024): One $1,000 withdrawal per year for immediate financial emergencies
+* Natural Disasters: Up to $22,000 lifetime for federally declared disaster areas (retroactive to Jan 2021)
+* Long-Term Care (2026): Lesser of 10% vested balance or $2,500 annually (indexed for inflation)
+
+A traditional IRA is ideal when the tax rate at contribution age is higher than the tax rate at withdrawal age. This is expecially true for high income clients.  Roth IRAs should be considered if tax rates in the future are higher than the current tax rate.
+
+### Roth IRAs
+
+In Roth IRAs, contributions are made with after-tax dollars, and the growth and qualified distributions are tax-exempt. 
+
+Qualified distributions include:
+* Withdrawals after age 59.5 after a 5 year holding period
+* Withdrawals made to heirs after the death of the account owner
+* After permanent and total disability
+* Certain first-time home buying expenses
+* Non-qualified distributions are taxed as ordinary income and might be subject to the 10% penalty if the account owner is under 59.5.
+
+Roth IRA benefits:
+* Exempt from Income tax
+* Higher net rates of return over taxable accounts
+* Unaffected by income tax rates
+* Investors can reduce taxes and increase retirement spending by strategically drawing from a Roth IRA
+* Can be used to avoid the investment income tax or IRMAA
+
+**Tax diversification** involves holding assets in different types of tax sheltered accounts to adapt to changing tax laws and rates.
+
+Funding a Roth IRA:
+* Contributions
+* Roth conversions
+* Rollover Roth IRA
+
+Roth IRA contribution rules:
+* The investor must have taxable income
+* A married investor can contribute to their spouse's Roth IRA if the spouse is low to no income and files a joint tax return (Spousal IRA)
+* A single person can make a contribution if their MAGI is below $161,000 and a married person can make a contribution if their MAGI is below $240,000
+* IRS limits contributions to all IRA accounts
+* Contributions can be withdrawn at any time without penalty (but not growth), making them more liquid than traditional IRAs
+
+Roth IRAs are most appropriate for:
+* If a taxable account is the only other option
+* After the client has taken the 401k match
+* Those with low current marginal tax rates
+* Pre-retirees that are phasing into retirement
+* Those without Roth IRA balances (improves tax diversification)
+* For aggressive savors and investors to avoid RMDs
+* Investors that have a bequest intent
+* Younger investors that are in a lower tax bracket
+* If tax rates are expected to be higher in the future
+
+Exeptions to the 10% penalty (though growth is still taxed as ordinary income):
+* Substantially equal periodic payments (SEPP/72(t) distributions)
+* Qualified higher education expenses
+* Unreimbursed medical expenses >7.5% of AGI
+* Qualified health insurance premiums
+* Qualifited disaster relief distributions (up to $100,000 per disaster)
+* Birth or adoption of a child (up to $5,000 per child, per spouse)
+
+The 5 year rule:
+* Some Roth account must have been open for 5 years for the growth to be tax-free
+  * Planning opportunity: create a Roth IRA asap
+* The principal of Roth conversions are subject to the 5 year rule for EACH conversion to be tax-free
+  * Irrelevant if the client is older than 59.5
+
+Roth 401(k)s:
+* Ideal for high income clients since they don't have income limits
+* Other Roth IRA benefits apply
+
+### IRA Strategies
+
+#### Roth Conversions
+
+Roth conversions are the process of converting a traditional IRA or 401(k) to a Roth IRA.  Taxes are paid on the conversion amount at the client's current marginal tax rate.  There are no income limits for Roth conversions, which makes them suitable for high income clients.  It's optimal to invest in traditional IRAs and 401(k)s when a client's marginal tax rate is higher and should convert to Roth IRAs when the client's marginal tax rate is lower.  A 10% penalty applies to early withdrawals from Roth IRAs if the money was converted less than 5 years ago and the client is under 59.5.  Roth conversions improve a client's liquidity and tax diversification.
+
+It's best to pay taxes on the conversion with money from a taxable account rather than from the conversion itself.  Roth conversions outperform taxable accounts in the long run and beat tax-deferred accounts if the funds are subject to RMDs.
+
+Heirs may receive higher inheritted values from a Roth IRA than a traditional IRA.
+
+Optimal situatious for Roth conversions:
+* Before RMDs begin and if social security is delayed, fill up lower tax brackets with conversions
+* Tax credit carryforwards and charitable deductions can offset the tax on conversions
+* Assets with depressed values can be converted to reduce overall tax costs
+
+The net return benefit of a conversion is greatest for funds converted before retirement and spent soon after retirement.
+
+Conversions can be difficult for risk aversse clients.
+
+#### Nondeductible IRAs
+
+A nondeductible IRA is an IRA that is funded with after-tax dollars and is not tax-deductible.  Taxes are deferred on earnings (growth) only, and txed at ordinay income and capital gains rates at the time of withdrawal.   Nondeductible IRAs are inferior to traditional IRAs and Roth IRAs.
+
+Nondeductible IRAs are best for tax inefficient investments (e.g. bonds) and if the client is in a low tax bracket at distribution.  Nondeductible IRAs can be converted to Roth IRAs with a backdoor Roth IRA.  An ideal backdoor Roth IRA conversion is when the client does not have existing traditional IRAs.
+
+After Tax 401(k)s Contributions offers the same benefits as nondeductible IRAs, but the contributions are made with pre-tax dollars.  The contributions (but not the growth) can be use for Roth IRA conversions.
+
+Nondeductible IRA are most appropriate for:
+* After the client has maxed out other tax advantaged accounts
+* The clieht does not have significant funds in a traditional IRA (because of the pro-rata rule)
+* The client is older than 59.5 (for liquidity reasons)
+* The client is far from RMDs
+* The invested assets are tax inefficient (e.g. bonds)
+
+The pro-rata rule for taxes on IRA distributions treats all IRA accounts as one pool of assets.  The percentage of nondeductible contributions in the pool is used to determine the tax on the distribution (percentage of nondeductible contributions in the pool dictates the percentage of the distribution that is NOT taxed).
+
+Nondeductible IRAs effectiveness depends on:
+* The rate of return on the assets
+* The current and future tax rates
+* The length of the holding period
+
+#### Inherited IRAs
+
+An inherited IRA is a Roth or Traditional IRA that is inherited by a beneficiary.  Non-designated beneficiaries (e.g. charities, trusts, your estate) must take all distributions within 5 years.  Non-Elibible Designated Beneficiaries have to take all distributions within 10 years.  Taking only the RMDs can stretch out the distribution period over their lifetime.  RMDs start when the deceased person would have turned 73.
+
+Centrain individuals (Eligible Designated Beneficiaries) can stretch out the distributions 10 years:
+
+* Spouses (not more than 10 years younger than the deceased)
+* Minor children
+* Disabled beneficiaries
+* Chronically ill beneficiaries
+
+Trusts that meet certain requirements can also be considered Eligible Designated Beneficiaries and are best for:
+
+* Minors
+* Adults that aren't capable or responsible enough to handle the money
+* Protection from creditor and backruptcy claims
+* The deceased has children from a previous marriage
+
+A spouse can roll over the IRA into their own IRA.  If the spouse is less than 59.5, they can setup an inherited IRA.  The spouse has the option to renounce the IRA if they want another beneficiary to inherit the IRA.  If the surviving spouse is older than the deceased, then the surviving spouse can take RMDs when the deceased would have turned 73.
+
+A non-spouse beneficiary can denounce the IRA OR transfer the funds to an inherited IRA.  If the non-spouse beneficiary is older than the deceased, then the surviving spouse can take RMDs when the deceased would have turned 73.
+
+Inherited IRAs best practices for IRA owners:
+* Choose a beneficiary that meets estate planning goals
+* Name primary and contingent beneficiaries for the most RMD flexibility
+* File beneficiary forms regularly
+* Limit withdrawals to RMDs
+
+Inherited IRAs best practices for beneficiaries:
+* Transfer the IRA to an inherited IRA and name beneficiaries
+* For multiple beneficiaries, transfer the IRA into separate accounts by December 31st of the year of the deceased's death
+* Determine if the IRA owner took RMDs in the year of the deceased's death
+* Limit withdrawals to RMDs
+* Take the RMD by December 31st of the each year
+
+The IRD (Individual Retirement Account Deduction) deduction or 691(c) is an income tax deduction in the amount of estate tax paid when inheriting an IRA. 
+
+
+#### Rollovers
+
+All qualified plans, 403(b) annuities, government-sponsored 457(b) plans, and IRAs can be rolled over into another qualified plan or IRA.  Only a participant can roll over their own qualified plan.  A spouse who is an alternate payee can roll over their own qualified plan.
+
+Distirbutions that are not qualified:
+* RMDs
+* A hardship withdrawal from a 401(k)
+* SEPP (72(t)) distributions
+* Dividends from employer stock
+* Life insurance within a 401(k)
+
+Most plans allow the participant to elect:
+* A lump sum distribution
+* A direct rollover to another qualified plan or IRA
+* A partial rollover and a partial distribution
+
+Types of rollovers:
+* A 60-day rollover: the distribution must be made within 60 days of the distribution date.  After the 60 days, the distribution is subject to a 10% penalty and income tax.  Only 1 60-day rollover is allowed per year.  Some exceptions apply.
+* A direct rollover: the distribution is rolled over into another qualified plan or IRA
+* A trustee-to-trustee rollover: the distribution is rolled over into another qualified plan or IRA without an intermediary (60-day rules apply)
+
+Distributions from a qualified plan is subject to a mandatory 20% withholding tax unless the distribution is rolled over into another qualified plan.  Traditional IRAs, SEP IRAs, and SIMPLE IRAs are not subject to the 20% withholding tax.  
+
+SIMPLE IRAs rollover rules:
+* The distribution must be rolled over into another SIMPLE IRA
+* Into a traditional IRA once the SIMPLE IRA has been open for 2 years
+
+In taxable accounts, substitutions aren't allowed.  Only qualified plans allow sale of assets prior to rolling over.
+
+Reasons not to rollover:
+* Read the plan documents, as they could have lower investment fees or other benefits over the target IRA
+* Some qualified plans have options that aren't available in IRAs
+* Some qualified plans have distribution options like annunities that have favorable rates
+* It may be tax beneficial to keep the qualified plan, like in the case of the "rule of 55"
+* After tax contributions will be subject to RMDs if rolled over
+* For employee stock, the net unrealized appreciation strategy avoids ordinary income tax treatment on the growth of the stock
+* Life insurance in a qualified plan cannot be rolled over
+* Maturing benefits like CDs should not be rolled over until they mature
+
+Reasons to rollover:
+* Wider range of investment options
+* Consolidate accounts for cost and simplicity
+* Improved access to funds
+* Rollovers required for QCDs (qualified charitable distributions)
+
+### Tax Sheltering Strategies
+
+4 primary types of investing accounts:
+* Annually Taxable accounts: growth is taxed annually typically at the investor's ordinary tax rate.  Includes checking, savings, money market accounts, bond mutual funds and ETFs, REITs, and CDs.
+* Basis assets accounts: growth is deferred until the asset is sold typicall at the capital gains tax rate.  Includes stocks, mutual funds, ETFs, life insurance or annuities liquidate before death, and business assets like real estate.  Gains on insurance are subject to the investors ordinary income tax rate.
+* Tax-deferred accounts: tax is initially deducted and then deferred until withdrawal.  Includes traditional IRAs, 401(k)s, 403(b)s, and 457(b)s.
+* Tax-exempt accounts: purchased with after-tax dollars, growth is tax-exempt.  Includes Roth IRAs and Roth 401(k)s
+
+Calculating After Tax Return:
+> After-Tax Return = Pretax Return * (1 − Marginal Tax Rate)
+
+Calcluating Net Return:
+> Net Return = Gross Return * (1 − Marginal Tax Rate)
+
+Calculating Future Value:
+> Future Value = Gross Return * (1 + After-Tax Return)
+
+**Data to use for all examples:**
+```
+An investor with $10,000 of gross income who has an income tax rate of 40% for the next 20 years. The investment is held within an annually taxable account with a 4% rate of return for 20 years.
+```
+
+**Annually taxable example:**
+> Gross Return = $10,000 * (1 - 0.40) = $6,000
+> Net Return = (.04 * (1 - 0.40)) = 2.4%
+> Future Value = $6,000 * (1 + 0.024)^20 = $9,641.63
+
+**Tax-Exempt example:**
+> Gross Return = $10,000 * (1 - 0.40) = $6,000
+> Future Value = $6,000 * (1 + 0.04)^20 = $13,146.74 
+
+*Tax-exempt earns $3,505.10 more than annually taxable.*
+
+**Tax-Deferred example:**
+> Gross Return = $10,000 * (1 - 0.40) = $6,000
+> Future Value = $6,000 * (1 + 0.04)^20 * (1 – 0.40)  = $13,146.74
+
+*Tax-deferred earns the same as tax-exempt when the 40% is the same during earning years and when taking distributions.  This is called the "traditional/Roth equivalency"*
+
+**Tax-Deferred example with 30% marginal tax rate in distribution years:**
+> Gross Return = $10,000 * (1 - 0.40) = $6,000
+> Future Value = $6,000 * (1 + 0.04)^20 * (1 - 0.30) = $15,324.17 
+
+Calculate the rate of return of the tax-deferred example using the net present value formula:
+> Present Value = -$6,000 
+> 
+> Future Value = $15,324.17 
+> 
+> Years = 20 
+> 
+> The above is used to calculate the rate of return.  Rate = 4.80%
+
+#### Basis Assets Accounts
+
+The basis assets accounts grow more than the annually taxable accounts since the growth isn't taxed until the asset is sold.  They also receive a more favorable capital gains tax treatment on the growth.
+
+Investments with high returns should be held longer than low returns.
+
+Selling low diversified assets with high returns is a good way to improve the overall Sharpe Ratio.
+
+Some funds include basis assets and annually taxable assets, which will have a lower return than a basis assets account if they both grow at the same rate.
+
+Annuities and life insurance products liquidate before death have the same tax deferral compounding effect as basis assets accounts, though tye are typically taxed at ordinary tax rates when realized.  If lower tax rates are expected, then insurance products should be allowed to grow during working years and liquidated during retirement.  Insurance products can be used to convert annually taxable assets to basis assets.  Gains from an insurance product can also be converted into an income annuity in order to smooth out the tax burden (exclusion ratio) and still receive tax-deferred growth.
+
+### Asset Location
+
+Asset location is the process of allocating assets to accounts with different tax treatments in order to achieve higher after-tax returns. The 3 basic types of accounts are taxable, tax-deferred, and tax exemption.
+
+**Taxable**:
+Provide the lowest net after-tax returns.  Gains are taxed on withdrawals using the capital gains tax rate.  Dividends and interest are typically taxed at the investor's ordinary income tax rate, though they may be considered "qualified" and subject to more favorable tax rates after being held for at least 60 days.  Best for tax-efficient investments with low realized gains.  Bonds and active mutual funds with high turnover are not good in this account.
+
+**Tax-Deferred**:
+Provide higher net after-tax returns than taxable accounts.  Gains are deferred until withdrawal and taxed at the investor's ordinary income tax rate.  Best for tax-inefficient investments like high yield bonds and funds/stocks with high turnover or dividends.
+
+2 main types:
+
+* Favorable on Contributions and Growth: but unfavorable on withdrawals, traditional IRAs and 401(k)s
+* Favorable on Growth but not Contributions: annuities and non-deductible IRAs
+
+**Tax-Exempt**:
+Provide the highest net after-tax returns in many cases.  Contributions are made with after-tax dollars and growth is tax-exempt.  Roth IRAs, Roth 401(k)s, 529 plans, and Coverdell Education Savings Accounts are tax-exempt. Best for tax-efficient investments with high growth and high turnover.
+
+The most accurate way to determin asset location is to consider values across the types of tax treatment, the current and future tax rates of the investor and the time horizon of the investments.  These strategies can change over time, so it's important to reevaluate the asset location periodically.  Asset allocation percentages don't have to be consistent across the account types.
+
+## Funding Client Goals
+
+### Retirement Income Planning and Distribution
+
+Steps of a goal-based retirement income plan:
+
+1. Estimate the lifestyle goal: retirees spend the same the year after retirement as they did the year before retirement.  Estimate using a ratio (like 75% of pre-retirement income) or the more precise breakdown of current and future expenses (retirement savings and payroll taxes don't need to be paid in retirement and will pass less in income tax).
+2. Evaluate the flexibility of the income goal: detail flexible and inflexible expenses.  Determine willingness to be able to cut back on flexible expenses if necessary.  Inflexible expenses typically make up 65% of the total expenses.
+
+Social Security and pensions are subtracted from the inflexible spending needs.  The remaining amount should be funded by safe assets (bonds and income annuities).  If the client retires before claiming Social Security, then inflexible spending needs are funded by the client's savings (IRAs, savings).  Most pensions are do not adjust for inflation.
+
+Bond durations should match their funding goals. TIPS and I-Bonds can reduce inflation risk.  Annuities can reduce longevity risk (not typically adjusted for inflation).
+
+Flexible goals can be funded by the client's portfolio, using the 4% rule to estimate the safe withdrawal amount (inflation adjusted over a 30 year period).  A more optimal approach is to use a **Guardrail Strategy** to estimate the safe withdrawal amount (should match the client's spending flexibility).
+
+A variable annuity with a guaranteed lifetime withdrawal benefit (GLWB) is safer than a guardrail strategy, though it has less upside potential.
+
+An investment-only approach requires flexibility in spending since returns are variable.  Bequest money can be used to buffer against volatility.
+
+A client that has under-saved has 3 options:
+1. Increase savings rate
+2. Adjust retirement goals
+3. Adjust retirement date
+
+The ordering of withdrawals across accounts is important for tax efficiency.  Selling assets with the lower expected returns first is often best, though calculating the net return of each asset is more accurate.  Basis assets with a lower capital gains (or loss) should be sold before assets with a higher capital gains.  Annual taxable accounts and basis assets should be sold before Roth IRAs.
+
+Efficient ordering:
+* Lowest net return assets: Annual taxable savings, CDs, bonds, REITs and traditional IRAs where the current tax rate is lower than expected future tax rates.
+* Moderate net return assets: active management funds, high dividend stocks, efficient basis assets with a low capital gains (or loss), highly appreciated stocks
+* Highest net return asset: Roth IRAs, highly efficient basis assets with a high capital gains (or gain), permanent life insurance
+
+Roth Net Return = the gross investment return
+Annual Taxable Account Net Return = the gross investment return * (1 - marginal tax rate)
+Tax-Deferred Account Net Return = affected by the marginal tax rate at contribution and the marginal tax rate at distribution
+Basis Assets Account Net Return = affected by the number of years the asset is held and the tax rate applied to growth, the net return grows as the value of the asset grows relative to the original price
+
+Annuities resemble basis assets.
+
+Tax bracket management: withdrawing from traditional IRAs in order to fill the lower tax bracket prior to RMDs maximizes returns.  The proceeds can be used to pay current expenses or converted to Roth IRAs.
+
+### Education Funding
+
+#### Federal Student Loans
+
+Federal student loans are either need-based or not need-based.  Interest rates are fixed for the life of the loan and a generally lower than private loans.  There are limits on the amount of federal student loans that can be taken out, and they vary by the year that the student is in school.  Federal loans have favorable death and discharge provisions.  The FAFSA (Free Application for Federal Student Aid) is required for all federal loans.
+
+Types of federal student loans:
+* Federal Direct Stafford Subsidized Loans: need-based with a very low origination fee
+* Federal Direct Stafford Unsubsidized Loans: not need-based with a higher origination fee
+* Federal Perkins Loans: need-based with NO origination fee
+* Federal Direct Consolidation Loans: not need-based with NO origination fee
+* Federal Graduate PLUS Loans: not need-based with a high origination fee
+* Federal Parent PLUS Loans: taken out by the parent, not need-based with a high origination fee, borrowing limit equal to the cost of attendance minus other assistance, only requires a credit check
+
+Financial need = Cost of attendance (COA) - Expected family contribution - Resources (assets and income)
+
+The studend loan interest deduction is best taken by the student since they don't exceed the AGI thresholds.
+
+Only the "Income Contingent Repayment Plan" is available to parents, all others income-driven federal load repayment plans are available to the student.  All federal loans default to a 10 year repayment plan, but other plans are available.  Some repayment plans may be eligible for foregiveness (income-based, pay-as-you-earn, revised pay-as-you-earn), and have the lowest monthly payments.
+
+#### Private Student Loans
+
+Private student loans are not need-based and have higher interest rates than federal loans.  They are offered by banks, credit unions, and loan agencies.  They are not eligible for the studend loan interest deduction.  They are not eligible for the death and discharge provisions of federal loans since parents tyically cosign.
+
+Private student loans are best for parents that have funds but lack cash flow to cover education expenses.  Some private loans may have a lower interest rate than the Parent PLUS loan and have much lower origination fees.
+
+#### Education Savings Options
+
+| Savings Vehicle                      | Investment Selection       | Tax Efficient | Flexibility |
+| ------------------------------------ | -------------------------- | ------------- | ----------- |
+| Coverdell Education Savings Accounts | Broad selection            | Yes           | Yes         |
+| UGMA/UTMA Account                    | As permitted by state law  | No            | No          |
+| 529 Plans                            | Limited based on each plan | Yes           | Yes         |
+| Roth IRAs                            | Broad selection            | Yes           | n/a         |
+| Taxable Investment Account           | Broad selection            | No            | Yes         |
+
+**Coverdell Education Savings Account (CESA)**
+* AGI limitations and $2,000 contribution limit per beneficiary
+* Funds for qualified education expenses are tax-free
+* Ideal for those with low taxable income (retired grandparents)
+* The beneficiary can be changed at any time
+* Can be applied to K-12 and higher education expenses (private school, college, graduate school)
+
+**UGMA (Uniform Gift to Minors Act) / UTMA (Uniform Transfers to Minors Act) Account**
+* Ideal for students that don't qualify for financial aid
+* Assessed higher than parental assets, so may limit financial aid eligibility
+* Beneficiary gain ownership of the assets when they reach the of majority (depends on state)
+* Little tax benefits ($2,000 tax exemption per beneficiary per year)
+* Can trigger the "kiddie tax" for children with unearned income
+
+**529 Plans**
+* 2 types: (1) Prepaid Program an (2) Investment/Savings Program
+* All states except Wyoming offer a Savings Program
+* Tax-deferred growth
+* Tax-free withdrawals for qualified education expenses
+* Lifetime limits of $300,000 per beneficiary
+* Beneficiary can be changed at any time
+* Potential for a state income tax deduction (35 states offer this)
+* No income limits
+* Age-based models resemble target date funds
+* May be used for K-12 and higher education expenses, as well as some student loan repayment
+* Can be converted to a Roth IRA
+  * Must be in the same name as the 529 plan
+  * The account must be open for at least 15 years
+  * Contributions and earnings in the last 5 years cannot be rolled over
+  * $35,000 lifetime limit on transfers, annual capped at Roth IRA contribution limits
+* Grandparents can make a **front loaded** contribution up to 5 years worth of annual exclusions w/o incurring a gift or generation-skipping tax (GST) liability (a a gift tax return (Form 709) is required)
+* Different plans can have different risk profiles
+* Changes can be make up to twice per year
+
+**Roth IRA**
+* Annual contribution limits apply as well as AGI limitations
+* Can pay for qualified education expenses without penalty before age 59.5, but subject to income tax on growth
+* Not counted as an investable asset for financial aid purposes, though withdrawals count toward income
+* More investment options than 529 plans
+* Earnings are taxed in a first-in-first-out (FIFO) basis
+* Students can create their own Roth IRAs
+
+**Taxable Investment Account**
+* Used for filling the gap when the other options are filled passed their efficiency limits
+* Fill up the 529 plan first to the state limits, then use a taxable account for anything extra
+
+Having multiple account types adds diversification, flexibility, tax-efficiency, and return optimization  to the education savings portfolio.
+
+## Estate Planning Goals
+
+### Wealth Transfer Goals
+
+Estate planning challenges:
+* Complexity of the process
+* Inconsistent information
+* Avoidance or procrastination
+* Potential for conflict between family members
+
+Prioritized Estate Planning Goals (in order of importance):
+1. Adequacy of future income: clients and spouses should have enough to fund their retirement before bequests are made
+2. Patterns of distribution: "who", "what", "how" and "when" will heirs receive assets
+3. Excessive transfer costs: optimize the estate plan to minimize costs (including wealth transfer tax, estate tax, and probate costs)
+4. Estate liquidity: ensure that the estate has enough liquidity to pay for the estate plan
+
+The wealth manager should address the prioritized objectives in the order of importance.  Assets should be liquidated before bequests are made unless the heirs will take over the assets (e.g. family businsess) or the client still needs the cash flow.
+
+A **spendthrift trust** protects  beneficiary from mismanaging their own money by limiting their access to funds and shielding them from creditors.
+
+A **supplemental needs trust** is a trust that is used to provide for the needs of a beneficiary who is disabled or otherwise unable to manage their own affairs.
+
+Philanthropic goals should be considered in the estate plan. 
+
+An **irrevocable life insurance trust or ILIT** is a trust that is used to purchase life insurance on the client's life.
+
+Wealth transfer planning should also include contigencies during the clients lifetime, such as a disability or incapacity.
+
+A **power of attorney** is a document that gives someone the authority to make decisions on behalf of the client (aka Springing Power of Attorney) should the client become incapacitated.
+
+A trust can hold assets and includes provisions.  A trustee is the person who manages the trust, and an alternative trustee manages the trust if the primary trustee is unable to do so.
+
+**Guardianship** is the process of appointing a guardian to manage the estate of a minor or incapacitated adult.
+
+### Estate Plan Preparation
+
+A client's current estate plan should be reviewed by the wealth manager. State intestacy provisions should be reviewed to ensure that the estate plan is consistent with the client's wishes.  A well-designed should avoid unnecessary probate costs and taxes. A common roadblock is the client's poor documentation.
+
+Steps:
+1. Deterime the client's wealth at the time of death
+2. Do a beneficiary audit.  Minors and disabled heirs cannot be direct beneficiaries. Guardianship should be not be made a beneficiary.
+3. Help the client identify and organize financial accounts, property deeds, insurance policies, mortgage information, marital agreements, wills and trusts, and employee benefit records.  This should be done for the spouse as well.  This information should be store in multiple locations.  Records should be consolidated.  Family members should be informed of the location of the records.
+
+Methods of wealth transfer:
+* Wills: 70% of americans haven't executed a will.  A will transfer's a client's probabe property (propery the client owns that isn't covered by other mechanisms (e.g. trusts, life insurance, beneficiary designations on accounts)).  The executor of the will is responsible for settling the client's estate.
+* Beneficiary designation: Governed by applicable contract or trust law.  Beneficiary designations on accounts override the will and should be reviewed for completeness.  Accounts are Transferred on Death (TOD).
+* Survivorship: Jointly titled accounts (property, financial accounts, life insurance, annuities) is transferred to the surviving owner (e.g. spouse).  Overrides the will and beneficiary designation.  Dying with a will or having an invalid will results in the decedent being considered intestate.  Intestacy laws vary by state and applies to the decedent's probate property.
+* Trusts: Operation of law transfers assets to the trust.  The terms of the trust determines distribution of assets to beneficiaries.  The trustee is a fiduciary to the trust's benefeciaries and must act in accordance of the terms of the trust, including distribution amounts and timing of distributions.
+
+Non-probate transfers include beneficiary designations on accounts/policies, survivorship accounts, and trusts.  These transfers are not subject to probate and happen without the need for a will.  These transfers happen faster and more efficiently than via a will or probate.  They are also more difficult to challenge in court, and are not easily reachable by creditors.
+
+Probate transfers include assets passed under the will to named heirs, trust assets distributed to a named beneficiary (except testamentary trusts), testamentary trust assets distributed to a named beneficiary, financial accounts paid to named transfer on death or pay on death beneficiaries, assets passed via intestacy statutes, and transfers to a surviving tenant via joint tenancy with right of survivorship or to a spouse via tenancy by the entirety.  Probate courts (aka Orphan's Courts) are the state courts that handle probate.  Executors are appointed. Probate records are publicy accessible.
+
+Divorce rules can vary by state.  A divorce decree may override the will or beneficiary designation.  The divorcing spouse may want estate transfers to be made to the former spouse, especially in cases where the former spouse is the primary caregiver of the children.  Beneficiary designations should be reviewed during a divorce.
+
+A client's wealth could shrink after making a estate plan.  
+
+Red flags when reviewing a client's estate plan:
+* Transfers to minors
+* Transfers to heirs that cannot properly manage their lump-sum finances
+* Transfers to disabled heirs that might qualify for public assistance
+* Transfers to the spouse that should go to creating a legacy
+* Are assets illiquid
+* Is the client subject to state and federal wealth transfer taxes
+
+Transfers to minors are not possible since they can't own assets/property.  Assigning a minor as a beneficiary resutls in courts appointing a guardian, which can be expensive and inefficient.  Trusts should be used to transfer assets to minors.  Some states require UGMA/UTMA accounts for transfers to minors.  Guardians are named in the will or trust, though less efficient than a trust as guardians are superfixed by courts that prever principal preservations over investment potential.  UGMA/UTMA accounts are more flexible, but the minors get control of the assets at 21.  Assigning a guardian as a beneficiary can be probelmatic since they are not required to use the assets for the benefit of the minor.
+
+If a married client dies without a will, the surviving spouse will inherit the estate.  The surviving spouse may choose to not include the children, especially in cases of a second marriage.  A **SLAT** (spousal lifetime access trust) addresses these issues.
+
+A **supplimental needs trust** is a trust that is used to provide for the needs of a beneficiary who is disabled to avoid them being disqualified for public assistance.
+
+Trusts can protect beneficiaries that have creditor issues to avoid creditors from seizing the assets.  A **spendthrift trust** protects the beneficiary by only providing funds for discretionary benefits (i.e. no mandatory distributions).
+
+**Testamentary trusts** are created in a will and are not revocable.  They are used to transfer assets to beneficiaries after the client's death.  They are not subject to the same restrictions as revocable trusts.  Children don't have to receive the assets at a certain age, so the terms of the trust are more flexible than UTMA/UGMA accounts.
+
+Strategies for reducing wealth transfer taxes:
+* Lifetime transfers:  Transfers to a trust or beneficiary during the client's lifetime are not subject to wealth transfer taxes.  Family Limited Partnerships (FLPs), Intentionally Defective Grantor Trusts (IDGTs), and Grantor Retained Annuity Trusts (GRATs) are common strategies for discounting valuations and especially good for family businesses.
+* Irrevocable life insurance trusts (ILITs):  Life insurance proceeds are not subject to estate tax, so an ILIT can be used, but is irrevocable.
+* Efficient estate tax deductions: Estate tax charitable deductions and marital deductions can be used to reduce the estate tax.  The estate tax charitable deduction is limited to 30% of the estate tax base.  The marital deduction allows the surviving spouse to inherit the estate tax free.
+
+**Inter Vivo Gifting** is the process of transferring assets to a beneficiary during the client's lifetime.  Factors to cconsider:
+* Giving away appreciated assets is not tax-efficient since the capital gains tax is deferred until the asset is sold.  These appreciated assets get a step up in basis upon death.  Gifting assets that have low or no growth potential is more tax-efficient.
+* Gifting cash has no tax implications.
+* The Tax Cuts and Jobs Act of 2017 creates excemptions that are best taken advantage of while they are still available.
+* Allocating gifting to a single parent is more tax-efficient than splitting the gifting between multiple parents.
+
+**Secure Act** (2019) changes to gifting:
+* Stretch IRA:  The stretch IRA was eliminated for non-spouse beneficiaries.  The beneficiaries must take distributions within 10 years of the IRA owner's death.  Naming spouse as the beneficiary of an IRA is still the best way to stretch the IRA.
+* A surviving spouse can disclaim their spouse's IRA, which will be passed to the surviving spouse's estate.  This can be used to avoid the stretch IRA.
+* Naming minor children as beneficiaries of an IRA extends the stretch IRA 10 year window.
+* A Charitable Remainder Trust can be use to emulate a stretch IRA, and can sometimes be more tax-efficient.
+  * Downfalls of a CRT:  not flexible, if heir dies the assets go to charity
+
+### Trusts
+
+A trust is a legal entity that holds, invests, and distributes assets for the benefit of others.  
+
+The Trust Chasis: The **grantor** gives assets (the **Trust Corpus**) to the **trustee** to hold **for the benefit Of (FBO)** the **beneficiaries**.
+
+Managing wealth is the main purpose of trusts.  Grantors have influence and can favor specific beneficiaries. Trusts are governed by state law and can last any amount of time.  Grantors can sometimes act against default state law.  The grantor names a trustee to manage the trust. For low net worth clients, the trustee is an **individual** (spouse, friend, relative).  For high net worth clients, the trustee is a **professional trustee**, who is more skilled.  A professional trustee could also act as a co-trustee to assist an individual trustee.
+
+Situations that merit the use of a trust:
+* $500,000 or more in assets
+* Desire to avoid probate
+* Desire for a flexible and secure distribution plan
+* Anticipated problems with creditors
+* Beneficiaries that are minors
+* Expected wealth beyond the federal estate tax exemption
+* Enough wealth to use a multi-generation vehicle to save federal estate taxesand generation-skipping transfer taxes
+
+In a revocable trust, the grantor can change the terms of the trust or reclaim the assets at any time.  In an irrevocable trust, the grantor cannot change the terms of the trust or reclaim the assets.  A **living trust** (aka inter vivos trust) is a trust created during the grantor's lifetime.  A **testamentary trust** is a trust created in a will.  After the grantor's death, the trust becomes irrevocable.
+
+The trustee holds legal title to the assets of the trust, or named beneficiary of assets intended to be paid by the trust.  The trustee is a fiduciary to the beneficiaries.  The feduciary standard can create legal risks for the trustee.
+
+Income and remainder beneficiaries are the beneficiaries of the trust.  The **income beneficiary** receives income from the trust, and the **remainder beneficiary** (aka principal beneficiary) receives the remaining assets of the trust after the income beneficiary's death.  The **principal** is the remaining funds of the trust after accounging for accumulated and distributed income.
+
+#### Irrevocable Life Insurance Trust (ILIT)
+
+An irrevocable life insurance trust (ILIT) is an irrevocable trust that is used to purchase life insurance on the grantor's life.  The ILIT avoids estate taxes.  The 2 components of the ILIT are the trust and the life insurance policy.   The owner is the ILIT, who decided the beneficiary and is responsible for paying premiums.  The client is both the insured and the grantor.  The beneficiary is also the ILIT. 
+
+The trustee of an ILIT can be a spouse, child, friend,or professional trustee.  The beneficiary of an ILIT are typically the heirs of the grantor.  The trustee applies for the life insurance policy of the grantor.  The trustee also opens a checking account to collect transfers and pay premiums.  
+
+A separate life insurance policy can be gifted to the into the trust, making the ILIT the owner.  The grantor must live 3 years after gifting a separate insurane policy, or the proceeds will go into the estate.
+
+An ILIT is typically funded by premiums paid by the grantor or by transfers which may be subject to gift tax exclusion if a **present interest gift** (the recipient must be able to access the gift now via withdrawals from the checking account).  This withdrawal power is called **Crummy power**.  The trustee notifies beneficiars of their Crummy power by letter that specifies a withdraw window. 
+
+An ILIT can provide liquidity for the estate by buying assets from the estate, which provide liquid funds for the estate.  The trust must be structured properly to allow for these types of transactions.
+
+The death benefits will be included in the grantor's gross estate if they retain or give away policy funds, or change policy terms/beneficiaries within 3 years of the grantor's death.
+
+ILIT assets avoid probate and are not subject to public record.  Federal estate taxes are avoided and the assets are protected from grantors and beneficiaries' creditors.
+
+An ILIT creates an **irrocability dilemma**.  The grantor can become divorced with the spouse as the beneficiary, which cannot be changed.  The grantor can provide rules in the trust that the marriage must be in effect at the time of the grantor's death.  While other beneficiaries can be changed, a new ILIT can be purchased to change the beneficiary, and proceeds from the old ILIT can be used to the new one.
+
+ILITs are best when the grantor is:
+* Willing to make the premium payments
+* Certain about the terms of the trust
+* Insurable
+* Has estate planning goals that outweight the costs of the ILIT
+* Faces significant state inheritance estate taxes
+* Has an heir with special needs
+
+#### Income Tax Defective Trusts
+
+Many high net worth people use trusts to shift liabilities to beneficiaries at lower tax brackets.  The **grantor trust rules** by congress make some trusts ineffective at shifting the tax burden.  **Defective trusts** are trusts that are not properly structured, shifting the tax burden to beneficiaries.  A trust is considered "defective" when the grantor retains too much control over the trust assets (i.e. they still own the assets for income tax purposes, even though they have transferred ownership for estate tax purposes).
+
+The **Income Tax Defective Trust** is a defective trust that is treated as the grantor's for income tax purposes, but is treated separately for estate and gift tax purposes.  
+
+**Revokable Living Trusts** are a type of income tax defective trust.  They are best whent the grantor has modest (little) assets but wants to reduce professional fees related to probate.
+
+**Intentionally Defective Grantor Trusts (IDGTs)** are a type of income tax defective trust.  They are best for high net worth clients that want to reduce estate taxes.
+
+One or more of the following grantor rights must be present in an Income Tax Defective Trust:
+* The right to revoke the trust
+* The right to have income distributed to the grantor or grantor's spouse
+* The right to have income of the trust be used to pay premiums on life insurance for the grantor or grantor's spouse
+* The right to borrow money from the trust without interest or security
+* The right to control the distributions to trust beneficiaries
+* The right to borrow money from the trust without repayment in the current year
+* The right to remove property from the trust and replace it with other property of equal value
+
+The creator of the defective trust is treated as the grantor for income tax purposes if they give some of the rights of the trust to their spouse or children.  This can be avoided by requiring consent of an adverse party (one who has opposing interests) for distributions.
+
+Example of an Intentionally Defective Trust:
+1. The client removes assets from their estate and places them in the trust.  This is considered a gift for income tax purposes.  The trust issues a note to the grantor for the value of the assets.
+2. The sale of assets in the trust does not generate capital gains tax for the grantor.  The grantor only pays taxes on interest and earnings from the note.
+3. The grantor removes the appreciation of the assets from the trust and places them in their estate, which avoids estate and wealth transfer taxes.
+4. Grantor paid income tax reducts the gross estate and allows the trust assets to grow faster.
+
+Intentionally Defective Trusts are complex and are best for high net worth clients ($10 million+ or business owners).  Benefits include:
+* Removes property from the client's estate for gift and estate tax purposes
+* The grantor only pays income tax on the trust's income, not the appreciation of the assets.  This further reduces the grantor's estate.
+* Sale of the grantor's appreciated assets that go into the trust are not subject to capital gains tax.
+
+#### Revocable Living Trust Planning
+
+Revocable Living Trusts aid in estate planning.  There are not immediate tax benefits, but they can be used to avoid probate fees.  If the grantor becomes impaired, the successor trustee (a fiduciary) can manage the trust assets.  At the grantor's death, the trust becomes irrevocable and the assets in the trust are treated as non-probate transfers.
+
+#### Types of Trusts
+
+* **Asset Protection Trusts** are used to protect assets from the beneficiaries creditors and lawsuits.  Also known as a **spendthrift trust**.  Distributions are discretionary.  The trustee can be an individual or a corporate trustee.  The trust can be revocable or irrevocable.
+  * Tax benefits: Protects property from creditors
+  * Tax consequences: Trust assets are excluded from grantor's estate.
+  * Useful for: Protect homes and other property in Medicaid payback states (and from other creditors). Must plan in accordance with applicable lookback periods.
+* **Exemption Planning Trusts** are used to pass assets to beneficiaries and are sheltered from estate taxes. Spousal access is limited to income with limited invasion powers. The trustee can be an individual or a corporate trustee.  These trusts can have a long duration.
+* **Dynasty Trusts** are used to hold wealth for the grantor's beneficiarias across multiple generations.  They are formed in states that don't have limits on trust duration.  The trustee is corporate.  They are funded by the exemption amounts.  Beneficiaries don't receive large distributions in order to shelter wealth transfer taxes.
+* **Grantor-Retained Annuity Trusts** (GRATs) are wealth transfer trusts funded during the grantor's lifetime to avoid the gift tax. The grantor has **retained interest** in the assets in the trust in the form of a fixed annuity.  When the GRAT terminates, the assets are distributed to the beneficiaries or retained in the trust until the grantor's death.  The taxable gift is the present value of the assets remaining after the annuity payments are made.  If the grantor dies before the GRAT terminates, the assets are distributed to the beneficiaries and may be subject to estate tax. The trustee can be an individual or a corporate trustee.
+  * Tax benefits: Allows grantor to receive an income stream from trust assets. Remainder of the trust is a gift to remainder beneficiaries.
+  * Tax consequences: Remainder is subject to gift tax. Income stream is taxable income to beneficiary (usually the grantor).
+  * Useful for: High net worth estates
+* **Intentionally Defective Grantor Trusts** (IDGTs) are used to reduce estate taxes.  The trustee can be an individual or a corporate trustee.  The grantor pays all of the income tax, allowing the trust to grow withoug a tax drag.
+  * Tax benefits: Allows grantor to transfer wealth via gift or asset sale to the trust
+  * Tax consequences: Trust assets are excluded from grantor's estate. Income earned by the trust is taxable to the grantor.
+  * Useful for: Protecting assets from creditors, allows assets to be swapped in and out of trust, no capital gain recognized on sale of assets to trust by grantor
+* **Irrevocable Life Insurance Trusts** (ILITs) are used to purchase life insurance on the grantor's life.  This trust avoids estate taxes.  The grantor's spouse may receive income from the trust and have limited access rights. The trustee can be an individual or a corporate trustee.
+  * Tax benefits: Protect death benefits from estate creditors, reduce taxable estate
+  * Tax consequences: Reduces taxable estate by the amount of the death benefit
+  * Useful for: States with estate or inheritance tax applied on life insurance benefits
+* **Qualified Domestic Trusts** (QDTs) hold assets for a surviving spouse that is not a citizen of the United States. This trust preserves the marital deduction.  The trust can be created by the surviving spouse or the grantor.  A corporate trustee is required if the fund is greater thatn $2 million.  Estate taxes are levied on the surviving spouse's distributions.  It's beneficial for the surviving spouse to become a U.S. citizen.
+* **Qualified Personal Residence Trusts** (QPRTs) are irrevocable trusts that hold a client's primary residence.  The grantor can live in the residence for a term of years, and then the residence is transferred to the beneficiaries.  The transfer of the residence is considered a gift and is sheltered by the grantor's lifetime gift tax exemption.  If the grantor dies before the term of the trust expires, the residence is included in the grantor's gross estate.  The trustee can be an individual or a corporate trustee.  If the grantor wants to live in the residence after the term, a rental agreement can be used.
+  * Tax benefits: Excludes appreciation on real estate from taxable estate, allows transfer of residence to beneficiaries while maintaining grantor's ability to live in the home for a certain period of time
+  * Tax consequences: Often written so that assets are included in grantor's estate, in order to achieve basis step up. Income earned by the trust assets is taxable to the grantor.
+  * Useful for: High net worth estates; estates with significant expected appreciation on residences
+* **Qualified Terminable Interest Property Trusts** (QTIPs) are marital deductions trusts created by the IRS.  The surviving spouse does not have unlimited access to the trust's assets.  This is used to protect the trust's assets from the surviving spouse's children from another marriage.  The trustee can be an individual or a corporate trustee.
+  * Tax benefits: Allows grantor to make marital gifts to spouse during life or at death. Trust makes income distributions to spouse while alive, and remainder is transferred to beneficiaries of grantor's choosing.
+  * Tax consequences: Assets are not included in grantor's estate, but remainder assets are included in spouse's taxable estate. Passed tax-free to spouse via spousal deduction.
+  * Useful for: Provides income to spouse and also ensures assets are transferred to grantor's beneficiaries. Very useful in blended families.
+* **Spousal Limited Access Trusts** (SLATs) have the surviving spouse as the income beneficiary, but with limited access rights.  When the surviving spouse dies, the trust assets are distributed to the beneficiaries.  The trustee can be an individual or a corporate trustee.  Other types of trusts can also be SLATs.
+  * Tax benefits: Allows grantor to make marital gifts to spouse during life or at death. Income beneficiary can be spouse and other family members.
+  * Tax consequences: Trust assets are not included in grantor's estate. Passed tax-free to beneficiaries via lifetime exemption (not spousal deduction)
+  * Useful for: Provides income to spouse and other beneficiaries.
+* **Revokable Living Trusts** are a type of income tax defective trust.  They are best whent the grantor has modest (little) assets but wants to reduce professional fees related to probate.
+  * Tax benefits: flexible, easily changed, removes assets from probate, grantor can participate while alive, can be used to plan the grantor's disability or incapacity
+  * Tax consequences: does not reduce estate, gift, or inheritance taxes
+  * Useful for: streamlines management, distribution, and transfer of assets, can be easily changed
+* **Irrevocable Trusts** are trusts that cannot be changed once created.  They are irrevocable for estate tax purposes.  They are irrevocable for gift tax purposes if the grantor retains a present interest.  They are irrevocable for income tax purposes if the grantor retains a present interest.
+  * Tax benefits: Estate tax and probate avoidance/reduction, protects assets from estate creditors
+  * Tax consequences: Removes assets from probate and removes appreciation of trust assets from grantor's taxable estate
+  * Useful for: Streamlines management, distribution, and transfer of assets while alive and at death. Cannot be changed easily.
+* **Testamentary trusts** are created in a will and are not revocable.  They are used to transfer assets to beneficiaries after the client's death.  They are not subject to the same restrictions as revocable trusts.  Children don't have to receive the assets at a certain age, so the terms of the trust are more flexible than UTMA/UGMA accounts.
+  * Tax benefits: Trust is created after grantor's death
+  * Tax consequences: Does not remove assets from probate or reduce any estate, gift, or inheritance tax.
+  * Useful for: Streamlines management, distribution, and transfer of probate assets at death. Useful in states with low probate costs.
+* **Charitable Remainder Trusts** (CRATs/CRUTs) are irrevocable trusts that provide income to the beneficiaries for a term of years, and then the assets are distributed to charity.  The trustee can be an individual or a corporate trustee.
+  * Tax benefits: Allows grantor to receive an income stream from trust assets. Remainder of the trust is a charitable gift to charitable beneficiary.
+  * Tax consequences: Remainder is not subject to gift tax because the recipient is a charity; grantor takes an income tax deduction as well as gift tax deduction when assets are transferred into the trust. Income stream is taxable income to beneficiary (usually the grantor).
+  * Useful for: High net worth estates
+* **Charitable Lead Trusts** (CLTs) are irrevocable trusts that provide income to the charity for a term of years, and then the assets are distributed to the beneficiaries.  The trustee can be an individual or a corporate trustee.
+  * Tax benefits: Allows grantor to ensure trust assets stay within the family. Remainder of the trust is gift to grantor's beneficiaries. Charity receives an income stream from trust assets.
+  * Tax consequences:Grantor takes income tax deduction for annuity stream to charity. Remainder is a taxable gift because recipients are individual beneficiaries.
+  * Useful for: High net worth estates
+* **Special Needs Trusts** are irrevocable trusts that provide for the needs of a beneficiary who is disabled or otherwise unable to manage their own affairs.  The trustee can be an individual or a corporate trustee.
+  * Tax benefits: Allows disabled beneficiaries to have assets available for quality of life needs while remaining eligible for government programs
+  * Tax consequences: First party SNTs are included in the beneficiary/grantor's estate. Third party SNTs are excluded from the beneficiary's estate.
+  * Useful for: Providing assets to beneficiaries with special needs
+* **Power of Appointment Trusts** are irrevocable trusts that allow the grantor to appoint assets to beneficiaries.  The trustee can be an individual or a corporate trustee.
+  * Tax benefits: Allows grantor to make marital gifts to spouse during life or at death. Spouse has power of appointment over trust assets.
+  * Tax consequences: Trust assets are included in spouse's estate if the trust is a general power of appointment trust. Assets are not included in the spouse's estate if the trust is a limited power of appointment or HEMS trust.
+  * Useful for: Provides flexible and unrestricted income to spouse while ensuring remainder goes to named beneficiaries
+
+### Life Insurance Strategies
+
+#### Tax Issues for Life Insurance
+
+Life insurance death benefits are not treated as taxable income in most cases.  The **transfer-for-value trap** happens when the owner of the policy assigns the policy to another person.  The basis is the amount paid for the policy plus and premiums. 5 exemptions to the transfer-for-value trap are if the policy is assigned to:
+* The insured
+* A partnership where the insured is a partner
+* A partner of the insured
+* A corporation where the insured is a shareholder, officer, or employee
+* A transferee who takes the income tax basis of the transferor in the policy (gifted policy, transfer to ILIT)
+
+Situtions where life insurance death benefits qualify for the estate tax:
+* The estate is the beneficiary
+* The beneficiary is directed to pay the expenses of the estate
+* Has **incidence of ownership** within 3 years prior to the insured's death
+  * Incidence of ownership any legal or economic value that the insured has in the policy
+    * Right to name or change the beneficiary
+    * Access the policy's cash surrender value
+    * Using the policy to secure a loan
+    * Business owned life insurance if the insured is a controlling shareholder or general partner unless the proceeds benefit the business or the business's creditors.
+
+Employer-owned life insurance is not subject to income tax if:
+* The employee was given notice of the application and the employee provided consent
+* The proceeds go to a family member or are used to purchase equity in the business
+
+Gift taxes occur if a life insurance policy is transferred at a cost below full and adequate consideration (fair market value).  An inadvertent gift happens when the insured is not the policy owner (the transferor is responsible for the gift tax).
+
+The wealth manager should reevaluate implications when the policy changes assignment or changes beneficiary.
+
+## Charitable Planning Goals
+
+### Donor Advised Funds (DAFs)
+
+A donor advised fund has most of the benefits of a private foundation (requires annual payout), but is easier to set up and manage.  A DAF is a wrapper around a mutual fund (aka Charatible Bucket) that makes payments to 501(c)(3) charities.  There is no required annual payout. The minimum amount to start a DAF is $5k - $10k.  While private foundataions require a 990-T filing that includes a detailed accounting of the foundation's structure and investments, DAFs are anonymous.  A DAF can use cash, publicly traded stock, bonds, business interests, and real estate as the funding source and are deducted at fair market value (FMV).
+
+The only advantage of a private foundation are prestige and have a perpetual life.
+
+Main uses of a DAF:
+* Philanthropic Training Wheel: a good start to charitable giving which can lead to creating a private foundation
+* Stockpile Giving Dollars: contributing while income is high and then making distributions when in retirement
+* Business Transition Planning: placing part or all of the business in a DAF to avoid capital gains tax and to lessen part of the business sold outside of the DAF
+
+Questions to consider when recommending a DAF:
+* How long will money be in the DAF?
+* How much to they want to give each year?
+* Will more money be added in the future?
+* Do they want the DAF to grow for generations?
+
+An Investment Policy Statement (IPS) should be created for large DAFs, though a balanced mutual fund is usually sufficient for smaller DAFs.
+
+Total Philanthropic Portfolio Activation: investing in socially responsible funds in the DAF.
+
+### Tax-Efficient Charitable Planning
+
+The full income tax deduction for a charitable donation is limited each tax year. Any amount left over can be carried forward for the next 5 taxable years.  The **contribution base** is the donor’s AGI, ignoring net operating loss carrybacks. Hence, for most taxpayers it will be their adjusted gross income, or AGI.  The yearly limit is based on a percentage of the donor’s contribution base and the type of charity. The tax deduction for gift and estate tax purposes is unlimited.
+
+**Charitable Contribution Deductions**
+
+| Type of Property Donated                                      | Valuation for Purposes of Charitable Deduction    | Contributions Made to Public Charities and Operating Foundations | Ceiling for Other Entities                                  |
+| ------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
+| Cash                                                          | Fair market value                                 | 60%                                                              | 30%                                                         |
+| Ordinary Income Property and Short-Term Capital Gain Property | Lesser of adjusted basis or the fair market value | 50%                                                              | 30%                                                         |
+| Long-Term Capital Gain Tangible Property                      | Fair market value or basis                        | 30% if FMV or 50% if basis (taxpayer choice)                     | 20% (must use basis unless publicly traded stock, then FMV) |
+| Long-Term Capital Gain Intangible Property                    | Fair market value or basis                        | 30% if FMV or 50% if basis (taxpayer choice)                     | 20% (must use basis)                                        |
+| Long-Term Capital Gain Real Property                          | Fair market value or basis                        | 30% if FMV or 50% if basis (taxpayer choice)                     | 20% (must use basis)                                        |
+
+The total deduction cannot exceed 50% of their contribution base in the current tax year.
+
+Charitable donation structures:
+* **Outright Gifts**:  
+  * Cash: max possible income tax deduction
+  * Property: limited based on type of property
+* **Influence**: 
+  * DAF: the donor can give guidance and recommendations, but not direction.  
+  * Private Foundation: the donor can give direction, but has limits/restrictions on the income tax deduction.  Property contributed is removed from the donor's estate.  At least 5% of the private foundation's assets must be distributed to charity each year.
+* **Retaining Income**:  
+  * Pooled-Income Fund: Donor retains income rights based off of the amount of the gift.  Income tax deduction is taken immediately. The charity receives the principal amount when the donor dies.
+  * Charitable Gift Annuity: Donor receives a fixed income stream for a term of years, and then the charity receives the principal amount when the donor dies.  Cheaper and less complex than a Charitable Remainder Trust Annuity.
+  * Charitable Remainder Trust Annuity: the donor retains income for the trust term and the charity receives the remainder.
+  * Charitable Lead Trust: The charity receives income for a term of years, and then the remainder is distributed to the donor's estate.
+* **Gifts at Death**: Charity bequest in a will or the charity is the designated beneficiary of an asset or insurance policy.  A federal estate tax charitable deduction is available.  Donor's can change their mind before they die.
+
+Attorneys are needed to draft charitable planning documents.  A CPA will need to assist in qualifying for deductions and satisfying compliance requirements.  Trustees will need advisors to administer the trust.  Wealth managers assist in identifying the appropriate investment vehicle.
+
+Cash is the least tax-efficient way to make charitable donations. Income tax benefits only apply if they're above the standard deduction.  Grouping/bunching tax deductions into a single year can help exceed the standard deduction.  The DAF is the best of both worlds.
+
+The TCJA (Tax Cuts and Jobs Act) doubled the standard deduction, making cash gifts less attractive.  It also limited the types of deductions.
+
+Qualified Charitable Distributions (QCDs) come from an IRA (not a 401k) to a charity and apply to donors 70.5 years old and older.
+
+### Charitable Trusts
+
+Questions to ask when recommending a charitable trust:
+* Are you interested in donating to a charity?
+* Does the client have $2 million or more to donate?
+* Does the client have appreciated assets that you want to donate?
+* Does the client want to spread donations over multiple years?
+* Does the client want to receive income/benefits from the trust property?
+* Does the client want to be able to change your mind before you die?
+* Will dedeuctions benefit the client?
+
+Answering YES to 2 or more makes a charitable trust a good option. Othewise, less complex strategies like DAFs are better.
+
+The grantor of a charitable trust can be the trustee and/or the beneficiary.  The grantor creates the trust documents. Charitable trusts are irrevocable.  Some states have specific requirements for charitable trusts.  Some charitable trusts are treated as private foundations by the IRS.
+
+ Types of charitable trusts:
+ * **Split Interest Charitable Trusts** (SICs) the beneficiary is both a charity and private individuals.  They are expesive and complex and are approproate for clients who wish to make large gifts.  They provide an immediate income tax deduction and ongoing income generation.
+ * **Charitable Remainder Trusts** (CRTs) the grantors heirs are income beneficiaries within the trust term, the charity receives the remainder. They are good for clients who want some income from the trust but don't care about generational wealth.  The term cannot exceed 20 years and there are specific IRS rules regarding distributions.  The grantor of a CRT gets an income tax deduction when the property is transferred to the trust, subject to AGI limitations based on the type of property and the type of charity.  The grantor also gets a gift tax deduction for the remainder value.
+   * **Charitable Remainder Annuity Trusts** (CRATs) a CRT where the income payments are a percentage of the trust's value.  Additional contributions **cannot** be made to the trust.
+   * **Charitable Remainder Unitrusts** (CRUTs) a CRT where income payments are a percentage of the **annual** trust's value.  Additional contributions **can** be made to the trust.  They are most appropriate for clients who want flixibility in contributions and don't care about variable income. 
+ * **Charitable Lead Trusts** (CLTs) the opposite of a CRT.  The charity is the income beneficiary, and the grantors heirs receive the remainder.  Approriate for clients who want to keep property in the family.  Income can be an annuity or a unitrust and has less limitations than a CRT.
+ 
+### Philanthropic Goals
+
+Clients feel underserved by advisors when it comes to philanthropic goals.  Advisors focus on taxes and finances, but the clients care about values, visions, dreams, family, and social impact. 
+
+Philanthropic conversations to have with clients:
+* Overall personal goals
+* Goals for their heirs
+* Areas they want to have an impact in
+* Family's greatest asset
+* Types of assets they want to donate
+* What do they value most
+* Who is their community
+* Do they want their children involved
+* Are heirs prepared for the wealth
+* Current philanthropic activities
+* Reasons for giving
+* Specific charities they want to support
+* Ultimate results desired
+* Lifetime or testamentary gift decision
+  
+The philantropic learning curve was developed by H. Peter Karoff, founder of the Philanthropic Initiative.  It is a 6-step process:
+1. You become a donor
+2. You decide to get organized
+3. You become a learner
+4. You become issue and results oriented
+5. Your philanthropy is leveraged
+6. You values, passions and interests are aligned
+
+Engaging spouses and children is important to fulfilling philanthropic goals. Wealth managers become trusted advisors when they can help clients with the philanthropic goals.  Managers should coordinate with accountants and attorneys for their clients.  They can also assist in converting illiquid assets into lifetime and legacy goals.
+
+### Private Foundations
+
+A private foundation is trust or corporation created to supoort charitable giving.  They are similar to DAFs, but private foundations give the donor more control, have more regulations, and typically involve larger sums of money. The minimum initial funding is about $1 - $3 million.  Corporations provide more control than trusts. They incorporate the donor's charitable intent, and instills the donor's charitable philosophy in their children.  Often, children can select the charities they want to support.
+
+The maximum income tax deduction for a private foundation is 30% cash and 20% stock of the donor's contribution base.  The donor can carry forward the excess deduction for up to 5 years.  Gifting highly appreciated (publicly traded) stocks held for more than 1 year do not incur capital gains tax, and the donor can deduct the full FMV of the stock.  Private stocks are deducted at the property's cost basis.  Donations can also come from the donor's Charitable Remainder Trusts.  Contributions coming from a will or as a life insurance beneficiary get an estate tax deduction.  Lifetime gifts to private foundations receive a gift tax deduction.
+
+To create a private foundation, the donor needs to create a corporation and file IRS form 1023 (Application for Except Determination Letter). They have a board of trustees/advisors who make the contributions (typically the donor's family). Form 990-PF is used to **publicly** report the foundation's activities. There are IRS penalties for violating the requirements.
+
+Private foundations require several annual activities:
+* File a tax return, payin 1% - 2% of it's net income
+* Make qualified distributions to charity of at least 5% of the foundation's net assets
+
+Types of Family Foundations:
+* **Normal Foundation**: the most common type, it receives donations and distributes them to charity every year.  Family members (or groups of people) have complete control over the foundation.
+* **Operating Foundation**: setup exclusively for a specific charitable activity.
+ 
+Creating and managing private foundations involves attorneys, accountants, and advisors.  The wealth manager helps the clients determine whether a private foundation is appropriate for their philanthropic goals and within their financial means. They can also help create a strategy and help manage the assets of the foundation.  The strategy should be consistent with trust rules and have a return goal.  They can also help coordinate the legacy plan.
+
+## Business Owners and Executives
+
+### Small Business Ownership
 
