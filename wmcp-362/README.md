@@ -1,6 +1,6 @@
-# WMCP362: Introduction to Goal-Based Planning
+# WMCP362: Strategic Wealth Management
 
-- [WMCP362: Introduction to Goal-Based Planning](#wmcp362-introduction-to-goal-based-planning)
+- [WMCP362: Strategic Wealth Management](#wmcp362-strategic-wealth-management)
   - [Tax Strategies](#tax-strategies)
     - [Federal Income Tax Strategies](#federal-income-tax-strategies)
       - [Analyzing Federal Tax Returns](#analyzing-federal-tax-returns)
@@ -51,6 +51,17 @@
     - [Private Foundations](#private-foundations)
   - [Business Owners and Executives](#business-owners-and-executives)
     - [Small Business Ownership](#small-business-ownership)
+    - [Small Business Transfer Methods](#small-business-transfer-methods)
+    - [Retirement and Succession Planning](#retirement-and-succession-planning)
+    - [Business Entities](#business-entities)
+    - [Deferred Compensation Plans](#deferred-compensation-plans)
+    - [Employer Defined Contribution Plans](#employer-defined-contribution-plans)
+    - [Executive Compensation Strategies](#executive-compensation-strategies)
+    - [Small Business Financial Statements](#small-business-financial-statements)
+  - [Specialized Planning](#specialized-planning)
+    - [Diverse Family Structures](#diverse-family-structures)
+      - [Divorce Planning](#divorce-planning)
+      - [Special Needs Planning](#special-needs-planning)
 
 
 ## Tax Strategies
@@ -895,7 +906,7 @@ Example of an Intentionally Defective Trust:
 1. The client removes assets from their estate and places them in the trust.  This is considered a gift for income tax purposes.  The trust issues a note to the grantor for the value of the assets.
 2. The sale of assets in the trust does not generate capital gains tax for the grantor.  The grantor only pays taxes on interest and earnings from the note.
 3. The grantor removes the appreciation of the assets from the trust and places them in their estate, which avoids estate and wealth transfer taxes.
-4. Grantor paid income tax reducts the gross estate and allows the trust assets to grow faster.
+4. Grantor paid income tax deducts the gross estate and allows the trust assets to grow faster.
 
 Intentionally Defective Trusts are complex and are best for high net worth clients ($10 million+ or business owners).  Benefits include:
 * Removes property from the client's estate for gift and estate tax purposes
@@ -926,12 +937,12 @@ Revocable Living Trusts aid in estate planning.  There are not immediate tax ben
   * Tax benefits: Protect death benefits from estate creditors, reduce taxable estate
   * Tax consequences: Reduces taxable estate by the amount of the death benefit
   * Useful for: States with estate or inheritance tax applied on life insurance benefits
-* **Qualified Domestic Trusts** (QDTs) hold assets for a surviving spouse that is not a citizen of the United States. This trust preserves the marital deduction.  The trust can be created by the surviving spouse or the grantor.  A corporate trustee is required if the fund is greater thatn $2 million.  Estate taxes are levied on the surviving spouse's distributions.  It's beneficial for the surviving spouse to become a U.S. citizen.
+* **Qualified Domestic Trusts** (QDTs) hold assets for a surviving spouse that is not a citizen of the United States. This trust preserves the marital deduction.  The trust can be created by the surviving spouse or the grantor.  A corporate trustee is required if the fund is greater that $2 million.  Estate taxes are levied on the surviving spouse's distributions.  It's beneficial for the surviving spouse to become a U.S. citizen.
 * **Qualified Personal Residence Trusts** (QPRTs) are irrevocable trusts that hold a client's primary residence.  The grantor can live in the residence for a term of years, and then the residence is transferred to the beneficiaries.  The transfer of the residence is considered a gift and is sheltered by the grantor's lifetime gift tax exemption.  If the grantor dies before the term of the trust expires, the residence is included in the grantor's gross estate.  The trustee can be an individual or a corporate trustee.  If the grantor wants to live in the residence after the term, a rental agreement can be used.
   * Tax benefits: Excludes appreciation on real estate from taxable estate, allows transfer of residence to beneficiaries while maintaining grantor's ability to live in the home for a certain period of time
   * Tax consequences: Often written so that assets are included in grantor's estate, in order to achieve basis step up. Income earned by the trust assets is taxable to the grantor.
   * Useful for: High net worth estates; estates with significant expected appreciation on residences
-* **Qualified Terminable Interest Property Trusts** (QTIPs) are marital deductions trusts created by the IRS.  The surviving spouse does not have unlimited access to the trust's assets.  This is used to protect the trust's assets from the surviving spouse's children from another marriage.  The trustee can be an individual or a corporate trustee.
+* **Qualified Terminable Interest Property Trusts** (QTIPs) are marital deduction trusts created by the IRS.  The surviving spouse does not have unlimited access to the trust's assets.  This is used to protect the trust's assets from the surviving spouse's children from another marriage.  The trustee can be an individual or a corporate trustee.
   * Tax benefits: Allows grantor to make marital gifts to spouse during life or at death. Trust makes income distributions to spouse while alive, and remainder is transferred to beneficiaries of grantor's choosing.
   * Tax consequences: Assets are not included in grantor's estate, but remainder assets are included in spouse's taxable estate. Passed tax-free to spouse via spousal deduction.
   * Useful for: Provides income to spouse and also ensures assets are transferred to grantor's beneficiaries. Very useful in blended families.
@@ -1131,4 +1142,399 @@ Creating and managing private foundations involves attorneys, accountants, and a
 ## Business Owners and Executives
 
 ### Small Business Ownership
+
+A wealth manager can help business owners with:
+* The risk characteristics of the business assets
+* How assets impact the client's overall portfolio
+* How to withdraw from the business while minimize taxes
+
+Over 1/3 of all small businesses fail within the first 2 years. Professional private equity investors averaged 13% returns from 1986 - 2015. 
+
+Returns on personal business assets are typically not greater than market returns, and are below that of market returns when adjusted for risk.  It may make sense to invest in the market instead of the business in some cases.
+
+Owners underestimate the riskiness of investing in their own business.  They overestimate their ability to manage private equity.
+
+Personal business assets are considered illiquid since there's no market for them. The **liquidity risk** for a business is related to the ability to sell the business at fair market value in a relatively short period of time.  High liquidity risk discounts the business valuation.
+
+There is also a **concentration risk** associated with owning a business.  The business is likely the client's largest asset, so there's an outsized impace of the business on the overall portfolio.  Investing in non-small-cap funds outside of the business can help diversify the portfolio.
+
+A valuation risk is that the business valuation can be subjective.  Valuations can be regularly obtained to lessen this risk.
+
+A business owner receives financial rewards as both an investor and an employee.  
+
+For pass-through entities, all business income is taxed at the owner's personal income tax rate.  These owners can take up to a 20% QBI deduction.  Selling a pass-through entity is subject to capital gains tax.
+
+For corporations, the business income is taxed at the corporate flate rate of 21%, and then the owner is taxed at their personal income tax rate on the dividends.  Selling a corporation is subject to capital gains tax, ordinary inccome tax, or both.
+
+Business owners can also indirectly benefit from things like deferred compensation plans, health insurance and retirement plans.
+
+Business valuations should be obtained from a credible independent appraisers (Certified Business Appraisers, or CBAs, and Certified Valuation Analysts, or CVAs) so that the IRS cannot contest the value.  These valuations can be expensive and take several months to complete.  In some cases, valuations can be estimated using a multiple of the business's earnings.  For asset-intensive businesses, the value is based on the fair market value of the assets.  Comparable sales are also used to value the business.
+
+If owners materially participate in the business, money received from the business is considered **active business income** and is taxed at the owner's personal income tax rate.  Likewise, business losses can be deducte from the owner's income.  For owners who don't materially participate in the business, the income is considered **passive business income**.
+
+Small Business Loans:
+* First create a relationship with the bank before applying for a loan
+* Small business owners typically have to secure the loan with personal assets (called a **Recourse Loan**)
+* 3 years of personal and business tax returns are required
+* Liquid business assets and spousal income can reduce the interest rate
+
+### Small Business Transfer Methods
+
+**Disposition** is the process of selling a business.  The disposition team consists of a wealth manager, an attorney that specializes in business transfers, valuation experts, and more.  The wealth manager should be involved in the process to ensure the client's goals are met.  Disposition teams are needed when:
+* The client wants the business to make payments to family members
+* The client is facing a divorce or has creditor issues
+* The client's health is impaired, making them unable to manage the business
+* The client wants to retire in the near future
+
+The time horizon of the sale can determine the disposition strategy. Immediate sales require business liquidation since buyers are difficult to find on short notice. Liquidations are typically a last resort since business assets are typically sold below fair market value.  Business obligations also need to be satisfied.  Funds are distrubuted to owners and taxed as capital gains or ordinary income for pass-through entities and double taxed for corporations.
+
+Taxable sales are usually preferred over liquidation.  For quick taxable sales, key employees or family members are often the buyers. Business owners might need to receive payments in installments to lower the barrier to entry for buyers.
+
+Buy-sell agreements are used to sell the business in the long-term.  A deathtime buy-sell can be funded by life insurance.  Disability buy-sell agreements can be funded by disability insurance. 
+
+Funding methods:
+* **Lump Sum**: desirable when funds are needed in the short-term, taxes are due immediately after the sale.
+* **Installment Notes**: appropriate when installments match the seller's spending goals.  They are also good for short-notice sales. Payments consist of a capital gain, and interest is taxable as ordinary income, and are taxed upon receipt, which spreads the tax burden over time.  One payment must be made in the taxable year after the year of the sale.  The default risk can be mitigated by securing the notes with the business.  Reclaiming the business triggers immediate taxable gains.  The IRS requires a minimum interest rate to be used per the imputed interest and original discount rules, though the rate can be negotiated.  If the seller dies before the sale, the remainning installments are included in the seller's estate.  Because of this, shorter installments are better to avoid the estate tax.
+* **Self Cancelling Installment Notes (SCINs)**: if the owner dies before the sale, the remaining payments are forgiven. Typically done between family members to provide income during the seller's remaining lifetime. This avoids the estate tax.  If a will is used instead of a SCIN, the forgiveness is treated as a taxable asset.
+* **Private Annuity**: the buyer agrees to make payments to the sell for the rest of the seller's lifetime. Ideal for selles that want income for the rest of their life.  IRS tables dicatate payment amounts.  This avoids the estate tax.  The seller must pay all tax immediately and they cannot secure the annuity.  Typically done between family members.
+
+Capital Gains on Unincorporated Businesses: sale price - owners' basis.  Hot assets are assets that have appreciated in value or are uncollected receivables, and can trigger ordinary income tax. 
+
+**Corporate Redemption**: the corporation purchases back shares from shareholders. Redemptions are complex and heavily regulated.  All or part of the proceeds are treated as dividends.  Specialized attorneys are needed to handle the redemption. 
+
+Corporations can purchase corporations in a **tax-free exchange**, where the owner exchanges all corporate stock or assets for stock in the acquiring corporation. The purchasing company is typically a public company so that the owner can sell stock for money.
+
+Businesses can transfer some of the business assets to the owner.  Pass-through entites are typically taxed at capital gains rates.  Corporations are taxed at ordinary income.
+
+When a business owner dies, the basis of their business receives a step-up in value. This makes not selling the business until death a good strategy.  A deathtime buy-sell, the estate sells the business to the purchaser after the death of the owner and pays little to no capital gains tax. 
+
+### Retirement and Succession Planning
+
+With proper planning, unnessary taxes can be avoided. The IRS strictly regulates business transfers between family members. Attorneys, CPAs, and valuation experts are needed to handle the process. 
+
+Questions to ask:
+* Do they want to slowly sell the business over time, or sell it all at once?
+* Do they want to retain control or some decision making power?
+* Is there a plan to prepare the heirs for ownership and management?
+* Is the business needed to fund retirement?  If so, lump sum or installments?
+* Has the business significantly appreciated in value?
+* Are they facing large estate tax liabilities?
+
+The owner must create enough liquidity in the estate to provide for their heirs and pay estate taxes. 
+
+Transitioning Control:
+* Fully or partially transition control to heirs prior to retirement
+* Income needed from the transition can affect the timing and terms of the sale.  
+* A **buy-sell agreement** can be used to sell the business.  
+* Alternatively, the business can be gifted to the heirs, which lifetime exemption could shield from federal gift and estate taxes.  
+* Another option is to gift the business to heirs but retain income rights from the business through a trust.
+* The IRS ensures that the sale of the business is set at fair market value.  Valuations are included in the buy-sell agreement.  **Pegging** is the process of setting the price of the business, which dictates the estate tax liability.
+* Under the **anti-estate freezing rule**, a gifted business interest will be fully taxable to the grantor if in excess of the annual gift tax exclusion.  The business interest can be gifted to a GRAT/GRUT to avoid this.  This can also be avoid by **stock recapitalization** where the owner converts some common stock to preferred or non-voting stock.  The remaining common stock is then gifted to the heirs. The IRS heavily regulates stock recapitalizations.
+* **Family Limited Partnerships** (FLPs) can be created, and interests in the partnership are gifted to the heirs. The IRS heavily regulates FLPs.
+
+Bequeathing business interests benefits taxes by creating a step-up in basis. Since estate taxes are incurred at death, there needs to be sufficient liquidity to pay for it.
+
+**Special valuation rules** allow business (and farm real estate) to be valued at it's current use instead of fair market value when calcuating estate tax, which is good for businesses that can be converted into higher value.
+
+The **Section 303 rule** allows corporations to treat redemptions as capital gains instead of dividends, which ends up being little to no capital gains tax as a result of the step-up in basis. There are limits to this rule.
+
+For heirs not inheriting the business, a life insurance trust can be used as a bequest to them.
+
+Steps to choosing a buseiness exit strategy:
+1. Understand the business and determine the sale price
+2. Determine the payment terms and preferred structure (e.g. lump sum, installment notes, SCINs, private annuity)
+3. Select a buyer
+   * If a family member, consider gifting vs selling
+   * If an employee, consider options
+   * For all other, consider a buy-sell agreement
+
+Considerations for Selling:
+* Determine capital gains
+* Payment terms
+
+Considerations for Gifting:
+* Gift tax implications
+* Creating equity for other heirs
+
+### Business Entities
+
+There are more than 30 million small businesses in the US.
+
+4 major types of business entities:
+* **Sole Proprietorship**: makes up 70% of small businesses, simplest, has 1 owner, must rely on personal assets to secure funding, has unlimited liability (business and personal assets at risk), pass-through taxation, buy sell agreements are recommended for succession planning
+* **Partnership**: makes up 10% of small businesses, for general partnerships, every partner is a general partner who can make decisions on behalf of the business, has unlimited liability, limited partnerships where limited partners don't have any control of the business but also enjoy limited liability, pass-through taxation, buy sell agreements are recommended for succession planning
+* **Limited Liability Company (LLC)**: makes up 10% of small businesses, has limited liability protection, control can be delegated to individual owners or non-members, pass-through taxation, buy sell agreements are recommended for succession planning
+* **Corporation**: makes up 20% of small businesses, provides easy inflow of capital, has retained earnings, separate legal entity, has a perpetual life, owners have limited liability, complex and expensive to set up, double taxation of C-Corps, S-Corps have the legal status of corporations but are pass-through entities (restrictions on number and citizenship of shareholders, can avoid some FICA taxes via dividends though IRS regulates this)
+
+Choosing an entity type:
+* Consider tax implications, asset protections, level of complexity
+
+### Deferred Compensation Plans
+
+Funding a non-qualified plan:
+* Life insurance
+* Investments (mutual funds)
+* Operating reventu and existing assets
+* Funding as a corporate asset or in a Robbi trust
+
+4 differeneces between qualified and unfunded non-qualified plans:
+1. Timing of the employer's deduction
+2. Scope of who is covered by the plan
+3. The forefitable nature of the benefits
+4. The tax treatment of the returns on amounts set aside for beneficiary payments
+
+Qualified Plans
+* Best for employers who prefer immediate deductions (the match)
+* High cost of providing the plan since they must be offered to all employees
+* Restrictions on benefits
+* Most common are profit-sharing or 401(k), but also includes SEP IRAs, SIMPLE IRAs, 403(b) and 401(a)
+* Annual deferral limit for a 401(k) plan is $23,000 (+$7,500 if 50+)
+* The maximum includable compensation is $345,000 (benefits stop after this amount)
+
+Non-qualified plans
+* Best for employers who wants flexibility in **who** can participate (this is what makes it non-qualified)
+* Owners may be included in the plan
+* There is no maximum contribution limit
+* Intended for highly paid and senior management
+* The employer deducts contributions only when the employee receives the benefit
+* **Elapsing of the time-based or performance-based risk of forfeiture** = the employer owns all contributions and earnings it has set aside for the plan until some point in time.
+
+Funding non-qualified plans can be formal or informal
+  * **Formal Funding**: not available to the employer's creditors, employee is immediately taxed on the contributions, rarely used
+  * **Informal Funding**: available to the employer's creditors, employee is taxed on the contributions when received, most common
+
+**Corporate Owned Life Insurance (COLI)**: type of informal funding, the business is both the owner and the beneficiary, the executive is the insured, heirs receive the benefit if the employee dies before receiving the benefit, very tax efficient b/c growth is not taxed
+
+**Rabbi Trust**: type of informal funding, manages risk, the trust holds non-qualified payments, available to the employer's creditors, protects employees from the employer, not the employer's creditors
+
+### Employer Defined Contribution Plans
+
+Employer Defined Contribution Plans (DC) are the primary employer-sponsored retirement plans.  DC plans are offered by small and large businesses.  They are a basic benefit designed to attract and retain employees.  They are a tax-advantaged retirement savings vehicle. The 401(k) is the most common, where some employers match employee contributions.  Contributions are typically invested, with the investment risk being borne by the employee. Most DC plans are **participant directed** (they pick the amount and the investments). More uncertain that DB plans.  DC plans are voluntary.  Employers are the sponsors and act as fiduciaries.  Most plans fall under the Employee Retirement Income Security Act (ERISA).
+
+In **Defined Benefit Plans (DB)**, the employer makes all of the contributions and bears the investment risk. Employees receive a guaranteed benefit at a predetermined date.
+
+3 steps to DC plan management:
+* Follow regulatory, reporting, and administrative requirements, and monitor service providers. 
+* Determine and document the plan’s design (employee eligibility and terms for contributions and withdrawals) and select service providers.
+* Build an investment menu for diversification.
+
+Plan sponsors (employers) look to advisors to help manage the plan, and may require coordination with service providers, custodians, attorneys, coordination staff, and employer committees.  The plan sponsor is ultimately responsible for the plan.  The Department of Labor (and many states) have been drafting proposed rules to update the definition of fiduciary.
+
+We assume that employer wants everyone to save for retirement.
+
+The 3 F's of of an advisor:
+* **Funds**: select the plan's assets
+* **Fees**: analyze the plan's costs
+* **Fiduciaries**: ensure compliance with regulations
+
+2 types of DC plan advisors:
+* **3(21) advisor**: is a fiduciary if they exercise discretionary authority over the plan and it's assets, provide advice for a fee, or have the responsibility to administer the plan.
+* **3(38) investment manager**: is a fiduciary who has power to manage, acquire, dispose of the plan's assets, they are registered investment advisors, banks or insurance companies, 
+
+While previously there were an overwhelming number of DC fund options, the current best practice it to limit options to about 10 funds.  This is achieved by **streamlining** and **tiering** the fund options.
+
+3 DC investment fund categories:
+* **Capital Growth Funds**: equity funds and alternative investments, broad based domestic and international best for diversification, best for young and aggressive investors
+* **Income Producing Funds**: buffers against market volatility, lower returns and lower volatility, fixed income consisting of **total return** or bond market portfolios, best for conservative investors
+* **Capital Preservation Funds**: low volatility, low returns, money market funds and stable value funds with insurance contracts, best for investors near or at retirement
+
+3 types of funds in a DC plan (all are QDIA plans):
+* **Balanced Funds**: aka asset allocation funds, a mix of growth and income funds into a single fund, used frequently in the past before target date funds were available, labels include "conservative", "moderate", "aggressive"
+* **Target Date Funds**: automatically adjusts the asset allocation based on the investor's target retirement date, the fund mix is called the "glide path", they are the qualified default investment alternative (QDIA) for 401(k) plans from the Pension Protection Act of 2006
+* **Asset Allocation Services**: the investor selects the funds
+
+The Employee Retirement Income Security Act (ERISA) requires at least 3 funds in a DC plan that are:
+* Diversified
+* Available to all participants
+* Has marterially different risk and return characteristics
+* Allows appropriate risk and return targets when aggregated
+* Enable the participants to minimize risk through diversification
+
+Due dilligence when selecting funds (below) and then ranking them:
+* Investment philosophy and process
+* Key personnel
+* Performance history
+* Operational capabilities
+
+The Pension Protection Act of 2006 create broad availability to automatic enrollment of new and existing employees in 401(k) plans.  The SECURE Act of 2019 increased the maximum automatic enrollment rate from 10% to 15% of compensation.  SECURE Act 2.0 of 2025 increased the starting rate to 3% in and climbing up 1% per year until 10% (called **auto escalation**).  Employees can opt out of the plan.  Companies with less than 10 employees are exempt from these rules.  Auto escalation is stopped when contribution limits are reached.  Default savings rates are 3%, but plans are now implementing a default savings rate of 6%.  **Investment re-enrollment** is the process of automatically re-enrolling employees in the plan after they have opted out.
+
+It's best for plan sponsors (employers) to outsource the administration of the plan to a third party in order to avoid the fiduciary liability.
+
+### Executive Compensation Strategies
+
+**Incentive Stock Option Plans (ISOs)**:
+* For executives and key employees
+* Company equity at a discount
+* ISOs grant employees the option to purchase company stock at a set price (aka exercise or strike price)
+* May require a vesting period
+* Difference between the market price and the strike prices is called the **bargain element**
+* Favorable tax treatment if the ISO can be exercisable within 10 years of the grant date and the most stock that can be purchased annually is $100,000
+* Exercising an ISO within the appropriate timeframe is not taxable but the bargin element contributes to the alternative minimum tax (AMT)
+* May create a concentrated position in the company
+* Must be held at least 2 years from the grant and 12 months from the exercise date
+* Sale of stock triggers capital gains tax if all requirements are met, otherwise it's treated as ordinary income
+
+**Nonincentive Stock Option Plans (NSOs)**:
+* A constatutory or nonqualified stock option plan
+* No favorable tax treatment
+* Subject to fewer restrictions
+* Exercising triggers ordinary income tax equal to the bargain element
+* May create a concentrated position in the company
+* Must be held at least 12 months from the exercise date
+* Sale of stock triggers capital gains tax if all requirements are met, otherwise it's treated as ordinary income
+
+It may be best to exercise the stock options when the market price is equal to the strike price.  This minimizes capital gains, ordinary income and AMT taxes.  This also lessens the concntraton risk.  If stock prices are falling before the 12 month period and rcover isn't expected, it may still make sense to exercise the options in order to minimize the loss.  **Cashless exercise** may be an option under the plan, the option can be exercised and sold in a single transaction. 
+
+If a client if facing an AMT where their ordinary tax is more than the AMT, then exercising the options to increase the AMT to the point that equals the ordinary income tax doesn't involve any additional taxes. In some cases, increasing AMT exposure can actually reduce the tax rate by taking them out of the AMT.
+
+**Restricted Stock Units (RSUs)**:
+* The stock is issued directly to the employee and is subject to restrictions
+* Risks of forfeiture are either time-based or performance-based
+  * Time-based restriction may require the employee to be employed for a certain period of time
+  * Performance-based restriction may require the employee or company to meet certain performance goals
+* No tax consequences until the time-base or performance-based restriction is met (vested), then it's considered ordinary income
+* The employer can deduct the cost of the stock as an expense
+* Making a timely 83(b) election converts the ordinary income to capital gains by accelerating the income recognition
+
+### Small Business Financial Statements
+
+A **ratio** is just a comparison of two numbers. Having a single positive ratio isn't a good indicator of financial health if other ratios are negative.  Ratios make it easier to compare companies.
+
+A **profitibality ratio** provide info about the strength and effectiveness of a company's operations. A **profit margin** is the percentage of each dollar of revenue that is left over after all expenses are paid.
+
+> Profit Margin = Net Income / Net Sales Revenue
+
+The **gross profit margin** is the percentage of each dollar of revenue that is left over after the cost of goods sold is paid.  The gross profit margin is only useful for companies that sell products.
+
+> Gross Profit Margin = Gross Profit / Net Sales Revenue = (Net Sales Revenue - Cost of Goods Sold) / Net Sales Revenue
+
+One can compare the profit margin of a compnay across multiple years to see if expenses are rising faster than revenue. CPAs can perform a cost analysis to pinpoint the source (rising expenses, falling revenue, under pricing, etc.).  Rising profits can mask certin problems (lower quality products, lower quality service, etc.).  
+
+Profit margins can also be used to compare companies within the same industry.  Rising margins may point to key strengths (key employees, etc.). Falling margins may point to key weaknesses (bad location, high vendor costs, etc.).
+
+**Expense Ratios** are used to determine how well the company is using its resources. Expense ratios can be compared across multiple years to see if expenses are rising or falling over time.  Individual expenses can also be compared across multiple years.  Variable costs can also be compared to net sales.
+
+> Expense Ratio = Expense / Net Sales
+
+The **current ratio** is a liquidity ratio that shows the company's ability to pay its short-term obligations. Current assets are assets that can be converted to cash within 1 year. Current liabilities are debts that must be paid within 1 year.  Generally, a current ratio of at least 1 is considered healthy.  Less than 1 indicates a need for additional cash.  More than 2 may indicate that the company isn't using extra funds efficiently.
+
+> Current Ratio = Current Assets / Current Liabilities
+
+The **quick ratio** like the current ratio, but assets and liabilities are considered in a shorter term (90 days).  Some liability are more beneficial than others.
+
+The **debt-to-equity ratio** expresses the amount of liability for each dollar of equity.
+
+> Debt-to-Equity Ratio = Total Liabilities / Total Equity
+
+It's helpful to compare balance sheets and income statements across several multiple years.  This can help identify trends over time.  Examples include Revenue vs Income and Expense as part of Income
+
+**Return on Equity (ROE)** measures the average return vs the amount the owner has invested in the company.
+
+> Return on Equity = Net Income / Average Owner' Equity
+
+**Return on Invested Capital (ROIC)** shows the efficiency in allocating capital to provide returns to investors.
+
+> Return on Invested Capital = (Net Income - Distibutions) / Invested Capital
+
+## Specialized Planning
+
+### Diverse Family Structures
+
+The concept of a family has evolved to include unmarried parents, multi-generational family, step families and single parent househoulds.  Managers may need to talk to family members individually and encourage **financial fidelity** (honest communcation about finances).
+
+Married couples can either file jointly or separately.  The **marriage penalty** is a bit of a misnomer and only applicable in certain cases.  In other cases, there are benefits for filing jointly.  A **dependency deduction** CANNOT be taken on a stay-at-home parent.    Married tax payers get a $500,000 exemption when selling their primary residence (as opposed to $250,000 for individuals) if they live in the property in 2 of the last 5 years. An unmarried partner can qualify for a $14,000 adoption credit on the other partner's child, but this does not apply when married.  Unmarried small business owners don't have to consider if their partner qualifies for health insurance at their employer.
+
+Married benefits in retirement:
+* A working spouse can contribute to an IRA on behalf of a non-working spouse
+* After death, the surviving spouse can roll over the IRA to their own IRA
+* Can claim each other's Social Security benefits after death or up to 50% of the working spouse's benefit while alive (this can be 100% if the claiming spouse is caring for a qualified child)
+* **Portability** is using the below 2 rules together:
+  * The **mariatal deduction** allows spouses to leave qualified property to each other free of gift or estate tax
+  * The surviving spouse has access to the unused portion of the deceased spouse's federal estate tax exemption
+* Avoids probate for property not in a will
+* Easier to purchase life insurance on a spouse
+* Has access to military and veterans benefits and COBRA
+* A widowed taxpayer who cares for a dependent child may file as a married taxpayer for up to 2 years
+
+Cons:
+* Debt is considered marital debt
+* Both incomes are considered for financial aid
+
+Unmarried partner options for spousal IRAs after death:
+* Transfer the funds into an inherited IRA beneficiary distribution account (aka non-spousal IRA), subject to minimum required distributions and not subject to early withdrawal penalties
+* The entire IRA must be distributed within 10 years, the beneficiary is taxed on the distribution, not subject to early withdrawal penalties
+* Take the funds in a lump sum distribution, has tax penalties so most attractive for a Roth IRA, subject to early withdrawal penalties
+
+A single person has more limited earning capability and less security than a married person, so disabiity and long-term care insurance are more important. Also, single people with children need to have fully thought-out custody arrangements.  Head of household filing status is available to single parents with children, which has greater tax benefits than single filing status.
+
+Considerations for blended families:
+* Short and long-term financial plans should be created for the new family
+* Children from prior marriages may need to be addressed, including child support (not tax deductible)
+* Review all asset ownership documents, beneficiary designations, trusts, and retirement accounts
+* Estate plans may need to be created for each spouse in order to accommodate the new and previous family
+
+#### Divorce Planning
+
+50% of the population will go through a divorce. Client relationhips can be strengthened during this time.  Gathering financial information can be challenging, though both parties are required to disclose information, which can take time.  States where clients work and reside will have different laws.  The most imporant issues in a divorce are money, property, children and pets.  Most divorces settle out of court. A divorce settlement is difficult to change (except in cases of fraud or mutual agreement), so it's important to get it right.
+
+A divorce planning team consists of a divorce attorney, a CPA, a divorce coach, a mediator, and a financial professional.  Wealth managers need to understand their client's current financial situation and what they want their future situation to look like.  They also need to work with other members of the divorce team.  If the manager worked with the couple, it may be unethical to work with one of the parties.  A maritial cash flow analysis is created to ascertain the maritial financial lifestyle.  A post-divorce cash flow analysis is then created to determine the feasibility of their personal financial goals.  Goals that cannot be met should be modified in some way (either funding or spending).
+
+Property in a divorce is either marital property, community property, or separate property.  40 states follow an equitable distribution model, where the property is divided "fairly" (but not necessarily equally) between the parties. Liabilities typically follow the asset they secure.  Community property is split 50/50 between the parties.  In a divorce, all property is considered marital property unless proven otherwise.  Separate property is property that was owned before the marriage or received as a gift, inheritance, or settlement.  Separate property is not subject to division, though proof of separate property is required.  If separate propery is **comingled** (e.g. retirement accounts, bank accounts, investement accounts) with marital property, it may be subject to division.  **Transmuted property** is property that was separate property but becomes marital property due to the actions of one of the parties (e.g. joint-titling a house after the marriage).
+
+There is marital debt and separate debt. Debt is divided in a divorce similat to assets.  Jointly held debt can be cumbersome to divide. It's advisable to pay off joint debt at the time of the divorce. 
+
+After a divorce, a person can file as single or head of household. The basis on transferred assets carries over to the new owner. Subsequent gains or losses are handled by the new owner. Real estate can be sold and the proceeds divided, or one party can buy out the other or the property can be rented out.  Real estate can become emotionally charged in a divorce.  For jointly titled property that is only occupoed by one part, the other party becomes an investor in the property (and still assumes part of the debt and risk).  Rental property can be sold or split.
+
+Retirement assets can be split, retained, or offset with other assets in a settlement.  The date used to value retirement assets is called the **date of division** or **date of valuation**, which can be the date of the divorce, the date the divorce was finalized, or a date agreed upon by both parties.  The date the assets are split is called the **date of segregation**, which can happen months after the date of division. Valuation of retirement assets needs to account for taxes.
+
+Businesses are considered income, an asset, or both.  Typically, 15% to 30% of the business is given to the non-controlling party, depending on what contributions were made to the business. Hostile spouses don't make good co-owners, so other options should be considered. Business assets can be considered for division.  Business income is considered like any other income. Businesses need to be valued by a certified professional.  Divorce valuations are different from valuations for selling a business.  It's common for a party owning a business with value to buy out the other party, which can be in the form of an offset from another marital asset, a lump sum, or a note to pay over time.  Business with multiple partners typically buy out the non-controlling party.
+
+Term life insurance has no value in a divorce.  Term policies where the spouse is covered in a term rider, only the primary insured can retain the policy.  The cash value in a permanent life insurance policy is considered a marital asset that can be divided, though dividing the cash value may surrender the policy.  Like a term policy, the primary insured is the only person who can retain the policy.  Older couples may have survivorship or a second-to-die policy require cafeful consideration. A spouse responsible for child support will need a life insurance policy to cover the child support payments. Transferring the ownership of a policy could trigger a **transfer-for-value tax**. **26 U.S. Code § 1041** states transfers to a spouse incident to a divorce are not taxable. 
+
+Couples who divorce over the age of 50 are called a **gray divorce**. These couples are more likely to have significant assets with grown children.  Considerations for gray divorce:
+* How long will it take to recuperate from the divorce and how with this affect their retirement age?
+* The amount and duration of alimony payments
+* The possibility of work for the non-working spouse
+* Health issues
+* Social Security and Medicare benefits
+
+A divorce can have an impact on the client's credit score since long-held joint accounts may be closed and new credit may be obtained (inquiries). Authorized users on credit accounts may negatively impacted the primary account holder's credit score.
+
+The previous provider of medical insurance typically is responsible for providing coverage for the children. The non-working spouse will need to obtain coverage, COBRA is available up to 36 months after the divorce. Married couples of at least 10 years can receive Medicare benefits regardless of the work-history of one of the spouses.
+
+Someone married for at least 10 years that does not remarry, is 62, and is divorced for at least 2 years can claim Social Security on their ex-spouse's record. The ex-spouse does not need to have claimed benefits for the other spouse to claim benefits. 
+
+Custodial accounts for children are divisible as marital property except for UTMA or UGMA accounts, though they may wish to keep the accounts in tact for the benefit of the child. Transfers in some 529 plans can be considered a distribution and subject to taxes and penalties.  The parent who provides a majority of the financial support for the child is responsible for completing the FASFA. Forparents that split financial responsibility, the one with the greater income is responsible for completing the FASFA.  Divorced parents living together are effectively considered marries for the FASFA.  Separated parents living separately are not considered married for the FASFA.
+
+Alimony (aka maintenance) is typically paid to the lower income spouse.  Alimony can be bought out as a single lump sum. Payments are not deductable from taxable income, and payments aren't included in taxable income.
+
+The death of divorced parents may result in assets being transferred to a special needs child, which may cause the child to lose their benefits. Specail needs planning is important in this case.  Special needs trusts survive past a divorce.
+
+Estate planning documents and beneficiary designations should be reviewed after a divorce. 
+
+#### Special Needs Planning
+
+Questions to ask a client who is or has a special needs concern:
+* How to pay for medical care for the rest of their life?
+* What will happen if their condition worsens?
+* Are they eligible for government benefits?
+
+Wealth managers help plan for current and future expenses and devise a plan using all available resources.  The best special needs planning is based on creating a life plan, not just a financial plan.
+
+Planning for a disabled individual:
+* Ensure the caregiver is fully protected by evaluating their health, disability and long-term care insurance
+* Inventory all resources available including health and disability insurance, settlements or legal claims, long-term care insurance,  and HSAs
+* Evaluate public benefits including SSDI, SSI, and Medicaid, which may require low income thresholds that can be overcome using special needs trusts.  Direct transfers out of a disabled individual's name are risky, potentially illegal, and ineffective since Medicaid has a 60 month **lookback period**.
+
+A **special needs trust** allows a disabled person to access additional resources and still remain eligible for public benefits. Special needs trusts can be self-funded (aka first-party trusts, from the disabled person) or via third-party supplemental special needs trusts.  The special needs person is the sole beneficiary. Distributions from speical needs trusts are used to improve the quality of life of the disabled person since public benefits cover medical needs.  The trustee makes discretionary distributions for the beneficiary.  Tax implications and requirements vary by state.
+
+First-party trusts are best for receiving personal property, inheritances, legal settlements, or income payments while avoiding disqualification from Medicaid.  When the disabled person dies, the assets are distributed to the Medicaid (called the **pay back**) first to cover the costs of care, while the remaining assets are distributed to the estate.
+
+a **pooled special needs trust** are created and adminstered by nonprofit organizations to benefit several disabled people.  While there is no Medicaid pay back, the remaining assets remain in the trust.  They are most appropriate for low asset individuals since administrative costs are lower due to pooled expenses.
+
+**Joint accounts** or **custodial accounts** are easier to set up and administer than special needs trusts. These accounts are established between a caregiver and a disabled person.  The caregiver funds the account.  UGMA or UTMA funds are not included in Medicaid resource determination.  The funds are transferred to the child when they reaches majority, triggering income tax.
+
+The **ABLE Act** allows for the creation of ABLE accounts for individuals with disabilities.  An **ABLE account** is opened on behalf of a special needs person. Funds are not included in Medicaid resource determination. Earned income is tax free and distributions are not subject to income tax as long as they are used for qualified expenses. Unqualified expenses are subject to a 10% penalty. Annual contributions are capped. Special needs persons only qualify for ABL accounts if they were disbabled before the age of 26.  Account values are capped the same amounts as 529 plans.  Values over $100,000 may disqualify them for SSI benefits.  An ABLE account can be opened in states other than the state of residence.  ABLE accounts are funder with after tax dollars.
+
+Disinheriting the speciall needs person in favor of the caregiver is not advised since there are no guarantees in place. There are tax credits and deductions available for families with special needs children, including the dependency exemption, child tax credit, and dependent care credit.  The disabled person can use the impairment related work expense deduction, earned income tax credit, and adoption credit for adoption of a child with special needs.  Any individual permanently or totally disabled within the year is qualified.  Qualified relatives have income limits while qualified children do not.  Conversly, there is a residency test for qualified children that does not exist for qualified relatives.  Medical expense deductions can be used for unreimbursed medical costs, costs for a special needs school, and costs to attend medical conferences and seminars related to the disability, though they may be subject to phase out limitations, AGI floors/caps, timing restrictions, and other limitations.
 

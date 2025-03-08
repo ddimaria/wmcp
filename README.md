@@ -14,8 +14,8 @@ This course is the second of three in the Wealth Management Certified Profession
 
 [Read Notes](wmcp-361/README.md)
 
-## WMCP362: Introduction to Goal-Based Planning
+## WMCP362: Strategic Wealth Management
 
-This course is the third of three in the Wealth Management Certified Professional (WMCP) program. The goal of this course is to evaluate the role of taxes on portfolio and wealth management decisions.
+This course is the third of three in the Wealth Management Certified Professional (WMCP) program. The goal of this course is to learn about tax planning, retirement accounts, asset management, education funding, estate planning, and business strategies. Students will learn to provide comprehensive wealth management across their clients' life stages.
 
 [Read Notes](wmcp-362/README.md)
