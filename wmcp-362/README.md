@@ -95,7 +95,7 @@ The marginal tax rate is the tax rate on the last dollar of income.  Knowing thi
 
 The Effective Tax Rate is the tax rate on the total taxable income, which is total tax owed divided by total income.  This rate is important for understanding the overall tax burden and comparing tax rates across different income levels.
 
-> Effective Tax Rate = (Total Tax Owed) / (Total Income)
+ > Effective Tax Rate = (Total Tax Owed) / (Total Income)
 
 Increasing a client's AGI can increase their tax liability.
 
@@ -103,7 +103,7 @@ In addition to tax returns, managers should review account statements and tax pl
 
 #### Income Shifting
 
-Income shifting is the practice of transferring income from high-tax payers to low-tax payers within the same household to reduce the overall tax liability.  This does not work with passive investments involvingchildren or full time college students due to the "kiddie tax", which taxes children's income at the parents' marginal tax rate at amounts greater than $2,600.
+Income shifting is the practice of transferring income from high-tax payers to low-tax payers within the same household to reduce the overall tax liability.  This does not work with passive investments involving children or full time college students due to the "kiddie tax", which taxes children's income at the parents' marginal tax rate at amounts greater than $2,600.
 
 #### Capital Gains
 
@@ -142,7 +142,7 @@ Example 2: Sale of a  § 1245 property for $1,350,000, purchased a year ago for 
 
 Capital gains appear on **Schedule D** of the tax return.  The **capital-loss carryover** is used to offset capital gains in future years (like for roth conversions).  **Capital-gain distributions** from investments (e.g. mutual funds) are passed along to shareholders.
 
-Converting ordinary income to capital gains is a primary tax planning strategy for high income clients. One techique is recieving compensation in the form of equity, stock options, and restricted stock.  Another strategy is to hold onto assets for at least a year.  A client can also convert intereset income to qualified dividends, which are taxed at lower rates.
+Converting ordinary income to capital gains is a primary tax planning strategy for high income clients. One techique is recieving compensation in the form of equity, stock options, and restricted stock.  Another strategy is to hold onto assets for at least a year.  A client can also convert interest income to qualified dividends, which are taxed at lower rates.
 
 Qualified dividends are paid out as earnings are taxed as ordinary income, but are taxed as capital gains.
 
@@ -160,7 +160,7 @@ For tax planning, it's important to understand the 3 different types of tax rate
 
 1. Capital-gains tax: capital gains rates increase as income increase
 1. Alternative minimum tax (AMT): a separate tax calculation that may apply to certain taxpayers, particularly those with complex financial situations.  Higher income taxpayers may want to accelerate income to go from the 37% bracket to the 28% AMT rate.
-1. State Income Tax Brackets: vary by state and are generally increase as income increase.
+1. State Income Tax Brackets: vary by state and are generally increased as income increases.
 1. Itemized deductions: some deductions are phased out for higher income taxpayers.
 1. Net investment income tax: applies to investment income if AGI/MAGI is over $200,000 for singles ($250,000 for married couples).  IRA income above the threshold can make capital gains subject to this tax.
 1. IRMAA (Initial Retirement Monthly Amount): based on 4 different thresholds of MAGI that involves adding back tax-exempt interest back to AGI.
@@ -195,7 +195,7 @@ Tax gain harvesting is the practice of selling assets at a gain to offset capita
 
 #### Qualified Business Income Deduction
 
-The qualified business income deduction allows business owners to deduct 20% of their qualified business income from their taxable income.  This deduction is available for individuals, estates, and trusts.  The deduction starts to phase out for taxpayers with MAGI over $200,000 for singles and $400,000 for married couples, and is fully phased out for taxpayers with MAGI over $150,000 for singles and $300,000 for married couples.  The deduction is also phased out for **Specified Service Businesses**.
+The qualified business income deduction allows business owners to deduct 20% of their qualified business income from their taxable income.  This deduction is available for individuals, estates, and trusts.  The deduction starts to phase out for taxpayers with MAGI over $191,000 for singles and $383,000 for married couples, and is fully phased out for taxpayers with MAGI over $241,000 for singles and $483,000 for married couples.  The deduction is also phased out for **Specified Service Businesses**.
 
 ### Taxation of Social Security
 
@@ -255,7 +255,7 @@ Form 709 is required to be filed if a taxable gift is made.
 
 Exclusions:
 * Annual gift tax exclusion: can be applied to each donee (e.g. spouse), called **gift splitting**.  529 plan contributions can be made at 5x the exclusion amount.
-* Qualifite gifts: tuition or medical expenses and must be paid directly to the institution or provider.
+* Qualified gifts: tuition or medical expenses and must be paid directly to the institution or provider.
 
 Deductions:
 * Marital deduction: a gift to a spouse is deductible and is unlimited.
@@ -266,11 +266,11 @@ Taxable gifts and taxable estate transfers are combined to determine the **unifi
 
 Donors should file returns even when the taxable status is uncertain since donee receives a 3 year statute of limitations on the IRS examining the gift.
 
-When gifting real estate, it's best to do it with property with high appreciation potential.  If the property has appreciated, then it's best to after death so that the donee can receive a step-up in basis, otherwise the donee will be subject to capital gains tax on the appreciation.  For losses, it's best to do it before death so that the donor can take a loss on the sale of the property since the loss doesn't transfer to the donee after death.  Gifting property that is secured by a loan can cause tax problems for the donor.
+When gifting real estate, it's best to do it with property with high appreciation potential.  If the property has appreciated, then it's best to donate after death so that the donee can receive a step-up in basis, otherwise the donee will be subject to capital gains tax on the appreciation.  For losses, it's best to do it before death so that the donor can take a loss on the sale of the property since the loss doesn't transfer to the donee after death.  Gifting property that is secured by a loan can cause tax problems for the donor.
 
 #### Death and Taxes
 
-The federal estate tax applies to only the top 1/2 of 1% of people.  The exemption shelteres 11 million for singles and 22 million for married couples (indexed for inflation).  Issues concerning property situs and domicile are important to consider when planning for estate tax after death.
+The federal estate tax applies to only the top 1/2 of 1% of people.  The exemption shelteres $11 million for singles and $22 million for married couples (indexed for inflation).  Issues concerning property situs and domicile are important to consider when planning for estate tax after death.
 
 States vary in their estate tax laws, though less than 1/2 of states have their own estate tax.  The state of domicile dictates probate laws and estate tax laws.
 
@@ -285,7 +285,7 @@ Tax sheltering is the practice of reducing taxable income by taking advantage of
 
 Realized gains and losses are taxed at the ordinary income tax rate if held for less than a year and at the capital gains tax rate if held for more than a year.  Unrealized gains and losses are not taxed and are a form of tax sheltering if client's sell the asset in a year of a lower tax rate than the year the asset was purchased.  
 
-Tax sheltered accounts can help client's avoid withthdrawls since they are earmarked for specific purposes and have a 10% penalty for early withdrawals (like a lock box).  There are also pshcyholgical costs to withdrawing from tax sheltered accounts.  In behavioral finance theory, the lock box is a **commitment device** that helps the client avoid withdrawing from the account.  Realizing gains in a tax sheltered account do not create a taxable event.
+Tax sheltered accounts can help client's avoid withthdrawls since they are earmarked for specific purposes and have a 10% penalty for early withdrawals (like a lock box).  There are also pshcyholgical costs to withdrawing from tax sheltered accounts.  In behavioral finance theory, the lock box is a **commitment device** that helps the client avoid withdrawing from the account.  Realizing gains in a tax sheltered account does not create a taxable event.
 
 Tax sheltering risks include:
 * Senstitive to tax law changes
@@ -299,7 +299,7 @@ Tax sheltering benefits include:
 * Having lower losses due to tax increases goal success
 
 Types of tax sheltered accounts:
-* Tax-deferred accounts (tax is deferred until withdrawal): 401(k), IRA, Roth IRA, 403(b), 457(b)
+* Tax-deferred accounts (tax is deferred until withdrawal): 401(k), IRA, 403(b), 457(b)
 * Tax-exempt accounts (tax is paid ahead of time): Roth IRA, Roth 401(k), Roth 403(b), Roth 457(b)
 * HSA (health savings account): tax-free contributions and withdrawals, tax-deferred earnings, tax-free withdrawals for qualified medical expenses
 * Real estate: increase in value is unrealized, and an exemption applies to the gain when the property is sold
